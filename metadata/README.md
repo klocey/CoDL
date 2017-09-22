@@ -1,5 +1,5 @@
 # CoDL/metadata
-Code for for formatting, cleaning, and summarizing the metadata for CoDL projects. To run, update the sIODir variable in scripts/main.sh to point to the CoDLMetdata directory and run the following command: 
+Code for for formatting, cleaning, and summarizing the metadata for CoDL projects. To run, update the sIODir variable in scripts/main.sh to point to the CoDL/metadata directory and run the following command: 
 
 <pre><code>
 bash scripts/main.sh
