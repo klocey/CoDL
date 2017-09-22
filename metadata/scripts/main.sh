@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sIODir=/home/jladau/Desktop/Research/Java/Distribution/CoDL
+sIODir=/home/jladau/Desktop/Research/Java/Distribution/CoDL/metadata
 sJavaDir=$sIODir/bin
 
 mkdir -p $sIODir/formatted_metadata
