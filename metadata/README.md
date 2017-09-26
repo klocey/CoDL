@@ -8,6 +8,8 @@ bash scripts/main.sh
 Formatted output is in the formatted_metadata directory.
 
 ## Dependencies
+The shell scripts were written to call GNU coreutils version 8.25-2ubuntu3~16.04, and hence may not run on Mac OS. 
+
 This software requires Java Runtime Environment (JRE) version 1.6 or greater. On many Apple systems, even if JRE 1.6 or greater is installed, the default version for running applications may be 1.5. The Java version can be checked by typing 'java -version' into a terminal. If an updated version is installed but is not being used, a few updates will need to be made; namely you might try typing the following commands in a terminal:
 
 <pre><code>
