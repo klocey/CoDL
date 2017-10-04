@@ -2,8 +2,8 @@
 
 #This script outputs a table of the metadata that are useful that are reasonably minimal
 
-sIODir=/home/jladau/Desktop/current-projects/codl/metadata
-sJavaDir=/home/jladau/Desktop/Research/Java
+sIODir=$1
+sJavaDir=$2
 
 cd $sIODir
 

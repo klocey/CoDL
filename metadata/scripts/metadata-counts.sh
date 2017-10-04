@@ -2,8 +2,8 @@
 
 #This script tallies the metadata that has been entered for each project
 
-sIODir=/home/jladau/Desktop/current-projects/codl/metadata
-sJavaDir=/home/jladau/Desktop/Research/Java
+sIODir=$1
+sJavaDir=$2
 
 cd $sIODir
 
