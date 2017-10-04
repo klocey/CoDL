@@ -15206,9 +15206,6 @@ DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,dna_quantitation,null
 DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,dna_region,v6v4
 DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,domain,Bacteria
 DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,elevation,null
-DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,env_biome,null
-DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,env_feature,null
-DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,env_material,null
 DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,env_package,null
 DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,enzyme_activities,null
 DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,feature_secondary,null
@@ -15303,9 +15300,6 @@ DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,dna_quantitation,null
 DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,dna_region,v6v4
 DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,domain,Bacteria
 DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,elevation,null
-DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,env_biome,null
-DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,env_feature,null
-DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,env_material,null
 DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,env_package,null
 DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,enzyme_activities,null
 DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,feature_secondary,null
@@ -17159,9 +17153,6 @@ DCO_TIA2,DCO_TIA2_Bv4v5--A301GC,adapter_sequence,NNNNTACGC
 DCO_TIA2,DCO_TIA2_Bv4v5--A301GC,collection_date,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A301GC,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Bv4v5--A301GC,domain,Bacteria
-DCO_TIA2,DCO_TIA2_Bv4v5--A301GC,env_biome,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A301GC,env_feature,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A301GC,env_material,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A301GC,env_package,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A301GC,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A301GC,illumina_index,GCCAAT
@@ -17175,9 +17166,6 @@ DCO_TIA2,DCO_TIA2_Bv4v5--A301MO,adapter_sequence,NNNNCGACG
 DCO_TIA2,DCO_TIA2_Bv4v5--A301MO,collection_date,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A301MO,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Bv4v5--A301MO,domain,Bacteria
-DCO_TIA2,DCO_TIA2_Bv4v5--A301MO,env_biome,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A301MO,env_feature,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A301MO,env_material,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A301MO,env_package,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A301MO,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A301MO,illumina_index,ACAGTG
@@ -17191,9 +17179,6 @@ DCO_TIA2,DCO_TIA2_Bv4v5--A302MO,adapter_sequence,NNNNCTACT
 DCO_TIA2,DCO_TIA2_Bv4v5--A302MO,collection_date,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A302MO,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Bv4v5--A302MO,domain,Bacteria
-DCO_TIA2,DCO_TIA2_Bv4v5--A302MO,env_biome,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A302MO,env_feature,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A302MO,env_material,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A302MO,env_package,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A302MO,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A302MO,illumina_index,ACAGTG
@@ -17207,9 +17192,6 @@ DCO_TIA2,DCO_TIA2_Bv4v5--A303GC,adapter_sequence,NNNNACTGC
 DCO_TIA2,DCO_TIA2_Bv4v5--A303GC,collection_date,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A303GC,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Bv4v5--A303GC,domain,Bacteria
-DCO_TIA2,DCO_TIA2_Bv4v5--A303GC,env_biome,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A303GC,env_feature,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A303GC,env_material,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A303GC,env_package,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A303GC,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A303GC,illumina_index,ACAGTG
@@ -17223,9 +17205,6 @@ DCO_TIA2,DCO_TIA2_Bv4v5--A501GC,adapter_sequence,NNNNGTCAC
 DCO_TIA2,DCO_TIA2_Bv4v5--A501GC,collection_date,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A501GC,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Bv4v5--A501GC,domain,Bacteria
-DCO_TIA2,DCO_TIA2_Bv4v5--A501GC,env_biome,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A501GC,env_feature,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A501GC,env_material,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A501GC,env_package,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A501GC,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A501GC,illumina_index,ACAGTG
@@ -17239,9 +17218,6 @@ DCO_TIA2,DCO_TIA2_Bv4v5--A501MO,adapter_sequence,NNNNTACGC
 DCO_TIA2,DCO_TIA2_Bv4v5--A501MO,collection_date,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A501MO,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Bv4v5--A501MO,domain,Bacteria
-DCO_TIA2,DCO_TIA2_Bv4v5--A501MO,env_biome,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A501MO,env_feature,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A501MO,env_material,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A501MO,env_package,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A501MO,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A501MO,illumina_index,ACAGTG
@@ -17255,9 +17231,6 @@ DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,adapter_sequence,NNNNCGACG
 DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,collection_date,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,domain,Bacteria
-DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,env_biome,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,env_feature,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,env_material,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,env_package,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,illumina_index,GCCAAT
@@ -17271,9 +17244,6 @@ DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,adapter_sequence,NNNNGACAG
 DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,collection_date,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,domain,Bacteria
-DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,env_biome,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,env_feature,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,env_material,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,env_package,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,illumina_index,ACAGTG
@@ -17287,9 +17257,6 @@ DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,adapter_sequence,NNNNTGACT
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,collection_date,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,domain,Bacteria
-DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,env_biome,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,env_feature,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,env_material,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,env_package,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,illumina_index,ACAGTG
@@ -17303,9 +17270,6 @@ DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,adapter_sequence,NNNNATGCT
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,collection_date,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,domain,Bacteria
-DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,env_biome,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,env_feature,null
-DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,env_material,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,env_package,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,illumina_index,ACAGTG
@@ -17319,9 +17283,6 @@ DCO_TIA2,DCO_TIA2_Av4v5--A301GC,adapter_sequence,NNNNTCGAG
 DCO_TIA2,DCO_TIA2_Av4v5--A301GC,collection_date,null
 DCO_TIA2,DCO_TIA2_Av4v5--A301GC,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Av4v5--A301GC,domain,Archaea
-DCO_TIA2,DCO_TIA2_Av4v5--A301GC,env_biome,null
-DCO_TIA2,DCO_TIA2_Av4v5--A301GC,env_feature,null
-DCO_TIA2,DCO_TIA2_Av4v5--A301GC,env_material,null
 DCO_TIA2,DCO_TIA2_Av4v5--A301GC,env_package,null
 DCO_TIA2,DCO_TIA2_Av4v5--A301GC,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Av4v5--A301GC,illumina_index,ACGACT
@@ -17335,9 +17296,6 @@ DCO_TIA2,DCO_TIA2_Av4v5--A301MO,adapter_sequence,NNNNTAGTG
 DCO_TIA2,DCO_TIA2_Av4v5--A301MO,collection_date,null
 DCO_TIA2,DCO_TIA2_Av4v5--A301MO,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Av4v5--A301MO,domain,Archaea
-DCO_TIA2,DCO_TIA2_Av4v5--A301MO,env_biome,null
-DCO_TIA2,DCO_TIA2_Av4v5--A301MO,env_feature,null
-DCO_TIA2,DCO_TIA2_Av4v5--A301MO,env_material,null
 DCO_TIA2,DCO_TIA2_Av4v5--A301MO,env_package,null
 DCO_TIA2,DCO_TIA2_Av4v5--A301MO,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Av4v5--A301MO,illumina_index,TGCTCG
@@ -17351,9 +17309,6 @@ DCO_TIA2,DCO_TIA2_Av4v5--A302MO,adapter_sequence,NNNNATACG
 DCO_TIA2,DCO_TIA2_Av4v5--A302MO,collection_date,null
 DCO_TIA2,DCO_TIA2_Av4v5--A302MO,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Av4v5--A302MO,domain,Archaea
-DCO_TIA2,DCO_TIA2_Av4v5--A302MO,env_biome,null
-DCO_TIA2,DCO_TIA2_Av4v5--A302MO,env_feature,null
-DCO_TIA2,DCO_TIA2_Av4v5--A302MO,env_material,null
 DCO_TIA2,DCO_TIA2_Av4v5--A302MO,env_package,null
 DCO_TIA2,DCO_TIA2_Av4v5--A302MO,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Av4v5--A302MO,illumina_index,TGCTCG
@@ -17367,9 +17322,6 @@ DCO_TIA2,DCO_TIA2_Av4v5--A303GC,adapter_sequence,NNNNAGTGT
 DCO_TIA2,DCO_TIA2_Av4v5--A303GC,collection_date,null
 DCO_TIA2,DCO_TIA2_Av4v5--A303GC,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Av4v5--A303GC,domain,Archaea
-DCO_TIA2,DCO_TIA2_Av4v5--A303GC,env_biome,null
-DCO_TIA2,DCO_TIA2_Av4v5--A303GC,env_feature,null
-DCO_TIA2,DCO_TIA2_Av4v5--A303GC,env_material,null
 DCO_TIA2,DCO_TIA2_Av4v5--A303GC,env_package,null
 DCO_TIA2,DCO_TIA2_Av4v5--A303GC,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Av4v5--A303GC,illumina_index,TGCTCG
@@ -17383,9 +17335,6 @@ DCO_TIA2,DCO_TIA2_Av4v5--A501GC,adapter_sequence,NNNNATAGT
 DCO_TIA2,DCO_TIA2_Av4v5--A501GC,collection_date,null
 DCO_TIA2,DCO_TIA2_Av4v5--A501GC,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Av4v5--A501GC,domain,Archaea
-DCO_TIA2,DCO_TIA2_Av4v5--A501GC,env_biome,null
-DCO_TIA2,DCO_TIA2_Av4v5--A501GC,env_feature,null
-DCO_TIA2,DCO_TIA2_Av4v5--A501GC,env_material,null
 DCO_TIA2,DCO_TIA2_Av4v5--A501GC,env_package,null
 DCO_TIA2,DCO_TIA2_Av4v5--A501GC,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Av4v5--A501GC,illumina_index,TGCTCG
@@ -17399,9 +17348,6 @@ DCO_TIA2,DCO_TIA2_Av4v5--A501MO,adapter_sequence,NNNNTCGAG
 DCO_TIA2,DCO_TIA2_Av4v5--A501MO,collection_date,null
 DCO_TIA2,DCO_TIA2_Av4v5--A501MO,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Av4v5--A501MO,domain,Archaea
-DCO_TIA2,DCO_TIA2_Av4v5--A501MO,env_biome,null
-DCO_TIA2,DCO_TIA2_Av4v5--A501MO,env_feature,null
-DCO_TIA2,DCO_TIA2_Av4v5--A501MO,env_material,null
 DCO_TIA2,DCO_TIA2_Av4v5--A501MO,env_package,null
 DCO_TIA2,DCO_TIA2_Av4v5--A501MO,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Av4v5--A501MO,illumina_index,TGCTCG
@@ -17415,9 +17361,6 @@ DCO_TIA2,DCO_TIA2_Av4v5--A502GCA,adapter_sequence,NNNNTAGTG
 DCO_TIA2,DCO_TIA2_Av4v5--A502GCA,collection_date,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502GCA,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Av4v5--A502GCA,domain,Archaea
-DCO_TIA2,DCO_TIA2_Av4v5--A502GCA,env_biome,null
-DCO_TIA2,DCO_TIA2_Av4v5--A502GCA,env_feature,null
-DCO_TIA2,DCO_TIA2_Av4v5--A502GCA,env_material,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502GCA,env_package,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502GCA,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502GCA,illumina_index,ACGACT
@@ -17431,9 +17374,6 @@ DCO_TIA2,DCO_TIA2_Av4v5--A502GCB,adapter_sequence,NNNNCGAGT
 DCO_TIA2,DCO_TIA2_Av4v5--A502GCB,collection_date,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502GCB,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Av4v5--A502GCB,domain,Archaea
-DCO_TIA2,DCO_TIA2_Av4v5--A502GCB,env_biome,null
-DCO_TIA2,DCO_TIA2_Av4v5--A502GCB,env_feature,null
-DCO_TIA2,DCO_TIA2_Av4v5--A502GCB,env_material,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502GCB,env_package,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502GCB,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502GCB,illumina_index,TGCTCG
@@ -17447,9 +17387,6 @@ DCO_TIA2,DCO_TIA2_Av4v5--A502MO,adapter_sequence,NNNNACTCG
 DCO_TIA2,DCO_TIA2_Av4v5--A502MO,collection_date,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502MO,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Av4v5--A502MO,domain,Archaea
-DCO_TIA2,DCO_TIA2_Av4v5--A502MO,env_biome,null
-DCO_TIA2,DCO_TIA2_Av4v5--A502MO,env_feature,null
-DCO_TIA2,DCO_TIA2_Av4v5--A502MO,env_material,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502MO,env_package,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502MO,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502MO,illumina_index,TGCTCG
@@ -17463,9 +17400,6 @@ DCO_TIA2,DCO_TIA2_Av4v5--A502MOB,adapter_sequence,NNNNCGCGA
 DCO_TIA2,DCO_TIA2_Av4v5--A502MOB,collection_date,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502MOB,dna_region,v4v5
 DCO_TIA2,DCO_TIA2_Av4v5--A502MOB,domain,Archaea
-DCO_TIA2,DCO_TIA2_Av4v5--A502MOB,env_biome,null
-DCO_TIA2,DCO_TIA2_Av4v5--A502MOB,env_feature,null
-DCO_TIA2,DCO_TIA2_Av4v5--A502MOB,env_material,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502MOB,env_package,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502MOB,geo_loc_name,null
 DCO_TIA2,DCO_TIA2_Av4v5--A502MOB,illumina_index,TGCTCG
@@ -18303,7 +18237,6 @@ DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,dna_region,v6
 DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,domain,Archaea
 DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,elevation,36
 DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,env_biome,"terrestrial biome"
-DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,env_feature,null
 DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,env_material,water
 DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,env_package,water
 DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,enzyme_activities,null
@@ -18403,7 +18336,6 @@ DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,dna_region,v6
 DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,domain,Archaea
 DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,elevation,36
 DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,env_biome,"terrestrial biome"
-DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,env_feature,null
 DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,env_material,water
 DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,env_package,water
 DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,enzyme_activities,null
@@ -18503,7 +18435,6 @@ DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,dna_region,v6
 DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,domain,Archaea
 DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,elevation,36
 DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,env_biome,"terrestrial biome"
-DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,env_feature,null
 DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,env_material,water
 DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,env_package,water
 DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,enzyme_activities,null
@@ -18603,7 +18534,6 @@ DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,dna_region,v6
 DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,domain,Archaea
 DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,elevation,809
 DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,env_biome,"terrestrial biome"
-DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,env_feature,null
 DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,env_material,water
 DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,env_package,water
 DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,enzyme_activities,null
@@ -18703,7 +18633,6 @@ DCO_TCO,DCO_TCO_Av6--FI88FW031012,dna_region,v6
 DCO_TCO,DCO_TCO_Av6--FI88FW031012,domain,Archaea
 DCO_TCO,DCO_TCO_Av6--FI88FW031012,elevation,840
 DCO_TCO,DCO_TCO_Av6--FI88FW031012,env_biome,"terrestrial biome"
-DCO_TCO,DCO_TCO_Av6--FI88FW031012,env_feature,null
 DCO_TCO,DCO_TCO_Av6--FI88FW031012,env_material,water
 DCO_TCO,DCO_TCO_Av6--FI88FW031012,env_package,water
 DCO_TCO,DCO_TCO_Av6--FI88FW031012,enzyme_activities,null
@@ -18803,7 +18732,6 @@ DCO_TCO,DCO_TCO_Av6--MM51940FW200712,dna_region,v6
 DCO_TCO,DCO_TCO_Av6--MM51940FW200712,domain,Archaea
 DCO_TCO,DCO_TCO_Av6--MM51940FW200712,elevation,-511
 DCO_TCO,DCO_TCO_Av6--MM51940FW200712,env_biome,"terrestrial biome"
-DCO_TCO,DCO_TCO_Av6--MM51940FW200712,env_feature,null
 DCO_TCO,DCO_TCO_Av6--MM51940FW200712,env_material,water
 DCO_TCO,DCO_TCO_Av6--MM51940FW200712,env_package,water
 DCO_TCO,DCO_TCO_Av6--MM51940FW200712,enzyme_activities,null
@@ -18903,7 +18831,6 @@ DCO_TCO,DCO_TCO_Av6--NO14FW130912,dna_region,v6
 DCO_TCO,DCO_TCO_Av6--NO14FW130912,domain,Archaea
 DCO_TCO,DCO_TCO_Av6--NO14FW130912,elevation,-1115
 DCO_TCO,DCO_TCO_Av6--NO14FW130912,env_biome,"terrestrial biome"
-DCO_TCO,DCO_TCO_Av6--NO14FW130912,env_feature,null
 DCO_TCO,DCO_TCO_Av6--NO14FW130912,env_material,water
 DCO_TCO,DCO_TCO_Av6--NO14FW130912,env_package,water
 DCO_TCO,DCO_TCO_Av6--NO14FW130912,enzyme_activities,null
@@ -19002,9 +18929,6 @@ DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,dna_quantitation,null
 DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,dna_region,v6
 DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,domain,Archaea
 DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,elevation,null
-DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,env_biome,null
-DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,env_feature,null
-DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,env_material,null
 DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,env_package,null
 DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,enzyme_activities,null
 DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,feature_secondary,null
@@ -22456,7 +22380,6 @@ DCO_SYL,DCO_SYL_Bv6v4--Aurora_blank,dna_quantitation,null
 DCO_SYL,DCO_SYL_Bv6v4--Aurora_blank,dna_region,v6v4
 DCO_SYL,DCO_SYL_Bv6v4--Aurora_blank,domain,Bacteria
 DCO_SYL,DCO_SYL_Bv6v4--Aurora_blank,elevation,null
-DCO_SYL,DCO_SYL_Bv6v4--Aurora_blank,env_biome,null
 DCO_SYL,DCO_SYL_Bv6v4--Aurora_blank,env_feature,borehole
 DCO_SYL,DCO_SYL_Bv6v4--Aurora_blank,env_material,water
 DCO_SYL,DCO_SYL_Bv6v4--Aurora_blank,env_package,water
@@ -22634,9 +22557,6 @@ DCO_SAR,DCO_SAR_Bv4v5--A1_,adapter_sequence,NNNNACTGC
 DCO_SAR,DCO_SAR_Bv4v5--A1_,collection_date,null
 DCO_SAR,DCO_SAR_Bv4v5--A1_,dna_region,v4v5
 DCO_SAR,DCO_SAR_Bv4v5--A1_,domain,Bacteria
-DCO_SAR,DCO_SAR_Bv4v5--A1_,env_biome,null
-DCO_SAR,DCO_SAR_Bv4v5--A1_,env_feature,null
-DCO_SAR,DCO_SAR_Bv4v5--A1_,env_material,null
 DCO_SAR,DCO_SAR_Bv4v5--A1_,env_package,extreme_habitat
 DCO_SAR,DCO_SAR_Bv4v5--A1_,geo_loc_name,null
 DCO_SAR,DCO_SAR_Bv4v5--A1_,illumina_index,CGATGT
@@ -22648,9 +22568,6 @@ DCO_SAR,DCO_SAR_Bv4v5--A2_,adapter_sequence,NNNNGTCAC
 DCO_SAR,DCO_SAR_Bv4v5--A2_,collection_date,null
 DCO_SAR,DCO_SAR_Bv4v5--A2_,dna_region,v4v5
 DCO_SAR,DCO_SAR_Bv4v5--A2_,domain,Bacteria
-DCO_SAR,DCO_SAR_Bv4v5--A2_,env_biome,null
-DCO_SAR,DCO_SAR_Bv4v5--A2_,env_feature,null
-DCO_SAR,DCO_SAR_Bv4v5--A2_,env_material,null
 DCO_SAR,DCO_SAR_Bv4v5--A2_,env_package,extreme_habitat
 DCO_SAR,DCO_SAR_Bv4v5--A2_,geo_loc_name,null
 DCO_SAR,DCO_SAR_Bv4v5--A2_,illumina_index,CGATGT
@@ -22662,9 +22579,6 @@ DCO_SAR,DCO_SAR_Bv4v5--A3_,adapter_sequence,NNNNGACAG
 DCO_SAR,DCO_SAR_Bv4v5--A3_,collection_date,null
 DCO_SAR,DCO_SAR_Bv4v5--A3_,dna_region,v4v5
 DCO_SAR,DCO_SAR_Bv4v5--A3_,domain,Bacteria
-DCO_SAR,DCO_SAR_Bv4v5--A3_,env_biome,null
-DCO_SAR,DCO_SAR_Bv4v5--A3_,env_feature,null
-DCO_SAR,DCO_SAR_Bv4v5--A3_,env_material,null
 DCO_SAR,DCO_SAR_Bv4v5--A3_,env_package,extreme_habitat
 DCO_SAR,DCO_SAR_Bv4v5--A3_,geo_loc_name,null
 DCO_SAR,DCO_SAR_Bv4v5--A3_,illumina_index,CGATGT
@@ -22676,9 +22590,6 @@ DCO_SAR,DCO_SAR_Bv4v5--A4_,adapter_sequence,NNNNATGCT
 DCO_SAR,DCO_SAR_Bv4v5--A4_,collection_date,null
 DCO_SAR,DCO_SAR_Bv4v5--A4_,dna_region,v4v5
 DCO_SAR,DCO_SAR_Bv4v5--A4_,domain,Bacteria
-DCO_SAR,DCO_SAR_Bv4v5--A4_,env_biome,null
-DCO_SAR,DCO_SAR_Bv4v5--A4_,env_feature,null
-DCO_SAR,DCO_SAR_Bv4v5--A4_,env_material,null
 DCO_SAR,DCO_SAR_Bv4v5--A4_,env_package,extreme_habitat
 DCO_SAR,DCO_SAR_Bv4v5--A4_,geo_loc_name,null
 DCO_SAR,DCO_SAR_Bv4v5--A4_,illumina_index,CGATGT
@@ -22690,9 +22601,6 @@ DCO_SAR,DCO_SAR_Bv4v5--A5_,adapter_sequence,NNNNTACGC
 DCO_SAR,DCO_SAR_Bv4v5--A5_,collection_date,null
 DCO_SAR,DCO_SAR_Bv4v5--A5_,dna_region,v4v5
 DCO_SAR,DCO_SAR_Bv4v5--A5_,domain,Bacteria
-DCO_SAR,DCO_SAR_Bv4v5--A5_,env_biome,null
-DCO_SAR,DCO_SAR_Bv4v5--A5_,env_feature,null
-DCO_SAR,DCO_SAR_Bv4v5--A5_,env_material,null
 DCO_SAR,DCO_SAR_Bv4v5--A5_,env_package,extreme_habitat
 DCO_SAR,DCO_SAR_Bv4v5--A5_,geo_loc_name,null
 DCO_SAR,DCO_SAR_Bv4v5--A5_,illumina_index,TTAGGC
@@ -22704,9 +22612,6 @@ DCO_SAR,DCO_SAR_Bv4v5--B1_,adapter_sequence,NNNNCGACG
 DCO_SAR,DCO_SAR_Bv4v5--B1_,collection_date,null
 DCO_SAR,DCO_SAR_Bv4v5--B1_,dna_region,v4v5
 DCO_SAR,DCO_SAR_Bv4v5--B1_,domain,Bacteria
-DCO_SAR,DCO_SAR_Bv4v5--B1_,env_biome,null
-DCO_SAR,DCO_SAR_Bv4v5--B1_,env_feature,null
-DCO_SAR,DCO_SAR_Bv4v5--B1_,env_material,null
 DCO_SAR,DCO_SAR_Bv4v5--B1_,env_package,extreme_habitat
 DCO_SAR,DCO_SAR_Bv4v5--B1_,geo_loc_name,null
 DCO_SAR,DCO_SAR_Bv4v5--B1_,illumina_index,TTAGGC
@@ -22718,9 +22623,6 @@ DCO_SAR,DCO_SAR_Bv4v5--B2_,adapter_sequence,NNNNCTACT
 DCO_SAR,DCO_SAR_Bv4v5--B2_,collection_date,null
 DCO_SAR,DCO_SAR_Bv4v5--B2_,dna_region,v4v5
 DCO_SAR,DCO_SAR_Bv4v5--B2_,domain,Bacteria
-DCO_SAR,DCO_SAR_Bv4v5--B2_,env_biome,null
-DCO_SAR,DCO_SAR_Bv4v5--B2_,env_feature,null
-DCO_SAR,DCO_SAR_Bv4v5--B2_,env_material,null
 DCO_SAR,DCO_SAR_Bv4v5--B2_,env_package,extreme_habitat
 DCO_SAR,DCO_SAR_Bv4v5--B2_,geo_loc_name,null
 DCO_SAR,DCO_SAR_Bv4v5--B2_,illumina_index,TTAGGC
@@ -22732,9 +22634,6 @@ DCO_SAR,DCO_SAR_Bv4v5--B3_,adapter_sequence,NNNNTGACT
 DCO_SAR,DCO_SAR_Bv4v5--B3_,collection_date,null
 DCO_SAR,DCO_SAR_Bv4v5--B3_,dna_region,v4v5
 DCO_SAR,DCO_SAR_Bv4v5--B3_,domain,Bacteria
-DCO_SAR,DCO_SAR_Bv4v5--B3_,env_biome,null
-DCO_SAR,DCO_SAR_Bv4v5--B3_,env_feature,null
-DCO_SAR,DCO_SAR_Bv4v5--B3_,env_material,null
 DCO_SAR,DCO_SAR_Bv4v5--B3_,env_package,extreme_habitat
 DCO_SAR,DCO_SAR_Bv4v5--B3_,geo_loc_name,null
 DCO_SAR,DCO_SAR_Bv4v5--B3_,illumina_index,TTAGGC
@@ -22746,9 +22645,6 @@ DCO_SAR,DCO_SAR_Bv4v5--B4_,adapter_sequence,NNNNACTGC
 DCO_SAR,DCO_SAR_Bv4v5--B4_,collection_date,null
 DCO_SAR,DCO_SAR_Bv4v5--B4_,dna_region,v4v5
 DCO_SAR,DCO_SAR_Bv4v5--B4_,domain,Bacteria
-DCO_SAR,DCO_SAR_Bv4v5--B4_,env_biome,null
-DCO_SAR,DCO_SAR_Bv4v5--B4_,env_feature,null
-DCO_SAR,DCO_SAR_Bv4v5--B4_,env_material,null
 DCO_SAR,DCO_SAR_Bv4v5--B4_,env_package,extreme_habitat
 DCO_SAR,DCO_SAR_Bv4v5--B4_,geo_loc_name,null
 DCO_SAR,DCO_SAR_Bv4v5--B4_,illumina_index,TTAGGC
@@ -22760,9 +22656,6 @@ DCO_SAR,DCO_SAR_Bv4v5--B5_,adapter_sequence,NNNNGTCAC
 DCO_SAR,DCO_SAR_Bv4v5--B5_,collection_date,null
 DCO_SAR,DCO_SAR_Bv4v5--B5_,dna_region,v4v5
 DCO_SAR,DCO_SAR_Bv4v5--B5_,domain,Bacteria
-DCO_SAR,DCO_SAR_Bv4v5--B5_,env_biome,null
-DCO_SAR,DCO_SAR_Bv4v5--B5_,env_feature,null
-DCO_SAR,DCO_SAR_Bv4v5--B5_,env_material,null
 DCO_SAR,DCO_SAR_Bv4v5--B5_,env_package,extreme_habitat
 DCO_SAR,DCO_SAR_Bv4v5--B5_,geo_loc_name,null
 DCO_SAR,DCO_SAR_Bv4v5--B5_,illumina_index,TTAGGC
@@ -22774,9 +22667,6 @@ DCO_SAR,DCO_SAR_Bv4v5--B6_,adapter_sequence,NNNNGACAG
 DCO_SAR,DCO_SAR_Bv4v5--B6_,collection_date,null
 DCO_SAR,DCO_SAR_Bv4v5--B6_,dna_region,v4v5
 DCO_SAR,DCO_SAR_Bv4v5--B6_,domain,Bacteria
-DCO_SAR,DCO_SAR_Bv4v5--B6_,env_biome,null
-DCO_SAR,DCO_SAR_Bv4v5--B6_,env_feature,null
-DCO_SAR,DCO_SAR_Bv4v5--B6_,env_material,null
 DCO_SAR,DCO_SAR_Bv4v5--B6_,env_package,extreme_habitat
 DCO_SAR,DCO_SAR_Bv4v5--B6_,geo_loc_name,null
 DCO_SAR,DCO_SAR_Bv4v5--B6_,illumina_index,TTAGGC
@@ -22788,9 +22678,6 @@ DCO_SAR,DCO_SAR_Bv4v5--BL_Control,adapter_sequence,NNNNATGCT
 DCO_SAR,DCO_SAR_Bv4v5--BL_Control,collection_date,null
 DCO_SAR,DCO_SAR_Bv4v5--BL_Control,dna_region,v4v5
 DCO_SAR,DCO_SAR_Bv4v5--BL_Control,domain,Bacteria
-DCO_SAR,DCO_SAR_Bv4v5--BL_Control,env_biome,null
-DCO_SAR,DCO_SAR_Bv4v5--BL_Control,env_feature,null
-DCO_SAR,DCO_SAR_Bv4v5--BL_Control,env_material,null
 DCO_SAR,DCO_SAR_Bv4v5--BL_Control,env_package,extreme_habitat
 DCO_SAR,DCO_SAR_Bv4v5--BL_Control,geo_loc_name,null
 DCO_SAR,DCO_SAR_Bv4v5--BL_Control,illumina_index,TTAGGC
@@ -27186,9 +27073,6 @@ DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,adapter_sequence,NNNNTGACT
 DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,illumina_index,TGACCA
@@ -27200,9 +27084,6 @@ DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,adapter_sequence,NNNNGACAG
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,illumina_index,TGACCA
@@ -27214,9 +27095,6 @@ DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,adapter_sequence,NNNNATGCT
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,illumina_index,TGACCA
@@ -27228,9 +27106,6 @@ DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,adapter_sequence,NNNNACTGC
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,illumina_index,TGACCA
@@ -27242,9 +27117,6 @@ DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,adapter_sequence,NNNNCTACT
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,illumina_index,ACAGTG
@@ -27256,9 +27128,6 @@ DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,adapter_sequence,NNNNTGACT
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,illumina_index,ACAGTG
@@ -27270,9 +27139,6 @@ DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,adapter_sequence,NNNNCTACT
 DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,illumina_index,TGACCA
@@ -27284,9 +27150,6 @@ DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,adapter_sequence,NNNNCGACG
 DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,illumina_index,TGACCA
@@ -27298,9 +27161,6 @@ DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,adapter_sequence,NNNNTACGC
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,illumina_index,ACAGTG
@@ -27312,9 +27172,6 @@ DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,adapter_sequence,NNNNCGACG
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,illumina_index,ACAGTG
@@ -27326,9 +27183,6 @@ DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,adapter_sequence,NNNNGTCAC
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,illumina_index,TGACCA
@@ -27340,9 +27194,6 @@ DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,adapter_sequence,NNNNACTGC
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,illumina_index,ACAGTG
@@ -27354,9 +27205,6 @@ DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,adapter_sequence,NNNNGTCAC
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,illumina_index,ACAGTG
@@ -27368,9 +27216,6 @@ DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,adapter_sequence,NNNNTACGC
 DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,collection_date,null
 DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,dna_region,v4v5
 DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,domain,Bacteria
-DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,env_biome,null
-DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,env_feature,null
-DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,env_material,null
 DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,env_package,extreme_habitat
 DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,geo_loc_name,null
 DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,illumina_index,TGACCA
@@ -27409,8 +27254,6 @@ DCO_PPA,DCO_PPA_Bv6v4--1301A_1a,dna_region,v6v4
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1a,domain,Bacteria
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1a,elevation,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1a,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Bv6v4--1301A_1a,env_feature,null
-DCO_PPA,DCO_PPA_Bv6v4--1301A_1a,env_material,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1a,env_package,sediment
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1a,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1a,feature_secondary,null
@@ -27514,8 +27357,6 @@ DCO_PPA,DCO_PPA_Bv6v4--1301A_1b,dna_region,v6v4
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1b,domain,Bacteria
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1b,elevation,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1b,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Bv6v4--1301A_1b,env_feature,null
-DCO_PPA,DCO_PPA_Bv6v4--1301A_1b,env_material,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1b,env_package,sediment
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1b,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1b,feature_secondary,null
@@ -27619,8 +27460,6 @@ DCO_PPA,DCO_PPA_Bv6v4--1301A_1c,dna_region,v6v4
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1c,domain,Bacteria
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1c,elevation,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1c,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Bv6v4--1301A_1c,env_feature,null
-DCO_PPA,DCO_PPA_Bv6v4--1301A_1c,env_material,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1c,env_package,sediment
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1c,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1c,feature_secondary,null
@@ -27724,8 +27563,6 @@ DCO_PPA,DCO_PPA_Bv6v4--1301A_1d,dna_region,v6v4
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1d,domain,Bacteria
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1d,elevation,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1d,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Bv6v4--1301A_1d,env_feature,null
-DCO_PPA,DCO_PPA_Bv6v4--1301A_1d,env_material,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1d,env_package,sediment
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1d,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Bv6v4--1301A_1d,feature_secondary,null
@@ -27829,8 +27666,6 @@ DCO_PPA,DCO_PPA_Bv6v4--1301A_3a,dna_region,v6v4
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3a,domain,Bacteria
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3a,elevation,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3a,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Bv6v4--1301A_3a,env_feature,null
-DCO_PPA,DCO_PPA_Bv6v4--1301A_3a,env_material,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3a,env_package,sediment
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3a,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3a,feature_secondary,null
@@ -27934,8 +27769,6 @@ DCO_PPA,DCO_PPA_Bv6v4--1301A_3b,dna_region,v6v4
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3b,domain,Bacteria
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3b,elevation,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3b,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Bv6v4--1301A_3b,env_feature,null
-DCO_PPA,DCO_PPA_Bv6v4--1301A_3b,env_material,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3b,env_package,sediment
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3b,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3b,feature_secondary,null
@@ -28039,8 +27872,6 @@ DCO_PPA,DCO_PPA_Bv6v4--1301A_3c,dna_region,v6v4
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3c,domain,Bacteria
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3c,elevation,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3c,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Bv6v4--1301A_3c,env_feature,null
-DCO_PPA,DCO_PPA_Bv6v4--1301A_3c,env_material,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3c,env_package,sediment
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3c,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3c,feature_secondary,null
@@ -28144,8 +27975,6 @@ DCO_PPA,DCO_PPA_Bv6v4--1301A_3d,dna_region,v6v4
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3d,domain,Bacteria
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3d,elevation,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3d,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Bv6v4--1301A_3d,env_feature,null
-DCO_PPA,DCO_PPA_Bv6v4--1301A_3d,env_material,null
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3d,env_package,sediment
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3d,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Bv6v4--1301A_3d,feature_secondary,null
@@ -28249,8 +28078,6 @@ DCO_PPA,DCO_PPA_Av6v4--1301A_1a,dna_region,v6v4
 DCO_PPA,DCO_PPA_Av6v4--1301A_1a,domain,Archaea
 DCO_PPA,DCO_PPA_Av6v4--1301A_1a,elevation,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_1a,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Av6v4--1301A_1a,env_feature,null
-DCO_PPA,DCO_PPA_Av6v4--1301A_1a,env_material,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_1a,env_package,sediment
 DCO_PPA,DCO_PPA_Av6v4--1301A_1a,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Av6v4--1301A_1a,feature_secondary,null
@@ -28354,8 +28181,6 @@ DCO_PPA,DCO_PPA_Av6v4--1301A_1b,dna_region,v6v4
 DCO_PPA,DCO_PPA_Av6v4--1301A_1b,domain,Archaea
 DCO_PPA,DCO_PPA_Av6v4--1301A_1b,elevation,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_1b,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Av6v4--1301A_1b,env_feature,null
-DCO_PPA,DCO_PPA_Av6v4--1301A_1b,env_material,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_1b,env_package,sediment
 DCO_PPA,DCO_PPA_Av6v4--1301A_1b,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Av6v4--1301A_1b,feature_secondary,null
@@ -28459,8 +28284,6 @@ DCO_PPA,DCO_PPA_Av6v4--1301A_1c,dna_region,v6v4
 DCO_PPA,DCO_PPA_Av6v4--1301A_1c,domain,Archaea
 DCO_PPA,DCO_PPA_Av6v4--1301A_1c,elevation,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_1c,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Av6v4--1301A_1c,env_feature,null
-DCO_PPA,DCO_PPA_Av6v4--1301A_1c,env_material,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_1c,env_package,sediment
 DCO_PPA,DCO_PPA_Av6v4--1301A_1c,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Av6v4--1301A_1c,feature_secondary,null
@@ -28564,8 +28387,6 @@ DCO_PPA,DCO_PPA_Av6v4--1301A_1d,dna_region,v6v4
 DCO_PPA,DCO_PPA_Av6v4--1301A_1d,domain,Archaea
 DCO_PPA,DCO_PPA_Av6v4--1301A_1d,elevation,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_1d,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Av6v4--1301A_1d,env_feature,null
-DCO_PPA,DCO_PPA_Av6v4--1301A_1d,env_material,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_1d,env_package,sediment
 DCO_PPA,DCO_PPA_Av6v4--1301A_1d,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Av6v4--1301A_1d,feature_secondary,null
@@ -28669,8 +28490,6 @@ DCO_PPA,DCO_PPA_Av6v4--1301A_3a,dna_region,v6v4
 DCO_PPA,DCO_PPA_Av6v4--1301A_3a,domain,Archaea
 DCO_PPA,DCO_PPA_Av6v4--1301A_3a,elevation,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_3a,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Av6v4--1301A_3a,env_feature,null
-DCO_PPA,DCO_PPA_Av6v4--1301A_3a,env_material,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_3a,env_package,sediment
 DCO_PPA,DCO_PPA_Av6v4--1301A_3a,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Av6v4--1301A_3a,feature_secondary,null
@@ -28774,8 +28593,6 @@ DCO_PPA,DCO_PPA_Av6v4--1301A_3b,dna_region,v6v4
 DCO_PPA,DCO_PPA_Av6v4--1301A_3b,domain,Archaea
 DCO_PPA,DCO_PPA_Av6v4--1301A_3b,elevation,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_3b,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Av6v4--1301A_3b,env_feature,null
-DCO_PPA,DCO_PPA_Av6v4--1301A_3b,env_material,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_3b,env_package,sediment
 DCO_PPA,DCO_PPA_Av6v4--1301A_3b,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Av6v4--1301A_3b,feature_secondary,null
@@ -28879,8 +28696,6 @@ DCO_PPA,DCO_PPA_Av6v4--1301A_3c,dna_region,v6v4
 DCO_PPA,DCO_PPA_Av6v4--1301A_3c,domain,Archaea
 DCO_PPA,DCO_PPA_Av6v4--1301A_3c,elevation,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_3c,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Av6v4--1301A_3c,env_feature,null
-DCO_PPA,DCO_PPA_Av6v4--1301A_3c,env_material,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_3c,env_package,sediment
 DCO_PPA,DCO_PPA_Av6v4--1301A_3c,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Av6v4--1301A_3c,feature_secondary,null
@@ -28984,8 +28799,6 @@ DCO_PPA,DCO_PPA_Av6v4--1301A_3d,dna_region,v6v4
 DCO_PPA,DCO_PPA_Av6v4--1301A_3d,domain,Archaea
 DCO_PPA,DCO_PPA_Av6v4--1301A_3d,elevation,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_3d,env_biome,"marine biome"
-DCO_PPA,DCO_PPA_Av6v4--1301A_3d,env_feature,null
-DCO_PPA,DCO_PPA_Av6v4--1301A_3d,env_material,null
 DCO_PPA,DCO_PPA_Av6v4--1301A_3d,env_package,sediment
 DCO_PPA,DCO_PPA_Av6v4--1301A_3d,enzyme_activities,"nitrate reductase; iron oxidation"
 DCO_PPA,DCO_PPA_Av6v4--1301A_3d,feature_secondary,null
@@ -29062,9 +28875,6 @@ DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,adapter_sequence,NNNNCTACT
 DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,collection_date,null
 DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,dna_region,v4v5
 DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,domain,Bacteria
-DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,env_biome,null
-DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,env_feature,null
-DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,env_material,null
 DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,env_package,sediment
 DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,geo_loc_name,null
 DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,illumina_index,TAGCTT
@@ -29076,9 +28886,6 @@ DCO_PIN,DCO_PIN_Av4v5--A1_,adapter_sequence,NNNNAGTGT
 DCO_PIN,DCO_PIN_Av4v5--A1_,collection_date,null
 DCO_PIN,DCO_PIN_Av4v5--A1_,dna_region,v4v5
 DCO_PIN,DCO_PIN_Av4v5--A1_,domain,Archaea
-DCO_PIN,DCO_PIN_Av4v5--A1_,env_biome,null
-DCO_PIN,DCO_PIN_Av4v5--A1_,env_feature,null
-DCO_PIN,DCO_PIN_Av4v5--A1_,env_material,null
 DCO_PIN,DCO_PIN_Av4v5--A1_,env_package,extreme_habitat
 DCO_PIN,DCO_PIN_Av4v5--A1_,geo_loc_name,null
 DCO_PIN,DCO_PIN_Av4v5--A1_,illumina_index,TGCTCG
@@ -29090,9 +28897,6 @@ DCO_PIN,DCO_PIN_Av4v5--A2_,adapter_sequence,NNNNATAGT
 DCO_PIN,DCO_PIN_Av4v5--A2_,collection_date,null
 DCO_PIN,DCO_PIN_Av4v5--A2_,dna_region,v4v5
 DCO_PIN,DCO_PIN_Av4v5--A2_,domain,Archaea
-DCO_PIN,DCO_PIN_Av4v5--A2_,env_biome,null
-DCO_PIN,DCO_PIN_Av4v5--A2_,env_feature,null
-DCO_PIN,DCO_PIN_Av4v5--A2_,env_material,null
 DCO_PIN,DCO_PIN_Av4v5--A2_,env_package,extreme_habitat
 DCO_PIN,DCO_PIN_Av4v5--A2_,geo_loc_name,null
 DCO_PIN,DCO_PIN_Av4v5--A2_,illumina_index,TGCTCG
@@ -29104,9 +28908,6 @@ DCO_PIN,DCO_PIN_Av4v5--A3_,adapter_sequence,NNNNCGAGT
 DCO_PIN,DCO_PIN_Av4v5--A3_,collection_date,null
 DCO_PIN,DCO_PIN_Av4v5--A3_,dna_region,v4v5
 DCO_PIN,DCO_PIN_Av4v5--A3_,domain,Archaea
-DCO_PIN,DCO_PIN_Av4v5--A3_,env_biome,null
-DCO_PIN,DCO_PIN_Av4v5--A3_,env_feature,null
-DCO_PIN,DCO_PIN_Av4v5--A3_,env_material,null
 DCO_PIN,DCO_PIN_Av4v5--A3_,env_package,extreme_habitat
 DCO_PIN,DCO_PIN_Av4v5--A3_,geo_loc_name,null
 DCO_PIN,DCO_PIN_Av4v5--A3_,illumina_index,TGCTCG
@@ -29118,9 +28919,6 @@ DCO_PIN,DCO_PIN_Av4v5--A4_,adapter_sequence,NNNNCGCGA
 DCO_PIN,DCO_PIN_Av4v5--A4_,collection_date,null
 DCO_PIN,DCO_PIN_Av4v5--A4_,dna_region,v4v5
 DCO_PIN,DCO_PIN_Av4v5--A4_,domain,Archaea
-DCO_PIN,DCO_PIN_Av4v5--A4_,env_biome,null
-DCO_PIN,DCO_PIN_Av4v5--A4_,env_feature,null
-DCO_PIN,DCO_PIN_Av4v5--A4_,env_material,null
 DCO_PIN,DCO_PIN_Av4v5--A4_,env_package,extreme_habitat
 DCO_PIN,DCO_PIN_Av4v5--A4_,geo_loc_name,null
 DCO_PIN,DCO_PIN_Av4v5--A4_,illumina_index,TGCTCG
@@ -29132,9 +28930,6 @@ DCO_PIN,DCO_PIN_Av4v5--A5_,adapter_sequence,NNNNTCGAG
 DCO_PIN,DCO_PIN_Av4v5--A5_,collection_date,null
 DCO_PIN,DCO_PIN_Av4v5--A5_,dna_region,v4v5
 DCO_PIN,DCO_PIN_Av4v5--A5_,domain,Archaea
-DCO_PIN,DCO_PIN_Av4v5--A5_,env_biome,null
-DCO_PIN,DCO_PIN_Av4v5--A5_,env_feature,null
-DCO_PIN,DCO_PIN_Av4v5--A5_,env_material,null
 DCO_PIN,DCO_PIN_Av4v5--A5_,env_package,extreme_habitat
 DCO_PIN,DCO_PIN_Av4v5--A5_,geo_loc_name,null
 DCO_PIN,DCO_PIN_Av4v5--A5_,illumina_index,ACGACT
@@ -29146,9 +28941,6 @@ DCO_PIN,DCO_PIN_Av4v5--B1_,adapter_sequence,NNNNTAGTG
 DCO_PIN,DCO_PIN_Av4v5--B1_,collection_date,null
 DCO_PIN,DCO_PIN_Av4v5--B1_,dna_region,v4v5
 DCO_PIN,DCO_PIN_Av4v5--B1_,domain,Archaea
-DCO_PIN,DCO_PIN_Av4v5--B1_,env_biome,null
-DCO_PIN,DCO_PIN_Av4v5--B1_,env_feature,null
-DCO_PIN,DCO_PIN_Av4v5--B1_,env_material,null
 DCO_PIN,DCO_PIN_Av4v5--B1_,env_package,extreme_habitat
 DCO_PIN,DCO_PIN_Av4v5--B1_,geo_loc_name,null
 DCO_PIN,DCO_PIN_Av4v5--B1_,illumina_index,ACGACT
@@ -29160,9 +28952,6 @@ DCO_PIN,DCO_PIN_Av4v5--B2_,adapter_sequence,NNNNATACG
 DCO_PIN,DCO_PIN_Av4v5--B2_,collection_date,null
 DCO_PIN,DCO_PIN_Av4v5--B2_,dna_region,v4v5
 DCO_PIN,DCO_PIN_Av4v5--B2_,domain,Archaea
-DCO_PIN,DCO_PIN_Av4v5--B2_,env_biome,null
-DCO_PIN,DCO_PIN_Av4v5--B2_,env_feature,null
-DCO_PIN,DCO_PIN_Av4v5--B2_,env_material,null
 DCO_PIN,DCO_PIN_Av4v5--B2_,env_package,extreme_habitat
 DCO_PIN,DCO_PIN_Av4v5--B2_,geo_loc_name,null
 DCO_PIN,DCO_PIN_Av4v5--B2_,illumina_index,ACGACT
@@ -29174,9 +28963,6 @@ DCO_PIN,DCO_PIN_Av4v5--B3_,adapter_sequence,NNNNACTCG
 DCO_PIN,DCO_PIN_Av4v5--B3_,collection_date,null
 DCO_PIN,DCO_PIN_Av4v5--B3_,dna_region,v4v5
 DCO_PIN,DCO_PIN_Av4v5--B3_,domain,Archaea
-DCO_PIN,DCO_PIN_Av4v5--B3_,env_biome,null
-DCO_PIN,DCO_PIN_Av4v5--B3_,env_feature,null
-DCO_PIN,DCO_PIN_Av4v5--B3_,env_material,null
 DCO_PIN,DCO_PIN_Av4v5--B3_,env_package,extreme_habitat
 DCO_PIN,DCO_PIN_Av4v5--B3_,geo_loc_name,null
 DCO_PIN,DCO_PIN_Av4v5--B3_,illumina_index,ACGACT
@@ -29188,9 +28974,6 @@ DCO_PIN,DCO_PIN_Av4v5--B4_,adapter_sequence,NNNNAGTGT
 DCO_PIN,DCO_PIN_Av4v5--B4_,collection_date,null
 DCO_PIN,DCO_PIN_Av4v5--B4_,dna_region,v4v5
 DCO_PIN,DCO_PIN_Av4v5--B4_,domain,Archaea
-DCO_PIN,DCO_PIN_Av4v5--B4_,env_biome,null
-DCO_PIN,DCO_PIN_Av4v5--B4_,env_feature,null
-DCO_PIN,DCO_PIN_Av4v5--B4_,env_material,null
 DCO_PIN,DCO_PIN_Av4v5--B4_,env_package,extreme_habitat
 DCO_PIN,DCO_PIN_Av4v5--B4_,geo_loc_name,null
 DCO_PIN,DCO_PIN_Av4v5--B4_,illumina_index,ACGACT
@@ -29202,9 +28985,6 @@ DCO_PIN,DCO_PIN_Av4v5--B5_,adapter_sequence,NNNNATAGT
 DCO_PIN,DCO_PIN_Av4v5--B5_,collection_date,null
 DCO_PIN,DCO_PIN_Av4v5--B5_,dna_region,v4v5
 DCO_PIN,DCO_PIN_Av4v5--B5_,domain,Archaea
-DCO_PIN,DCO_PIN_Av4v5--B5_,env_biome,null
-DCO_PIN,DCO_PIN_Av4v5--B5_,env_feature,null
-DCO_PIN,DCO_PIN_Av4v5--B5_,env_material,null
 DCO_PIN,DCO_PIN_Av4v5--B5_,env_package,extreme_habitat
 DCO_PIN,DCO_PIN_Av4v5--B5_,geo_loc_name,null
 DCO_PIN,DCO_PIN_Av4v5--B5_,illumina_index,ACGACT
@@ -29216,9 +28996,6 @@ DCO_PIN,DCO_PIN_Av4v5--B6_,adapter_sequence,NNNNCGAGT
 DCO_PIN,DCO_PIN_Av4v5--B6_,collection_date,null
 DCO_PIN,DCO_PIN_Av4v5--B6_,dna_region,v4v5
 DCO_PIN,DCO_PIN_Av4v5--B6_,domain,Archaea
-DCO_PIN,DCO_PIN_Av4v5--B6_,env_biome,null
-DCO_PIN,DCO_PIN_Av4v5--B6_,env_feature,null
-DCO_PIN,DCO_PIN_Av4v5--B6_,env_material,null
 DCO_PIN,DCO_PIN_Av4v5--B6_,env_package,extreme_habitat
 DCO_PIN,DCO_PIN_Av4v5--B6_,geo_loc_name,null
 DCO_PIN,DCO_PIN_Av4v5--B6_,illumina_index,ACGACT
@@ -31721,7 +31498,6 @@ DCO_PED,DCO_PED_Av6--OL_KR55,domain,Archaea
 DCO_PED,DCO_PED_Av6--OL_KR55,elevation,null
 DCO_PED,DCO_PED_Av6--OL_KR55,env_biome,"terrestrial biome"
 DCO_PED,DCO_PED_Av6--OL_KR55,env_feature,borehole
-DCO_PED,DCO_PED_Av6--OL_KR55,env_material,null
 DCO_PED,DCO_PED_Av6--OL_KR55,env_package,microbial_mat/biofilm
 DCO_PED,DCO_PED_Av6--OL_KR55,enzyme_activities,null
 DCO_PED,DCO_PED_Av6--OL_KR55,feature_secondary,null
@@ -31819,7 +31595,6 @@ DCO_PED,DCO_PED_Av6--OL_KR56,domain,Archaea
 DCO_PED,DCO_PED_Av6--OL_KR56,elevation,null
 DCO_PED,DCO_PED_Av6--OL_KR56,env_biome,"terrestrial biome"
 DCO_PED,DCO_PED_Av6--OL_KR56,env_feature,borehole
-DCO_PED,DCO_PED_Av6--OL_KR56,env_material,null
 DCO_PED,DCO_PED_Av6--OL_KR56,env_package,microbial_mat/biofilm
 DCO_PED,DCO_PED_Av6--OL_KR56,enzyme_activities,null
 DCO_PED,DCO_PED_Av6--OL_KR56,feature_secondary,null
@@ -32211,7 +31986,6 @@ DCO_PED,DCO_PED_Av6--ONK_PVA08,domain,Archaea
 DCO_PED,DCO_PED_Av6--ONK_PVA08,elevation,null
 DCO_PED,DCO_PED_Av6--ONK_PVA08,env_biome,"terrestrial biome"
 DCO_PED,DCO_PED_Av6--ONK_PVA08,env_feature,borehole
-DCO_PED,DCO_PED_Av6--ONK_PVA08,env_material,null
 DCO_PED,DCO_PED_Av6--ONK_PVA08,env_package,microbial_mat/biofilm
 DCO_PED,DCO_PED_Av6--ONK_PVA08,enzyme_activities,null
 DCO_PED,DCO_PED_Av6--ONK_PVA08,feature_secondary,null
@@ -32505,7 +32279,6 @@ DCO_PED,DCO_PED_Av6--ONK_PVA3,domain,Archaea
 DCO_PED,DCO_PED_Av6--ONK_PVA3,elevation,null
 DCO_PED,DCO_PED_Av6--ONK_PVA3,env_biome,"terrestrial biome"
 DCO_PED,DCO_PED_Av6--ONK_PVA3,env_feature,borehole
-DCO_PED,DCO_PED_Av6--ONK_PVA3,env_material,null
 DCO_PED,DCO_PED_Av6--ONK_PVA3,env_package,microbial_mat/biofilm
 DCO_PED,DCO_PED_Av6--ONK_PVA3,enzyme_activities,null
 DCO_PED,DCO_PED_Av6--ONK_PVA3,feature_secondary,null
@@ -32603,7 +32376,6 @@ DCO_PED,DCO_PED_Av6--ONK_PVA5,domain,Archaea
 DCO_PED,DCO_PED_Av6--ONK_PVA5,elevation,null
 DCO_PED,DCO_PED_Av6--ONK_PVA5,env_biome,"terrestrial biome"
 DCO_PED,DCO_PED_Av6--ONK_PVA5,env_feature,borehole
-DCO_PED,DCO_PED_Av6--ONK_PVA5,env_material,null
 DCO_PED,DCO_PED_Av6--ONK_PVA5,env_package,microbial_mat/biofilm
 DCO_PED,DCO_PED_Av6--ONK_PVA5,enzyme_activities,null
 DCO_PED,DCO_PED_Av6--ONK_PVA5,feature_secondary,null
@@ -32699,9 +32471,6 @@ DCO_PED,DCO_PED_Av6--ONK_PVA6,dna_quantitation,null
 DCO_PED,DCO_PED_Av6--ONK_PVA6,dna_region,v6
 DCO_PED,DCO_PED_Av6--ONK_PVA6,domain,Archaea
 DCO_PED,DCO_PED_Av6--ONK_PVA6,elevation,null
-DCO_PED,DCO_PED_Av6--ONK_PVA6,env_biome,null
-DCO_PED,DCO_PED_Av6--ONK_PVA6,env_feature,null
-DCO_PED,DCO_PED_Av6--ONK_PVA6,env_material,null
 DCO_PED,DCO_PED_Av6--ONK_PVA6,env_package,null
 DCO_PED,DCO_PED_Av6--ONK_PVA6,enzyme_activities,null
 DCO_PED,DCO_PED_Av6--ONK_PVA6,feature_secondary,null
@@ -32797,7 +32566,6 @@ DCO_PED,DCO_PED_Av6--SURE2_C1_3_1_cell2,domain,Archaea
 DCO_PED,DCO_PED_Av6--SURE2_C1_3_1_cell2,elevation,null
 DCO_PED,DCO_PED_Av6--SURE2_C1_3_1_cell2,env_biome,"terrestrial biome"
 DCO_PED,DCO_PED_Av6--SURE2_C1_3_1_cell2,env_feature,borehole
-DCO_PED,DCO_PED_Av6--SURE2_C1_3_1_cell2,env_material,null
 DCO_PED,DCO_PED_Av6--SURE2_C1_3_1_cell2,env_package,microbial_mat/biofilm
 DCO_PED,DCO_PED_Av6--SURE2_C1_3_1_cell2,enzyme_activities,null
 DCO_PED,DCO_PED_Av6--SURE2_C1_3_1_cell2,feature_secondary,null
@@ -32895,7 +32663,6 @@ DCO_PED,DCO_PED_Av6--SURE2_P7_S1,domain,Archaea
 DCO_PED,DCO_PED_Av6--SURE2_P7_S1,elevation,null
 DCO_PED,DCO_PED_Av6--SURE2_P7_S1,env_biome,"terrestrial biome"
 DCO_PED,DCO_PED_Av6--SURE2_P7_S1,env_feature,borehole
-DCO_PED,DCO_PED_Av6--SURE2_P7_S1,env_material,null
 DCO_PED,DCO_PED_Av6--SURE2_P7_S1,env_package,microbial_mat/biofilm
 DCO_PED,DCO_PED_Av6--SURE2_P7_S1,enzyme_activities,null
 DCO_PED,DCO_PED_Av6--SURE2_P7_S1,feature_secondary,null
@@ -32993,7 +32760,6 @@ DCO_PED,DCO_PED_Av6--SURE2_P7_S2,domain,Archaea
 DCO_PED,DCO_PED_Av6--SURE2_P7_S2,elevation,null
 DCO_PED,DCO_PED_Av6--SURE2_P7_S2,env_biome,"terrestrial biome"
 DCO_PED,DCO_PED_Av6--SURE2_P7_S2,env_feature,borehole
-DCO_PED,DCO_PED_Av6--SURE2_P7_S2,env_material,null
 DCO_PED,DCO_PED_Av6--SURE2_P7_S2,env_package,microbial_mat/biofilm
 DCO_PED,DCO_PED_Av6--SURE2_P7_S2,enzyme_activities,null
 DCO_PED,DCO_PED_Av6--SURE2_P7_S2,feature_secondary,null
@@ -33091,7 +32857,6 @@ DCO_PED,DCO_PED_Av6--SURE2_P7_S3,domain,Archaea
 DCO_PED,DCO_PED_Av6--SURE2_P7_S3,elevation,null
 DCO_PED,DCO_PED_Av6--SURE2_P7_S3,env_biome,"terrestrial biome"
 DCO_PED,DCO_PED_Av6--SURE2_P7_S3,env_feature,borehole
-DCO_PED,DCO_PED_Av6--SURE2_P7_S3,env_material,null
 DCO_PED,DCO_PED_Av6--SURE2_P7_S3,env_package,microbial_mat/biofilm
 DCO_PED,DCO_PED_Av6--SURE2_P7_S3,enzyme_activities,null
 DCO_PED,DCO_PED_Av6--SURE2_P7_S3,feature_secondary,null
@@ -33189,7 +32954,6 @@ DCO_PED,DCO_PED_Av6--SURE3_C1_1,domain,Archaea
 DCO_PED,DCO_PED_Av6--SURE3_C1_1,elevation,null
 DCO_PED,DCO_PED_Av6--SURE3_C1_1,env_biome,"terrestrial biome"
 DCO_PED,DCO_PED_Av6--SURE3_C1_1,env_feature,borehole
-DCO_PED,DCO_PED_Av6--SURE3_C1_1,env_material,null
 DCO_PED,DCO_PED_Av6--SURE3_C1_1,env_package,microbial_mat/biofilm
 DCO_PED,DCO_PED_Av6--SURE3_C1_1,enzyme_activities,null
 DCO_PED,DCO_PED_Av6--SURE3_C1_1,feature_secondary,null
@@ -33287,7 +33051,6 @@ DCO_PED,DCO_PED_Av6--SURE3_C2_2_3_1,domain,Archaea
 DCO_PED,DCO_PED_Av6--SURE3_C2_2_3_1,elevation,null
 DCO_PED,DCO_PED_Av6--SURE3_C2_2_3_1,env_biome,"terrestrial biome"
 DCO_PED,DCO_PED_Av6--SURE3_C2_2_3_1,env_feature,borehole
-DCO_PED,DCO_PED_Av6--SURE3_C2_2_3_1,env_material,null
 DCO_PED,DCO_PED_Av6--SURE3_C2_2_3_1,env_package,microbial_mat/biofilm
 DCO_PED,DCO_PED_Av6--SURE3_C2_2_3_1,enzyme_activities,null
 DCO_PED,DCO_PED_Av6--SURE3_C2_2_3_1,feature_secondary,null
@@ -34797,9 +34560,6 @@ DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,dna_quantitation,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,dna_region,v6
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,domain,Bacteria
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,elevation,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,env_biome,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,env_feature,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,env_material,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,env_package,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,enzyme_activities,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,feature_secondary,null
@@ -34893,9 +34653,6 @@ DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,dna_quantitation,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,dna_region,v6
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,domain,Bacteria
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,elevation,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,env_biome,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,env_feature,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,env_material,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,env_package,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,enzyme_activities,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,feature_secondary,null
@@ -34989,9 +34746,6 @@ DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,dna_quantitation,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,dna_region,v6
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,domain,Bacteria
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,elevation,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,env_biome,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,env_feature,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,env_material,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,env_package,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,enzyme_activities,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,feature_secondary,null
@@ -35085,9 +34839,6 @@ DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,dna_quantitation,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,dna_region,v6
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,domain,Bacteria
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,elevation,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,env_biome,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,env_feature,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,env_material,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,env_package,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,enzyme_activities,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,feature_secondary,null
@@ -35181,9 +34932,6 @@ DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,dna_quantitation,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,dna_region,v6
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,domain,Bacteria
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,elevation,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,env_biome,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,env_feature,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,env_material,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,env_package,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,enzyme_activities,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,feature_secondary,null
@@ -35277,9 +35025,6 @@ DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,dna_quantitation,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,dna_region,v6
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,domain,Bacteria
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,elevation,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,env_biome,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,env_feature,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,env_material,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,env_package,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,enzyme_activities,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,feature_secondary,null
@@ -35373,9 +35118,6 @@ DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,dna_quantitation,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,dna_region,v6
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,domain,Bacteria
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,elevation,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,env_biome,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,env_feature,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,env_material,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,env_package,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,enzyme_activities,null
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,feature_secondary,null
@@ -35863,7 +35605,6 @@ DCO_ORC,DCO_ORC_Av6v4--Orc4H1,domain,Archaea
 DCO_ORC,DCO_ORC_Av6v4--Orc4H1,elevation,null
 DCO_ORC,DCO_ORC_Av6v4--Orc4H1,env_biome,"marine biome"
 DCO_ORC,DCO_ORC_Av6v4--Orc4H1,env_feature,borehole
-DCO_ORC,DCO_ORC_Av6v4--Orc4H1,env_material,null
 DCO_ORC,DCO_ORC_Av6v4--Orc4H1,env_package,water
 DCO_ORC,DCO_ORC_Av6v4--Orc4H1,enzyme_activities,null
 DCO_ORC,DCO_ORC_Av6v4--Orc4H1,feature_secondary,null
@@ -39610,8 +39351,6 @@ DCO_MOS,DCO_MOS_Bv6v4--KC_1_12_10_SW2_Bv6v4,dna_quantitation,null
 DCO_MOS,DCO_MOS_Bv6v4--KC_1_12_10_SW2_Bv6v4,dna_region,v6v4
 DCO_MOS,DCO_MOS_Bv6v4--KC_1_12_10_SW2_Bv6v4,domain,Bacteria
 DCO_MOS,DCO_MOS_Bv6v4--KC_1_12_10_SW2_Bv6v4,elevation,null
-DCO_MOS,DCO_MOS_Bv6v4--KC_1_12_10_SW2_Bv6v4,env_biome,null
-DCO_MOS,DCO_MOS_Bv6v4--KC_1_12_10_SW2_Bv6v4,env_feature,null
 DCO_MOS,DCO_MOS_Bv6v4--KC_1_12_10_SW2_Bv6v4,env_material,water
 DCO_MOS,DCO_MOS_Bv6v4--KC_1_12_10_SW2_Bv6v4,env_package,water
 DCO_MOS,DCO_MOS_Bv6v4--KC_1_12_10_SW2_Bv6v4,enzyme_activities,null
@@ -39711,8 +39450,6 @@ DCO_MOS,DCO_MOS_Bv6v4--KC_7850_SWA_Bv6v4,dna_quantitation,null
 DCO_MOS,DCO_MOS_Bv6v4--KC_7850_SWA_Bv6v4,dna_region,v6v4
 DCO_MOS,DCO_MOS_Bv6v4--KC_7850_SWA_Bv6v4,domain,Bacteria
 DCO_MOS,DCO_MOS_Bv6v4--KC_7850_SWA_Bv6v4,elevation,null
-DCO_MOS,DCO_MOS_Bv6v4--KC_7850_SWA_Bv6v4,env_biome,null
-DCO_MOS,DCO_MOS_Bv6v4--KC_7850_SWA_Bv6v4,env_feature,null
 DCO_MOS,DCO_MOS_Bv6v4--KC_7850_SWA_Bv6v4,env_material,water
 DCO_MOS,DCO_MOS_Bv6v4--KC_7850_SWA_Bv6v4,env_package,water
 DCO_MOS,DCO_MOS_Bv6v4--KC_7850_SWA_Bv6v4,enzyme_activities,null
@@ -39812,8 +39549,6 @@ DCO_MOS,DCO_MOS_Bv6v4--KC_L7850_B_MF_Bv6v4,dna_quantitation,null
 DCO_MOS,DCO_MOS_Bv6v4--KC_L7850_B_MF_Bv6v4,dna_region,v6v4
 DCO_MOS,DCO_MOS_Bv6v4--KC_L7850_B_MF_Bv6v4,domain,Bacteria
 DCO_MOS,DCO_MOS_Bv6v4--KC_L7850_B_MF_Bv6v4,elevation,null
-DCO_MOS,DCO_MOS_Bv6v4--KC_L7850_B_MF_Bv6v4,env_biome,null
-DCO_MOS,DCO_MOS_Bv6v4--KC_L7850_B_MF_Bv6v4,env_feature,null
 DCO_MOS,DCO_MOS_Bv6v4--KC_L7850_B_MF_Bv6v4,env_material,water
 DCO_MOS,DCO_MOS_Bv6v4--KC_L7850_B_MF_Bv6v4,env_package,water
 DCO_MOS,DCO_MOS_Bv6v4--KC_L7850_B_MF_Bv6v4,enzyme_activities,null
@@ -40311,8 +40046,6 @@ DCO_MOS,DCO_MOS_Av6v4--KC_1_12_10_SW2_Av6v4,dna_quantitation,null
 DCO_MOS,DCO_MOS_Av6v4--KC_1_12_10_SW2_Av6v4,dna_region,v6v4
 DCO_MOS,DCO_MOS_Av6v4--KC_1_12_10_SW2_Av6v4,domain,Archaea
 DCO_MOS,DCO_MOS_Av6v4--KC_1_12_10_SW2_Av6v4,elevation,null
-DCO_MOS,DCO_MOS_Av6v4--KC_1_12_10_SW2_Av6v4,env_biome,null
-DCO_MOS,DCO_MOS_Av6v4--KC_1_12_10_SW2_Av6v4,env_feature,null
 DCO_MOS,DCO_MOS_Av6v4--KC_1_12_10_SW2_Av6v4,env_material,null
 DCO_MOS,DCO_MOS_Av6v4--KC_1_12_10_SW2_Av6v4,env_package,null
 DCO_MOS,DCO_MOS_Av6v4--KC_1_12_10_SW2_Av6v4,enzyme_activities,null
@@ -40410,8 +40143,6 @@ DCO_MOS,DCO_MOS_Av6v4--KC_7850_SWA_Av6v4,dna_quantitation,null
 DCO_MOS,DCO_MOS_Av6v4--KC_7850_SWA_Av6v4,dna_region,v6v4
 DCO_MOS,DCO_MOS_Av6v4--KC_7850_SWA_Av6v4,domain,Archaea
 DCO_MOS,DCO_MOS_Av6v4--KC_7850_SWA_Av6v4,elevation,null
-DCO_MOS,DCO_MOS_Av6v4--KC_7850_SWA_Av6v4,env_biome,null
-DCO_MOS,DCO_MOS_Av6v4--KC_7850_SWA_Av6v4,env_feature,null
 DCO_MOS,DCO_MOS_Av6v4--KC_7850_SWA_Av6v4,env_material,null
 DCO_MOS,DCO_MOS_Av6v4--KC_7850_SWA_Av6v4,env_package,null
 DCO_MOS,DCO_MOS_Av6v4--KC_7850_SWA_Av6v4,enzyme_activities,null
@@ -40486,9 +40217,6 @@ DCO_MAR,DCO_MAR_Bv4v5--7B_,adapter_sequence,GACAG
 DCO_MAR,DCO_MAR_Bv4v5--7B_,collection_date,null
 DCO_MAR,DCO_MAR_Bv4v5--7B_,dna_region,v4v5
 DCO_MAR,DCO_MAR_Bv4v5--7B_,domain,Bacteria
-DCO_MAR,DCO_MAR_Bv4v5--7B_,env_biome,null
-DCO_MAR,DCO_MAR_Bv4v5--7B_,env_feature,null
-DCO_MAR,DCO_MAR_Bv4v5--7B_,env_material,null
 DCO_MAR,DCO_MAR_Bv4v5--7B_,env_package,null
 DCO_MAR,DCO_MAR_Bv4v5--7B_,geo_loc_name,Vanuatu
 DCO_MAR,DCO_MAR_Bv4v5--7B_,illumina_index,GGCTAC
@@ -40500,9 +40228,6 @@ DCO_MAR,DCO_MAR_Bv4v5--8B_,adapter_sequence,ATGCT
 DCO_MAR,DCO_MAR_Bv4v5--8B_,collection_date,null
 DCO_MAR,DCO_MAR_Bv4v5--8B_,dna_region,v4v5
 DCO_MAR,DCO_MAR_Bv4v5--8B_,domain,Bacteria
-DCO_MAR,DCO_MAR_Bv4v5--8B_,env_biome,null
-DCO_MAR,DCO_MAR_Bv4v5--8B_,env_feature,null
-DCO_MAR,DCO_MAR_Bv4v5--8B_,env_material,null
 DCO_MAR,DCO_MAR_Bv4v5--8B_,env_package,null
 DCO_MAR,DCO_MAR_Bv4v5--8B_,geo_loc_name,Vanuatu
 DCO_MAR,DCO_MAR_Bv4v5--8B_,illumina_index,GGCTAC
@@ -40514,9 +40239,6 @@ DCO_MAR,DCO_MAR_Av4v5--10A,adapter_sequence,NNNNTAGTG
 DCO_MAR,DCO_MAR_Av4v5--10A,collection_date,null
 DCO_MAR,DCO_MAR_Av4v5--10A,dna_region,v4v5
 DCO_MAR,DCO_MAR_Av4v5--10A,domain,Archaea
-DCO_MAR,DCO_MAR_Av4v5--10A,env_biome,null
-DCO_MAR,DCO_MAR_Av4v5--10A,env_feature,null
-DCO_MAR,DCO_MAR_Av4v5--10A,env_material,null
 DCO_MAR,DCO_MAR_Av4v5--10A,env_package,null
 DCO_MAR,DCO_MAR_Av4v5--10A,geo_loc_name,Vanuatu
 DCO_MAR,DCO_MAR_Av4v5--10A,illumina_index,GTAACT
@@ -40528,9 +40250,6 @@ DCO_MAR,DCO_MAR_Av4v5--7A_,adapter_sequence,NNNNCGAGT
 DCO_MAR,DCO_MAR_Av4v5--7A_,collection_date,null
 DCO_MAR,DCO_MAR_Av4v5--7A_,dna_region,v4v5
 DCO_MAR,DCO_MAR_Av4v5--7A_,domain,Archaea
-DCO_MAR,DCO_MAR_Av4v5--7A_,env_biome,null
-DCO_MAR,DCO_MAR_Av4v5--7A_,env_feature,null
-DCO_MAR,DCO_MAR_Av4v5--7A_,env_material,null
 DCO_MAR,DCO_MAR_Av4v5--7A_,env_package,null
 DCO_MAR,DCO_MAR_Av4v5--7A_,geo_loc_name,Vanuatu
 DCO_MAR,DCO_MAR_Av4v5--7A_,illumina_index,CAATCT
@@ -40542,9 +40261,6 @@ DCO_MAR,DCO_MAR_Av4v5--8A_,adapter_sequence,NNNNCGCGA
 DCO_MAR,DCO_MAR_Av4v5--8A_,collection_date,null
 DCO_MAR,DCO_MAR_Av4v5--8A_,dna_region,v4v5
 DCO_MAR,DCO_MAR_Av4v5--8A_,domain,Archaea
-DCO_MAR,DCO_MAR_Av4v5--8A_,env_biome,null
-DCO_MAR,DCO_MAR_Av4v5--8A_,env_feature,null
-DCO_MAR,DCO_MAR_Av4v5--8A_,env_material,null
 DCO_MAR,DCO_MAR_Av4v5--8A_,env_package,null
 DCO_MAR,DCO_MAR_Av4v5--8A_,geo_loc_name,Vanuatu
 DCO_MAR,DCO_MAR_Av4v5--8A_,illumina_index,CAATCT
@@ -40556,9 +40272,6 @@ DCO_MAR,DCO_MAR_Av4v5--9A_,adapter_sequence,NNNNTCGAG
 DCO_MAR,DCO_MAR_Av4v5--9A_,collection_date,null
 DCO_MAR,DCO_MAR_Av4v5--9A_,dna_region,v4v5
 DCO_MAR,DCO_MAR_Av4v5--9A_,domain,Archaea
-DCO_MAR,DCO_MAR_Av4v5--9A_,env_biome,null
-DCO_MAR,DCO_MAR_Av4v5--9A_,env_feature,null
-DCO_MAR,DCO_MAR_Av4v5--9A_,env_material,null
 DCO_MAR,DCO_MAR_Av4v5--9A_,env_package,null
 DCO_MAR,DCO_MAR_Av4v5--9A_,geo_loc_name,Vanuatu
 DCO_MAR,DCO_MAR_Av4v5--9A_,illumina_index,GTAACT
@@ -40594,8 +40307,6 @@ DCO_MAC,DCO_MAC_Bv6--LD09_2_3,dna_region,v6
 DCO_MAC,DCO_MAC_Bv6--LD09_2_3,domain,Bacteria
 DCO_MAC,DCO_MAC_Bv6--LD09_2_3,elevation,null
 DCO_MAC,DCO_MAC_Bv6--LD09_2_3,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Bv6--LD09_2_3,env_feature,null
-DCO_MAC,DCO_MAC_Bv6--LD09_2_3,env_material,null
 DCO_MAC,DCO_MAC_Bv6--LD09_2_3,env_package,extreme_habitat
 DCO_MAC,DCO_MAC_Bv6--LD09_2_3,enzyme_activities,null
 DCO_MAC,DCO_MAC_Bv6--LD09_2_3,feature_secondary,null
@@ -40692,8 +40403,6 @@ DCO_MAC,DCO_MAC_Bv6--LI09_3,dna_region,v6
 DCO_MAC,DCO_MAC_Bv6--LI09_3,domain,Bacteria
 DCO_MAC,DCO_MAC_Bv6--LI09_3,elevation,null
 DCO_MAC,DCO_MAC_Bv6--LI09_3,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Bv6--LI09_3,env_feature,null
-DCO_MAC,DCO_MAC_Bv6--LI09_3,env_material,null
 DCO_MAC,DCO_MAC_Bv6--LI09_3,env_package,extreme_habitat
 DCO_MAC,DCO_MAC_Bv6--LI09_3,enzyme_activities,null
 DCO_MAC,DCO_MAC_Bv6--LI09_3,feature_secondary,null
@@ -40790,8 +40499,6 @@ DCO_MAC,DCO_MAC_Bv6--LI09_4,dna_region,v6
 DCO_MAC,DCO_MAC_Bv6--LI09_4,domain,Bacteria
 DCO_MAC,DCO_MAC_Bv6--LI09_4,elevation,null
 DCO_MAC,DCO_MAC_Bv6--LI09_4,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Bv6--LI09_4,env_feature,null
-DCO_MAC,DCO_MAC_Bv6--LI09_4,env_material,null
 DCO_MAC,DCO_MAC_Bv6--LI09_4,env_package,extreme_habitat
 DCO_MAC,DCO_MAC_Bv6--LI09_4,enzyme_activities,null
 DCO_MAC,DCO_MAC_Bv6--LI09_4,feature_secondary,null
@@ -40888,8 +40595,6 @@ DCO_MAC,DCO_MAC_Bv6--LI09_5,dna_region,v6
 DCO_MAC,DCO_MAC_Bv6--LI09_5,domain,Bacteria
 DCO_MAC,DCO_MAC_Bv6--LI09_5,elevation,null
 DCO_MAC,DCO_MAC_Bv6--LI09_5,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Bv6--LI09_5,env_feature,null
-DCO_MAC,DCO_MAC_Bv6--LI09_5,env_material,null
 DCO_MAC,DCO_MAC_Bv6--LI09_5,env_package,extreme_habitat
 DCO_MAC,DCO_MAC_Bv6--LI09_5,enzyme_activities,null
 DCO_MAC,DCO_MAC_Bv6--LI09_5,feature_secondary,null
@@ -40986,8 +40691,6 @@ DCO_MAC,DCO_MAC_Bv6--LI13_2,dna_region,v6
 DCO_MAC,DCO_MAC_Bv6--LI13_2,domain,Bacteria
 DCO_MAC,DCO_MAC_Bv6--LI13_2,elevation,null
 DCO_MAC,DCO_MAC_Bv6--LI13_2,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Bv6--LI13_2,env_feature,null
-DCO_MAC,DCO_MAC_Bv6--LI13_2,env_material,null
 DCO_MAC,DCO_MAC_Bv6--LI13_2,env_package,extreme_habitat
 DCO_MAC,DCO_MAC_Bv6--LI13_2,enzyme_activities,null
 DCO_MAC,DCO_MAC_Bv6--LI13_2,feature_secondary,null
@@ -41084,8 +40787,6 @@ DCO_MAC,DCO_MAC_Bv6--LO13_2,dna_region,v6
 DCO_MAC,DCO_MAC_Bv6--LO13_2,domain,Bacteria
 DCO_MAC,DCO_MAC_Bv6--LO13_2,elevation,null
 DCO_MAC,DCO_MAC_Bv6--LO13_2,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Bv6--LO13_2,env_feature,null
-DCO_MAC,DCO_MAC_Bv6--LO13_2,env_material,null
 DCO_MAC,DCO_MAC_Bv6--LO13_2,env_package,extreme_habitat
 DCO_MAC,DCO_MAC_Bv6--LO13_2,enzyme_activities,null
 DCO_MAC,DCO_MAC_Bv6--LO13_2,feature_secondary,null
@@ -41182,8 +40883,6 @@ DCO_MAC,DCO_MAC_Bv6--LO13_8,dna_region,v6
 DCO_MAC,DCO_MAC_Bv6--LO13_8,domain,Bacteria
 DCO_MAC,DCO_MAC_Bv6--LO13_8,elevation,null
 DCO_MAC,DCO_MAC_Bv6--LO13_8,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Bv6--LO13_8,env_feature,null
-DCO_MAC,DCO_MAC_Bv6--LO13_8,env_material,null
 DCO_MAC,DCO_MAC_Bv6--LO13_8,env_package,extreme_habitat
 DCO_MAC,DCO_MAC_Bv6--LO13_8,enzyme_activities,null
 DCO_MAC,DCO_MAC_Bv6--LO13_8,feature_secondary,null
@@ -41280,8 +40979,6 @@ DCO_MAC,DCO_MAC_Bv6--LV13_5,dna_region,v6
 DCO_MAC,DCO_MAC_Bv6--LV13_5,domain,Bacteria
 DCO_MAC,DCO_MAC_Bv6--LV13_5,elevation,null
 DCO_MAC,DCO_MAC_Bv6--LV13_5,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Bv6--LV13_5,env_feature,null
-DCO_MAC,DCO_MAC_Bv6--LV13_5,env_material,null
 DCO_MAC,DCO_MAC_Bv6--LV13_5,env_package,extreme_habitat
 DCO_MAC,DCO_MAC_Bv6--LV13_5,enzyme_activities,null
 DCO_MAC,DCO_MAC_Bv6--LV13_5,feature_secondary,null
@@ -41378,8 +41075,6 @@ DCO_MAC,DCO_MAC_Av6--LD09_2_3,dna_region,v6
 DCO_MAC,DCO_MAC_Av6--LD09_2_3,domain,Archaea
 DCO_MAC,DCO_MAC_Av6--LD09_2_3,elevation,null
 DCO_MAC,DCO_MAC_Av6--LD09_2_3,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Av6--LD09_2_3,env_feature,null
-DCO_MAC,DCO_MAC_Av6--LD09_2_3,env_material,null
 DCO_MAC,DCO_MAC_Av6--LD09_2_3,env_package,null
 DCO_MAC,DCO_MAC_Av6--LD09_2_3,enzyme_activities,null
 DCO_MAC,DCO_MAC_Av6--LD09_2_3,feature_secondary,null
@@ -41476,8 +41171,6 @@ DCO_MAC,DCO_MAC_Av6--LI09_3,dna_region,v6
 DCO_MAC,DCO_MAC_Av6--LI09_3,domain,Archaea
 DCO_MAC,DCO_MAC_Av6--LI09_3,elevation,null
 DCO_MAC,DCO_MAC_Av6--LI09_3,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Av6--LI09_3,env_feature,null
-DCO_MAC,DCO_MAC_Av6--LI09_3,env_material,null
 DCO_MAC,DCO_MAC_Av6--LI09_3,env_package,null
 DCO_MAC,DCO_MAC_Av6--LI09_3,enzyme_activities,null
 DCO_MAC,DCO_MAC_Av6--LI09_3,feature_secondary,null
@@ -41574,8 +41267,6 @@ DCO_MAC,DCO_MAC_Av6--LI09_4,dna_region,v6
 DCO_MAC,DCO_MAC_Av6--LI09_4,domain,Archaea
 DCO_MAC,DCO_MAC_Av6--LI09_4,elevation,null
 DCO_MAC,DCO_MAC_Av6--LI09_4,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Av6--LI09_4,env_feature,null
-DCO_MAC,DCO_MAC_Av6--LI09_4,env_material,null
 DCO_MAC,DCO_MAC_Av6--LI09_4,env_package,null
 DCO_MAC,DCO_MAC_Av6--LI09_4,enzyme_activities,null
 DCO_MAC,DCO_MAC_Av6--LI09_4,feature_secondary,null
@@ -41672,8 +41363,6 @@ DCO_MAC,DCO_MAC_Av6--LI09_5,dna_region,v6
 DCO_MAC,DCO_MAC_Av6--LI09_5,domain,Archaea
 DCO_MAC,DCO_MAC_Av6--LI09_5,elevation,null
 DCO_MAC,DCO_MAC_Av6--LI09_5,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Av6--LI09_5,env_feature,null
-DCO_MAC,DCO_MAC_Av6--LI09_5,env_material,null
 DCO_MAC,DCO_MAC_Av6--LI09_5,env_package,null
 DCO_MAC,DCO_MAC_Av6--LI09_5,enzyme_activities,null
 DCO_MAC,DCO_MAC_Av6--LI09_5,feature_secondary,null
@@ -41770,8 +41459,6 @@ DCO_MAC,DCO_MAC_Av6--LI13_2,dna_region,v6
 DCO_MAC,DCO_MAC_Av6--LI13_2,domain,Archaea
 DCO_MAC,DCO_MAC_Av6--LI13_2,elevation,null
 DCO_MAC,DCO_MAC_Av6--LI13_2,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Av6--LI13_2,env_feature,null
-DCO_MAC,DCO_MAC_Av6--LI13_2,env_material,null
 DCO_MAC,DCO_MAC_Av6--LI13_2,env_package,null
 DCO_MAC,DCO_MAC_Av6--LI13_2,enzyme_activities,null
 DCO_MAC,DCO_MAC_Av6--LI13_2,feature_secondary,null
@@ -41868,8 +41555,6 @@ DCO_MAC,DCO_MAC_Av6--LO13_2,dna_region,v6
 DCO_MAC,DCO_MAC_Av6--LO13_2,domain,Archaea
 DCO_MAC,DCO_MAC_Av6--LO13_2,elevation,null
 DCO_MAC,DCO_MAC_Av6--LO13_2,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Av6--LO13_2,env_feature,null
-DCO_MAC,DCO_MAC_Av6--LO13_2,env_material,null
 DCO_MAC,DCO_MAC_Av6--LO13_2,env_package,null
 DCO_MAC,DCO_MAC_Av6--LO13_2,enzyme_activities,null
 DCO_MAC,DCO_MAC_Av6--LO13_2,feature_secondary,null
@@ -41966,8 +41651,6 @@ DCO_MAC,DCO_MAC_Av6--LO13_8,dna_region,v6
 DCO_MAC,DCO_MAC_Av6--LO13_8,domain,Archaea
 DCO_MAC,DCO_MAC_Av6--LO13_8,elevation,null
 DCO_MAC,DCO_MAC_Av6--LO13_8,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Av6--LO13_8,env_feature,null
-DCO_MAC,DCO_MAC_Av6--LO13_8,env_material,null
 DCO_MAC,DCO_MAC_Av6--LO13_8,env_package,null
 DCO_MAC,DCO_MAC_Av6--LO13_8,enzyme_activities,null
 DCO_MAC,DCO_MAC_Av6--LO13_8,feature_secondary,null
@@ -42064,8 +41747,6 @@ DCO_MAC,DCO_MAC_Av6--LV13_5,dna_region,v6
 DCO_MAC,DCO_MAC_Av6--LV13_5,domain,Archaea
 DCO_MAC,DCO_MAC_Av6--LV13_5,elevation,null
 DCO_MAC,DCO_MAC_Av6--LV13_5,env_biome,"terrestrial biome"
-DCO_MAC,DCO_MAC_Av6--LV13_5,env_feature,null
-DCO_MAC,DCO_MAC_Av6--LV13_5,env_material,null
 DCO_MAC,DCO_MAC_Av6--LV13_5,env_package,null
 DCO_MAC,DCO_MAC_Av6--LV13_5,enzyme_activities,null
 DCO_MAC,DCO_MAC_Av6--LV13_5,feature_secondary,null
@@ -46014,9 +45695,6 @@ DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,dna_quantitation,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,dna_region,v4v5
 DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,domain,Bacteria
 DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,elevation,null
-DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,env_biome,null
-DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,env_feature,null
-DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,env_material,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,env_package,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,enzyme_activities,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,feature_secondary,null
@@ -46600,9 +46278,6 @@ DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,dna_quantitation,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,dna_region,v4v5
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,domain,Bacteria
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,elevation,null
-DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,env_biome,null
-DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,env_feature,null
-DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,env_material,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,env_package,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,enzyme_activities,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,feature_secondary,null
@@ -46794,9 +46469,6 @@ DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,dna_quantitation,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,dna_region,v4v5
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,domain,Bacteria
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,elevation,null
-DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,env_biome,null
-DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,env_feature,null
-DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,env_material,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,env_package,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,enzyme_activities,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,feature_secondary,null
@@ -46988,9 +46660,6 @@ DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,dna_quantitation,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,dna_region,v4v5
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,domain,Bacteria
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,elevation,null
-DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,env_biome,null
-DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,env_feature,null
-DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,env_material,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,env_package,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,enzyme_activities,null
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,feature_secondary,null
@@ -47476,9 +47145,6 @@ DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,dna_quantitation,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,dna_region,v4v5
 DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,domain,Archaea
 DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,elevation,null
-DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,env_biome,null
-DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,env_feature,null
-DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,env_material,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,env_package,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,enzyme_activities,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,feature_secondary,null
@@ -48062,9 +47728,6 @@ DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,dna_quantitation,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,dna_region,v4v5
 DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,domain,Archaea
 DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,elevation,null
-DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,env_biome,null
-DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,env_feature,null
-DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,env_material,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,env_package,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,enzyme_activities,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,feature_secondary,null
@@ -48256,9 +47919,6 @@ DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,dna_quantitation,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,dna_region,v4v5
 DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,domain,Archaea
 DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,elevation,null
-DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,env_biome,null
-DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,env_feature,null
-DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,env_material,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,env_package,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,enzyme_activities,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,feature_secondary,null
@@ -48450,9 +48110,6 @@ DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,dna_quantitation,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,dna_region,v4v5
 DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,domain,Archaea
 DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,elevation,null
-DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,env_biome,null
-DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,env_feature,null
-DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,env_material,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,env_package,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,enzyme_activities,null
 DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,feature_secondary,null
@@ -49742,7 +49399,6 @@ DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_150_m_from_summit_5,dna_region,v4v5
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_150_m_from_summit_5,domain,Bacteria
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_150_m_from_summit_5,elevation,null
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_150_m_from_summit_5,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_150_m_from_summit_5,env_feature,null
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_150_m_from_summit_5,env_material,sediment
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_150_m_from_summit_5,env_package,sediment
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_150_m_from_summit_5,enzyme_activities,null
@@ -49841,7 +49497,6 @@ DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_2,dna_region,v4v5
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_2,domain,Bacteria
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_2,elevation,null
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_2,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_2,env_feature,null
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_2,env_material,sediment
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_2,env_package,sediment
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_2,enzyme_activities,null
@@ -49940,7 +49595,6 @@ DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_48,dna_region,v4v5
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_48,domain,Bacteria
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_48,elevation,null
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_48,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_48,env_feature,null
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_48,env_material,sediment
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_48,env_package,sediment
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_48,enzyme_activities,null
@@ -50039,7 +49693,6 @@ DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_2,dna_region,v4v5
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_2,domain,Bacteria
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_2,elevation,null
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_2,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_2,env_feature,null
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_2,env_material,sediment
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_2,env_package,sediment
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_2,enzyme_activities,null
@@ -50138,7 +49791,6 @@ DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_470,dna_region,v4v5
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_470,domain,Bacteria
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_470,elevation,null
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_470,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_470,env_feature,null
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_470,env_material,sediment
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_470,env_package,sediment
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_470,enzyme_activities,null
@@ -50237,7 +49889,6 @@ DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_88,dna_region,v4v5
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_88,domain,Bacteria
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_88,elevation,null
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_88,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_88,env_feature,null
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_88,env_material,sediment
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_88,env_package,sediment
 DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_88,enzyme_activities,null
@@ -50336,7 +49987,6 @@ DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_220,dna_region,v4v5
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_220,domain,Archaea
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_220,elevation,null
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_220,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_220,env_feature,null
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_220,env_material,sediment
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_220,env_package,sediment
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_220,enzyme_activities,null
@@ -50435,7 +50085,6 @@ DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_40,dna_region,v4v5
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_40,domain,Archaea
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_40,elevation,null
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_40,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_40,env_feature,null
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_40,env_material,sediment
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_40,env_package,sediment
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_40,enzyme_activities,null
@@ -50633,7 +50282,6 @@ DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_5,dna_region,v4v5
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_5,domain,Archaea
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_5,elevation,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_5,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_5,env_feature,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_5,env_material,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_5,env_package,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_5,enzyme_activities,null
@@ -50732,7 +50380,6 @@ DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_60,dna_region,v4v5
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_60,domain,Archaea
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_60,elevation,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_60,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_60,env_feature,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_60,env_material,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_60,env_package,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_60,enzyme_activities,null
@@ -50831,7 +50478,6 @@ DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_2,dna_region,v4v5
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_2,domain,Archaea
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_2,elevation,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_2,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_2,env_feature,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_2,env_material,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_2,env_package,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_2,enzyme_activities,null
@@ -50930,7 +50576,6 @@ DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_267,dna_region,v4v5
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_267,domain,Archaea
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_267,elevation,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_267,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_267,env_feature,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_267,env_material,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_267,env_package,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_267,enzyme_activities,null
@@ -51029,7 +50674,6 @@ DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_48,dna_region,v4v5
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_48,domain,Archaea
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_48,elevation,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_48,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_48,env_feature,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_48,env_material,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_48,env_package,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_48,enzyme_activities,null
@@ -51128,7 +50772,6 @@ DCO_KLA,DCO_KLA_Av4v5--Venere_summit_2,dna_region,v4v5
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_2,domain,Archaea
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_2,elevation,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_2,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Av4v5--Venere_summit_2,env_feature,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_2,env_material,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_2,env_package,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_2,enzyme_activities,null
@@ -51227,7 +50870,6 @@ DCO_KLA,DCO_KLA_Av4v5--Venere_summit_470,dna_region,v4v5
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_470,domain,Archaea
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_470,elevation,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_470,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Av4v5--Venere_summit_470,env_feature,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_470,env_material,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_470,env_package,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_470,enzyme_activities,null
@@ -51326,7 +50968,6 @@ DCO_KLA,DCO_KLA_Av4v5--Venere_summit_88,dna_region,v4v5
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_88,domain,Archaea
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_88,elevation,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_88,env_biome,"marine biome"
-DCO_KLA,DCO_KLA_Av4v5--Venere_summit_88,env_feature,null
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_88,env_material,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_88,env_package,sediment
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_88,enzyme_activities,null
@@ -66660,9 +66301,7 @@ DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,dna_quantitation,null
 DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,dna_region,v6
 DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,domain,Bacteria
 DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,elevation,null
-DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,env_biome,null
 DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,env_feature,borehole
-DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,env_material,null
 DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,env_package,null
 DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,enzyme_activities,null
 DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,feature_secondary,null
@@ -67558,9 +67197,6 @@ DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,dna_quantitation,null
 DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,dna_region,v6
 DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,domain,Archaea
 DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,elevation,null
-DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,env_biome,null
-DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,env_feature,null
-DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,env_material,null
 DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,env_package,null
 DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,enzyme_activities,null
 DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,feature_secondary,null
@@ -67856,9 +67492,6 @@ DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,dna_quantitation,null
 DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,dna_region,v6
 DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,domain,Archaea
 DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,elevation,null
-DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,env_biome,null
-DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,env_feature,null
-DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,env_material,null
 DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,env_package,null
 DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,enzyme_activities,null
 DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,feature_secondary,null
@@ -69812,136 +69445,495 @@ DCO_BKR,DCO_BKR_Av4v5--Knox_65C_7H2,tot_inorg_carb,null
 DCO_BKR,DCO_BKR_Av4v5--Knox_65C_7H2,tot_org_carb,null
 DCO_BKR,DCO_BKR_Av4v5--Knox_65C_7H2,trace_element_geochem,null
 DCO_BKR,DCO_BKR_Av4v5--Knox_65C_7H2,water_age,null
+DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,env_biome,"marine biome"
+DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,env_feature,borehole
+DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,env_material,sediment
 DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,latitude,58.7
 DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,longitude,-178.56
+DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,env_biome,"marine biome"
+DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,env_feature,borehole
+DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,env_material,sediment
 DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,latitude,58.7
 DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,longitude,-178.56
+DCO_TIA2,DCO_TIA2_Bv4v5--A301GC,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Bv4v5--A301GC,env_feature,well
+DCO_TIA2,DCO_TIA2_Bv4v5--A301GC,env_material,water
+DCO_TIA2,DCO_TIA2_Bv4v5--A301MO,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Bv4v5--A301MO,env_feature,well
+DCO_TIA2,DCO_TIA2_Bv4v5--A301MO,env_material,water
+DCO_TIA2,DCO_TIA2_Bv4v5--A302MO,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Bv4v5--A302MO,env_feature,well
+DCO_TIA2,DCO_TIA2_Bv4v5--A302MO,env_material,water
+DCO_TIA2,DCO_TIA2_Bv4v5--A303GC,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Bv4v5--A303GC,env_feature,well
+DCO_TIA2,DCO_TIA2_Bv4v5--A303GC,env_material,water
+DCO_TIA2,DCO_TIA2_Bv4v5--A501GC,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Bv4v5--A501GC,env_feature,well
+DCO_TIA2,DCO_TIA2_Bv4v5--A501GC,env_material,water
+DCO_TIA2,DCO_TIA2_Bv4v5--A501MO,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Bv4v5--A501MO,env_feature,well
+DCO_TIA2,DCO_TIA2_Bv4v5--A501MO,env_material,water
+DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,env_feature,well
+DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,env_material,water
+DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,env_feature,well
+DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,env_material,water
+DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,env_feature,well
+DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,env_material,water
+DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,env_feature,well
+DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,env_material,water
+DCO_TIA2,DCO_TIA2_Av4v5--A301GC,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Av4v5--A301GC,env_feature,well
+DCO_TIA2,DCO_TIA2_Av4v5--A301GC,env_material,water
+DCO_TIA2,DCO_TIA2_Av4v5--A301MO,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Av4v5--A301MO,env_feature,well
+DCO_TIA2,DCO_TIA2_Av4v5--A301MO,env_material,water
+DCO_TIA2,DCO_TIA2_Av4v5--A302MO,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Av4v5--A302MO,env_feature,well
+DCO_TIA2,DCO_TIA2_Av4v5--A302MO,env_material,water
+DCO_TIA2,DCO_TIA2_Av4v5--A303GC,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Av4v5--A303GC,env_feature,well
+DCO_TIA2,DCO_TIA2_Av4v5--A303GC,env_material,water
+DCO_TIA2,DCO_TIA2_Av4v5--A501GC,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Av4v5--A501GC,env_feature,well
+DCO_TIA2,DCO_TIA2_Av4v5--A501GC,env_material,water
+DCO_TIA2,DCO_TIA2_Av4v5--A501MO,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Av4v5--A501MO,env_feature,well
+DCO_TIA2,DCO_TIA2_Av4v5--A501MO,env_material,water
+DCO_TIA2,DCO_TIA2_Av4v5--A502GCA,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Av4v5--A502GCA,env_feature,well
+DCO_TIA2,DCO_TIA2_Av4v5--A502GCA,env_material,water
+DCO_TIA2,DCO_TIA2_Av4v5--A502GCB,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Av4v5--A502GCB,env_feature,well
+DCO_TIA2,DCO_TIA2_Av4v5--A502GCB,env_material,water
+DCO_TIA2,DCO_TIA2_Av4v5--A502MO,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Av4v5--A502MO,env_feature,well
+DCO_TIA2,DCO_TIA2_Av4v5--A502MO,env_material,water
+DCO_TIA2,DCO_TIA2_Av4v5--A502MOB,env_biome,"terrestrial biome"
+DCO_TIA2,DCO_TIA2_Av4v5--A502MOB,env_feature,well
+DCO_TIA2,DCO_TIA2_Av4v5--A502MOB,env_material,water
+DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,env_feature,borehole
+DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,env_feature,borehole
+DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,env_feature,borehole
+DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,env_feature,borehole
+DCO_TCO,DCO_TCO_Av6--FI88FW031012,env_feature,borehole
+DCO_TCO,DCO_TCO_Av6--MM51940FW200712,env_feature,borehole
+DCO_TCO,DCO_TCO_Av6--NO14FW130912,env_feature,borehole
+DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,env_biome,"terrestrial biome"
+DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,env_feature,borehole
+DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,env_material,water
 DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,latitude,-26.42
 DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,longitude,27.43
+DCO_SYL,DCO_SYL_Bv6v4--Aurora_blank,env_biome,"marine biome"
+DCO_SAR,DCO_SAR_Bv4v5--A1_,env_biome,"terrestrial biome"
+DCO_SAR,DCO_SAR_Bv4v5--A1_,env_feature,borehole
+DCO_SAR,DCO_SAR_Bv4v5--A1_,env_material,rock
 DCO_SAR,DCO_SAR_Bv4v5--A1_,latitude,17.12
 DCO_SAR,DCO_SAR_Bv4v5--A1_,longitude,73.87
+DCO_SAR,DCO_SAR_Bv4v5--A2_,env_biome,"terrestrial biome"
+DCO_SAR,DCO_SAR_Bv4v5--A2_,env_feature,borehole
+DCO_SAR,DCO_SAR_Bv4v5--A2_,env_material,rock
 DCO_SAR,DCO_SAR_Bv4v5--A2_,latitude,17.12
 DCO_SAR,DCO_SAR_Bv4v5--A2_,longitude,73.87
+DCO_SAR,DCO_SAR_Bv4v5--A3_,env_biome,"terrestrial biome"
+DCO_SAR,DCO_SAR_Bv4v5--A3_,env_feature,borehole
+DCO_SAR,DCO_SAR_Bv4v5--A3_,env_material,rock
 DCO_SAR,DCO_SAR_Bv4v5--A3_,latitude,17.12
 DCO_SAR,DCO_SAR_Bv4v5--A3_,longitude,73.87
+DCO_SAR,DCO_SAR_Bv4v5--A4_,env_biome,"terrestrial biome"
+DCO_SAR,DCO_SAR_Bv4v5--A4_,env_feature,borehole
+DCO_SAR,DCO_SAR_Bv4v5--A4_,env_material,rock
 DCO_SAR,DCO_SAR_Bv4v5--A4_,latitude,17.12
 DCO_SAR,DCO_SAR_Bv4v5--A4_,longitude,73.87
+DCO_SAR,DCO_SAR_Bv4v5--A5_,env_biome,"terrestrial biome"
+DCO_SAR,DCO_SAR_Bv4v5--A5_,env_feature,borehole
+DCO_SAR,DCO_SAR_Bv4v5--A5_,env_material,rock
 DCO_SAR,DCO_SAR_Bv4v5--A5_,latitude,17.12
 DCO_SAR,DCO_SAR_Bv4v5--A5_,longitude,73.87
+DCO_SAR,DCO_SAR_Bv4v5--B1_,env_biome,"terrestrial biome"
+DCO_SAR,DCO_SAR_Bv4v5--B1_,env_feature,borehole
+DCO_SAR,DCO_SAR_Bv4v5--B1_,env_material,rock
 DCO_SAR,DCO_SAR_Bv4v5--B1_,latitude,17.12
 DCO_SAR,DCO_SAR_Bv4v5--B1_,longitude,73.87
+DCO_SAR,DCO_SAR_Bv4v5--B2_,env_biome,"terrestrial biome"
+DCO_SAR,DCO_SAR_Bv4v5--B2_,env_feature,borehole
+DCO_SAR,DCO_SAR_Bv4v5--B2_,env_material,rock
 DCO_SAR,DCO_SAR_Bv4v5--B2_,latitude,17.12
 DCO_SAR,DCO_SAR_Bv4v5--B2_,longitude,73.87
+DCO_SAR,DCO_SAR_Bv4v5--B3_,env_biome,"terrestrial biome"
+DCO_SAR,DCO_SAR_Bv4v5--B3_,env_feature,borehole
+DCO_SAR,DCO_SAR_Bv4v5--B3_,env_material,rock
 DCO_SAR,DCO_SAR_Bv4v5--B3_,latitude,17.12
 DCO_SAR,DCO_SAR_Bv4v5--B3_,longitude,73.87
+DCO_SAR,DCO_SAR_Bv4v5--B4_,env_biome,"terrestrial biome"
+DCO_SAR,DCO_SAR_Bv4v5--B4_,env_feature,borehole
+DCO_SAR,DCO_SAR_Bv4v5--B4_,env_material,rock
 DCO_SAR,DCO_SAR_Bv4v5--B4_,latitude,17.12
 DCO_SAR,DCO_SAR_Bv4v5--B4_,longitude,73.87
+DCO_SAR,DCO_SAR_Bv4v5--B5_,env_biome,"terrestrial biome"
+DCO_SAR,DCO_SAR_Bv4v5--B5_,env_feature,borehole
+DCO_SAR,DCO_SAR_Bv4v5--B5_,env_material,rock
 DCO_SAR,DCO_SAR_Bv4v5--B5_,latitude,17.12
 DCO_SAR,DCO_SAR_Bv4v5--B5_,longitude,73.87
+DCO_SAR,DCO_SAR_Bv4v5--B6_,env_biome,"terrestrial biome"
+DCO_SAR,DCO_SAR_Bv4v5--B6_,env_feature,borehole
+DCO_SAR,DCO_SAR_Bv4v5--B6_,env_material,rock
 DCO_SAR,DCO_SAR_Bv4v5--B6_,latitude,17.12
 DCO_SAR,DCO_SAR_Bv4v5--B6_,longitude,73.87
+DCO_SAR,DCO_SAR_Bv4v5--BL_Control,env_biome,"terrestrial biome"
+DCO_SAR,DCO_SAR_Bv4v5--BL_Control,env_feature,borehole
+DCO_SAR,DCO_SAR_Bv4v5--BL_Control,env_material,rock
+DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--69_FE_1_ATM10,longitude,-42.143555
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_1,longitude,-42.143555
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_F1_2,longitude,-42.143555
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_FE_1,longitude,-42.143555
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_1,longitude,-42.143555
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--70B_P_MET2_2,longitude,-42.143555
+DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--70O_F1_ATM10,longitude,-42.143555
+DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--70O_FE_2_ATM10,longitude,-42.143555
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_1,longitude,-42.143555
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_F1_2,longitude,-42.143555
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_FE_1,longitude,-42.143555
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_1,longitude,-42.143555
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--70O_P_MET2_2,longitude,-42.143555
+DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,env_biome,"marine biome"
+DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,env_feature,"hydrothermal vent"
+DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,env_material,rock
 DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,latitude,30.119789
 DCO_QUE,DCO_QUE_Bv4v5--72_F1_2_ATM10,longitude,-42.143555
+DCO_PPA,DCO_PPA_Bv6v4--1301A_1a,env_feature,enrichment
+DCO_PPA,DCO_PPA_Bv6v4--1301A_1a,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Bv6v4--1301A_1b,env_feature,enrichment
+DCO_PPA,DCO_PPA_Bv6v4--1301A_1b,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Bv6v4--1301A_1c,env_feature,enrichment
+DCO_PPA,DCO_PPA_Bv6v4--1301A_1c,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Bv6v4--1301A_1d,env_feature,enrichment
+DCO_PPA,DCO_PPA_Bv6v4--1301A_1d,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Bv6v4--1301A_3a,env_feature,enrichment
+DCO_PPA,DCO_PPA_Bv6v4--1301A_3a,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Bv6v4--1301A_3b,env_feature,enrichment
+DCO_PPA,DCO_PPA_Bv6v4--1301A_3b,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Bv6v4--1301A_3c,env_feature,enrichment
+DCO_PPA,DCO_PPA_Bv6v4--1301A_3c,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Bv6v4--1301A_3d,env_feature,enrichment
+DCO_PPA,DCO_PPA_Bv6v4--1301A_3d,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Av6v4--1301A_1a,env_feature,enrichment
+DCO_PPA,DCO_PPA_Av6v4--1301A_1a,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Av6v4--1301A_1b,env_feature,enrichment
+DCO_PPA,DCO_PPA_Av6v4--1301A_1b,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Av6v4--1301A_1c,env_feature,enrichment
+DCO_PPA,DCO_PPA_Av6v4--1301A_1c,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Av6v4--1301A_1d,env_feature,enrichment
+DCO_PPA,DCO_PPA_Av6v4--1301A_1d,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Av6v4--1301A_3a,env_feature,enrichment
+DCO_PPA,DCO_PPA_Av6v4--1301A_3a,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Av6v4--1301A_3b,env_feature,enrichment
+DCO_PPA,DCO_PPA_Av6v4--1301A_3b,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Av6v4--1301A_3c,env_feature,enrichment
+DCO_PPA,DCO_PPA_Av6v4--1301A_3c,env_material,"microbial mat material"
+DCO_PPA,DCO_PPA_Av6v4--1301A_3d,env_feature,enrichment
+DCO_PPA,DCO_PPA_Av6v4--1301A_3d,env_material,"microbial mat material"
+DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,env_biome,"terrestrial biome"
+DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,env_feature,borehole
+DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,env_material,rock
 DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,latitude,17.12
 DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,longitude,73.87
+DCO_PIN,DCO_PIN_Av4v5--A1_,env_biome,"terrestrial biome"
+DCO_PIN,DCO_PIN_Av4v5--A1_,env_feature,borehole
+DCO_PIN,DCO_PIN_Av4v5--A1_,env_material,rock
 DCO_PIN,DCO_PIN_Av4v5--A1_,latitude,17.12
 DCO_PIN,DCO_PIN_Av4v5--A1_,longitude,73.87
+DCO_PIN,DCO_PIN_Av4v5--A2_,env_biome,"terrestrial biome"
+DCO_PIN,DCO_PIN_Av4v5--A2_,env_feature,borehole
+DCO_PIN,DCO_PIN_Av4v5--A2_,env_material,rock
 DCO_PIN,DCO_PIN_Av4v5--A2_,latitude,17.12
 DCO_PIN,DCO_PIN_Av4v5--A2_,longitude,73.87
+DCO_PIN,DCO_PIN_Av4v5--A3_,env_biome,"terrestrial biome"
+DCO_PIN,DCO_PIN_Av4v5--A3_,env_feature,borehole
+DCO_PIN,DCO_PIN_Av4v5--A3_,env_material,rock
 DCO_PIN,DCO_PIN_Av4v5--A3_,latitude,17.12
 DCO_PIN,DCO_PIN_Av4v5--A3_,longitude,73.87
+DCO_PIN,DCO_PIN_Av4v5--A4_,env_biome,"terrestrial biome"
+DCO_PIN,DCO_PIN_Av4v5--A4_,env_feature,borehole
+DCO_PIN,DCO_PIN_Av4v5--A4_,env_material,rock
 DCO_PIN,DCO_PIN_Av4v5--A4_,latitude,17.12
 DCO_PIN,DCO_PIN_Av4v5--A4_,longitude,73.87
+DCO_PIN,DCO_PIN_Av4v5--A5_,env_biome,"terrestrial biome"
+DCO_PIN,DCO_PIN_Av4v5--A5_,env_feature,borehole
+DCO_PIN,DCO_PIN_Av4v5--A5_,env_material,rock
 DCO_PIN,DCO_PIN_Av4v5--A5_,latitude,17.12
 DCO_PIN,DCO_PIN_Av4v5--A5_,longitude,73.87
+DCO_PIN,DCO_PIN_Av4v5--B1_,env_biome,"terrestrial biome"
+DCO_PIN,DCO_PIN_Av4v5--B1_,env_feature,borehole
+DCO_PIN,DCO_PIN_Av4v5--B1_,env_material,rock
 DCO_PIN,DCO_PIN_Av4v5--B1_,latitude,17.12
 DCO_PIN,DCO_PIN_Av4v5--B1_,longitude,73.87
+DCO_PIN,DCO_PIN_Av4v5--B2_,env_biome,"terrestrial biome"
+DCO_PIN,DCO_PIN_Av4v5--B2_,env_feature,borehole
+DCO_PIN,DCO_PIN_Av4v5--B2_,env_material,rock
 DCO_PIN,DCO_PIN_Av4v5--B2_,latitude,17.12
 DCO_PIN,DCO_PIN_Av4v5--B2_,longitude,73.87
+DCO_PIN,DCO_PIN_Av4v5--B3_,env_biome,"terrestrial biome"
+DCO_PIN,DCO_PIN_Av4v5--B3_,env_feature,borehole
+DCO_PIN,DCO_PIN_Av4v5--B3_,env_material,rock
 DCO_PIN,DCO_PIN_Av4v5--B3_,latitude,17.12
 DCO_PIN,DCO_PIN_Av4v5--B3_,longitude,73.87
+DCO_PIN,DCO_PIN_Av4v5--B4_,env_biome,"terrestrial biome"
+DCO_PIN,DCO_PIN_Av4v5--B4_,env_feature,borehole
+DCO_PIN,DCO_PIN_Av4v5--B4_,env_material,rock
 DCO_PIN,DCO_PIN_Av4v5--B4_,latitude,17.12
 DCO_PIN,DCO_PIN_Av4v5--B4_,longitude,73.87
+DCO_PIN,DCO_PIN_Av4v5--B5_,env_biome,"terrestrial biome"
+DCO_PIN,DCO_PIN_Av4v5--B5_,env_feature,borehole
+DCO_PIN,DCO_PIN_Av4v5--B5_,env_material,rock
 DCO_PIN,DCO_PIN_Av4v5--B5_,latitude,17.12
 DCO_PIN,DCO_PIN_Av4v5--B5_,longitude,73.87
+DCO_PIN,DCO_PIN_Av4v5--B6_,env_biome,"terrestrial biome"
+DCO_PIN,DCO_PIN_Av4v5--B6_,env_feature,borehole
+DCO_PIN,DCO_PIN_Av4v5--B6_,env_material,rock
 DCO_PIN,DCO_PIN_Av4v5--B6_,latitude,17.12
 DCO_PIN,DCO_PIN_Av4v5--B6_,longitude,73.87
+DCO_PED,DCO_PED_Av6--OL_KR55,env_material,water
+DCO_PED,DCO_PED_Av6--OL_KR56,env_material,water
+DCO_PED,DCO_PED_Av6--ONK_PVA08,env_material,water
+DCO_PED,DCO_PED_Av6--ONK_PVA3,env_material,water
+DCO_PED,DCO_PED_Av6--ONK_PVA5,env_material,water
+DCO_PED,DCO_PED_Av6--ONK_PVA6,env_biome,"terrestrial biome"
+DCO_PED,DCO_PED_Av6--ONK_PVA6,env_feature,borehole
+DCO_PED,DCO_PED_Av6--ONK_PVA6,env_material,water
 DCO_PED,DCO_PED_Av6--ONK_PVA6,latitude,61.2369
 DCO_PED,DCO_PED_Av6--ONK_PVA6,longitude,21.4408
+DCO_PED,DCO_PED_Av6--SURE2_C1_3_1_cell2,env_material,water
+DCO_PED,DCO_PED_Av6--SURE2_P7_S1,env_material,water
+DCO_PED,DCO_PED_Av6--SURE2_P7_S2,env_material,water
+DCO_PED,DCO_PED_Av6--SURE2_P7_S3,env_material,water
+DCO_PED,DCO_PED_Av6--SURE3_C1_1,env_material,water
+DCO_PED,DCO_PED_Av6--SURE3_C2_2_3_1,env_material,water
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,env_biome,"marine biome"
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,env_feature,borehole
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,env_material,sediment
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,latitude,22.75
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,longitude,-46.08
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,env_biome,"marine biome"
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,env_feature,borehole
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,env_material,sediment
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,latitude,22.75
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,longitude,-46.08
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,env_biome,"marine biome"
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,env_feature,borehole
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,env_material,sediment
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,latitude,22.75
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,longitude,-46.08
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,env_biome,"marine biome"
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,env_feature,borehole
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,env_material,sediment
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,latitude,22.75
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,longitude,-46.08
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,env_biome,"marine biome"
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,env_feature,borehole
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,env_material,sediment
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,latitude,22.75
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,longitude,-46.08
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,env_biome,"marine biome"
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,env_feature,borehole
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,env_material,sediment
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,latitude,22.75
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,longitude,-46.08
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,env_biome,"marine biome"
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,env_feature,borehole
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,env_material,sediment
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,latitude,22.75
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,longitude,-46.08
+DCO_ORC,DCO_ORC_Av6v4--Orc4H1,env_material,sediment
+DCO_MOS,DCO_MOS_Bv6v4--KC_1_12_10_SW2_Bv6v4,env_biome,"terrestrial biome"
+DCO_MOS,DCO_MOS_Bv6v4--KC_1_12_10_SW2_Bv6v4,env_feature,mine
+DCO_MOS,DCO_MOS_Bv6v4--KC_7850_SWA_Bv6v4,env_biome,"terrestrial biome"
+DCO_MOS,DCO_MOS_Bv6v4--KC_7850_SWA_Bv6v4,env_feature,mine
+DCO_MOS,DCO_MOS_Bv6v4--KC_L7850_B_MF_Bv6v4,env_biome,"terrestrial biome"
+DCO_MOS,DCO_MOS_Bv6v4--KC_L7850_B_MF_Bv6v4,env_feature,mine
+DCO_MOS,DCO_MOS_Av6v4--KC_1_12_10_SW2_Av6v4,env_biome,"terrestrial biome"
+DCO_MOS,DCO_MOS_Av6v4--KC_1_12_10_SW2_Av6v4,env_feature,mine
+DCO_MOS,DCO_MOS_Av6v4--KC_7850_SWA_Av6v4,env_biome,"terrestrial biome"
+DCO_MOS,DCO_MOS_Av6v4--KC_7850_SWA_Av6v4,env_feature,mine
+DCO_MAR,DCO_MAR_Bv4v5--7B_,env_biome,"terrestrial biome"
+DCO_MAR,DCO_MAR_Bv4v5--7B_,env_feature,volcano
+DCO_MAR,DCO_MAR_Bv4v5--7B_,env_material,rock
 DCO_MAR,DCO_MAR_Bv4v5--7B_,latitude,-16.26
 DCO_MAR,DCO_MAR_Bv4v5--7B_,longitude,168.13
+DCO_MAR,DCO_MAR_Bv4v5--8B_,env_biome,"terrestrial biome"
+DCO_MAR,DCO_MAR_Bv4v5--8B_,env_feature,volcano
+DCO_MAR,DCO_MAR_Bv4v5--8B_,env_material,rock
 DCO_MAR,DCO_MAR_Bv4v5--8B_,latitude,-16.26
 DCO_MAR,DCO_MAR_Bv4v5--8B_,longitude,168.13
+DCO_MAR,DCO_MAR_Av4v5--10A,env_biome,"terrestrial biome"
+DCO_MAR,DCO_MAR_Av4v5--10A,env_feature,volcano
+DCO_MAR,DCO_MAR_Av4v5--10A,env_material,rock
 DCO_MAR,DCO_MAR_Av4v5--10A,latitude,-16.26
 DCO_MAR,DCO_MAR_Av4v5--10A,longitude,168.13
+DCO_MAR,DCO_MAR_Av4v5--7A_,env_biome,"terrestrial biome"
+DCO_MAR,DCO_MAR_Av4v5--7A_,env_feature,volcano
+DCO_MAR,DCO_MAR_Av4v5--7A_,env_material,rock
 DCO_MAR,DCO_MAR_Av4v5--7A_,latitude,-16.26
 DCO_MAR,DCO_MAR_Av4v5--7A_,longitude,168.13
+DCO_MAR,DCO_MAR_Av4v5--8A_,env_biome,"terrestrial biome"
+DCO_MAR,DCO_MAR_Av4v5--8A_,env_feature,volcano
+DCO_MAR,DCO_MAR_Av4v5--8A_,env_material,rock
 DCO_MAR,DCO_MAR_Av4v5--8A_,latitude,-16.26
 DCO_MAR,DCO_MAR_Av4v5--8A_,longitude,168.13
+DCO_MAR,DCO_MAR_Av4v5--9A_,env_biome,"terrestrial biome"
+DCO_MAR,DCO_MAR_Av4v5--9A_,env_feature,volcano
+DCO_MAR,DCO_MAR_Av4v5--9A_,env_material,rock
 DCO_MAR,DCO_MAR_Av4v5--9A_,latitude,-16.26
 DCO_MAR,DCO_MAR_Av4v5--9A_,longitude,168.13
+DCO_MAC,DCO_MAC_Bv6--LD09_2_3,env_feature,cave
+DCO_MAC,DCO_MAC_Bv6--LD09_2_3,env_material,water
+DCO_MAC,DCO_MAC_Bv6--LI09_3,env_feature,cave
+DCO_MAC,DCO_MAC_Bv6--LI09_3,env_material,water
+DCO_MAC,DCO_MAC_Bv6--LI09_4,env_feature,cave
+DCO_MAC,DCO_MAC_Bv6--LI09_4,env_material,water
+DCO_MAC,DCO_MAC_Bv6--LI09_5,env_feature,cave
+DCO_MAC,DCO_MAC_Bv6--LI09_5,env_material,water
+DCO_MAC,DCO_MAC_Bv6--LI13_2,env_feature,cave
+DCO_MAC,DCO_MAC_Bv6--LI13_2,env_material,water
+DCO_MAC,DCO_MAC_Bv6--LO13_2,env_feature,cave
+DCO_MAC,DCO_MAC_Bv6--LO13_2,env_material,water
+DCO_MAC,DCO_MAC_Bv6--LO13_8,env_feature,cave
+DCO_MAC,DCO_MAC_Bv6--LO13_8,env_material,water
+DCO_MAC,DCO_MAC_Bv6--LV13_5,env_feature,cave
+DCO_MAC,DCO_MAC_Bv6--LV13_5,env_material,water
+DCO_MAC,DCO_MAC_Av6--LD09_2_3,env_feature,cave
+DCO_MAC,DCO_MAC_Av6--LD09_2_3,env_material,water
+DCO_MAC,DCO_MAC_Av6--LI09_3,env_feature,cave
+DCO_MAC,DCO_MAC_Av6--LI09_3,env_material,water
+DCO_MAC,DCO_MAC_Av6--LI09_4,env_feature,cave
+DCO_MAC,DCO_MAC_Av6--LI09_4,env_material,water
+DCO_MAC,DCO_MAC_Av6--LI09_5,env_feature,cave
+DCO_MAC,DCO_MAC_Av6--LI09_5,env_material,water
+DCO_MAC,DCO_MAC_Av6--LI13_2,env_feature,cave
+DCO_MAC,DCO_MAC_Av6--LI13_2,env_material,water
+DCO_MAC,DCO_MAC_Av6--LO13_2,env_feature,cave
+DCO_MAC,DCO_MAC_Av6--LO13_2,env_material,water
+DCO_MAC,DCO_MAC_Av6--LO13_8,env_feature,cave
+DCO_MAC,DCO_MAC_Av6--LO13_8,env_material,water
+DCO_MAC,DCO_MAC_Av6--LV13_5,env_feature,cave
+DCO_MAC,DCO_MAC_Av6--LV13_5,env_material,water
 DCO_LOIH,DCO_LOIH_Bv4v5--J2_672_BM1_B12345,latitude,18.906
 DCO_LOIH,DCO_LOIH_Bv4v5--J2_672_BM1_B12345,longitude,-155.257
 DCO_LOIH,DCO_LOIH_Av4v5--J675red2black2_Av4v5,latitude,18.906
 DCO_LOIH,DCO_LOIH_Av4v5--J675red2black2_Av4v5,longitude,-155.257
 DCO_LOIH,DCO_LOIH_Av4v5--J675red2black2_B,latitude,18.906
 DCO_LOIH,DCO_LOIH_Av4v5--J675red2black2_B,longitude,-155.257
+DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,env_biome,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,env_feature,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,env_material,sediment
 DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,latitude,9.078
 DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,longitude,87.096
+DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,env_biome,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,env_feature,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,env_material,sediment
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,latitude,9.089
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,longitude,87.1
+DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,env_biome,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,env_feature,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,env_material,sediment
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,latitude,9.089
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,longitude,87.1
+DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,env_biome,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,env_feature,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,env_material,sediment
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,latitude,9.089
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,longitude,87.1
+DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,env_biome,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,env_feature,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,env_material,sediment
 DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,latitude,9.078
 DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,longitude,87.096
+DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,env_biome,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,env_feature,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,env_material,sediment
 DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,latitude,9.089
 DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,longitude,87.1
+DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,env_biome,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,env_feature,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,env_material,sediment
 DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,latitude,9.089
 DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,longitude,87.1
+DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,env_biome,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,env_feature,"marine hydrothermal vent"
+DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,env_material,sediment
 DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,latitude,9.089
 DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,longitude,87.1
+DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_150_m_from_summit_5,env_feature,seep
+DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_2,env_feature,seep
+DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_48,env_feature,seep
+DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_2,env_feature,seep
+DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_470,env_feature,seep
+DCO_KLA,DCO_KLA_Bv4v5--Venere_summit_88,env_feature,seep
+DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_220,env_feature,seep
+DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_40,env_feature,seep
+DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_5,env_feature,seep
+DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_60,env_feature,seep
+DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_2,env_feature,seep
+DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_267,env_feature,seep
+DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_48,env_feature,seep
+DCO_KLA,DCO_KLA_Av4v5--Venere_summit_2,env_feature,seep
+DCO_KLA,DCO_KLA_Av4v5--Venere_summit_470,env_feature,seep
+DCO_KLA,DCO_KLA_Av4v5--Venere_summit_88,env_feature,seep
 DCO_DAL,DCO_DAL_Bv4v5--AgiaParaskevi,latitude,39.924
 DCO_DAL,DCO_DAL_Bv4v5--AgiaParaskevi,longitude,23.59
 DCO_DAL,DCO_DAL_Bv4v5--Alexandria,latitude,40.667
@@ -69966,10 +69958,18 @@ DCO_DAL,DCO_DAL_Bv4v5--Termopigi,latitude,41.282
 DCO_DAL,DCO_DAL_Bv4v5--Termopigi,longitude,23.364
 DCO_DAL,DCO_DAL_Bv4v5--Traianoupoli,latitude,40.866
 DCO_DAL,DCO_DAL_Bv4v5--Traianoupoli,longitude,26.034
+DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,env_biome,"terrestrial biome"
+DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,env_material,water
 DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,latitude,61.24
 DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,longitude,21.44
+DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,env_biome,"terrestrial biome"
+DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,env_feature,borehole
+DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,env_material,water
 DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,latitude,61.24
 DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,longitude,21.44
+DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,env_biome,"terrestrial biome"
+DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,env_feature,borehole
+DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,env_material,water
 DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,latitude,61.24
 DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,longitude,21.44
 DCO_BKR,DCO_BKR_Av4v5--Aar_59E_25H2,blank_or_control,FALSE
@@ -69986,13 +69986,14 @@ DCO_BKR,DCO_BKR_Bv4v5--Knox_60B_28H2,blank_or_control,FALSE
 DCO_BKR,DCO_BKR_Bv4v5--Knox_63E_24H2,blank_or_control,FALSE
 DCO_BKR,DCO_BKR_Bv4v5--Knox_63E_6H2,blank_or_control,FALSE
 DCO_BKR,DCO_BKR_Bv4v5--Knox_DrillFluid_63E_NC,blank_or_control,TRUE
+DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,blank_or_control,FALSE
+DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,blank_or_control,FALSE
+DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Av6--OL_KR1_609m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Av6--OL_KR13_360m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Av6--OL_KR2_596m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Av6--OL_KR23_424m,blank_or_control,FALSE
-DCO_BOM,DCO_BOM_Av6--OL_KR29_801m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Av6--OL_KR3_380m,blank_or_control,FALSE
-DCO_BOM,DCO_BOM_Av6--OL_KR44_775m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Av6--OL_KR49_532m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Av6--OL_KR5_457m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Av6--OL_KR6_422m,blank_or_control,FALSE
@@ -70004,7 +70005,6 @@ DCO_BOM,DCO_BOM_Bv6--OL_KR2_596m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Bv6--OL_KR23_424m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Bv6--OL_KR29_801m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Bv6--OL_KR3_380m,blank_or_control,FALSE
-DCO_BOM,DCO_BOM_Bv6--OL_KR44_775m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Bv6--OL_KR49_532m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Bv6--OL_KR5_457m,blank_or_control,FALSE
 DCO_BOM,DCO_BOM_Bv6--OL_KR6_422m,blank_or_control,FALSE
@@ -70121,9 +70121,9 @@ DCO_CMT,DCO_CMT_Bv6--Sirena_Deep_ZeroPointTwoMicron,blank_or_control,FALSE
 DCO_CMT,DCO_CMT_Bv6--Ulithi_ThreeMicron,blank_or_control,FALSE
 DCO_CMT,DCO_CMT_Bv6--Ulithi_ZeroPointOneMicron,blank_or_control,FALSE
 DCO_CMT,DCO_CMT_Bv6--Ulithi_ZeroPointTwoMicron,blank_or_control,FALSE
+DCO_DAL,DCO_DAL_Bv4v5--Control,blank_or_control,TRUE
 DCO_DAL,DCO_DAL_Bv4v5--AgiaParaskevi,blank_or_control,FALSE
 DCO_DAL,DCO_DAL_Bv4v5--Alexandria,blank_or_control,FALSE
-DCO_DAL,DCO_DAL_Bv4v5--Control,blank_or_control,TRUE
 DCO_DAL,DCO_DAL_Bv4v5--Giotrisi,blank_or_control,FALSE
 DCO_DAL,DCO_DAL_Bv4v5--Kabasilon,blank_or_control,FALSE
 DCO_DAL,DCO_DAL_Bv4v5--Mesochori3,blank_or_control,FALSE
@@ -70187,9 +70187,10 @@ DCO_HIN,DCO_HIN_Bv6v4--DB_15102_1_23_43,blank_or_control,FALSE
 DCO_HIN,DCO_HIN_Bv6v4--EM_15103_2_21_34,blank_or_control,FALSE
 DCO_HIN,DCO_HIN_Bv6v4--EM_15103_2_220_240,blank_or_control,FALSE
 DCO_HIN,DCO_HIN_Bv6v4--EM_15103_2_435_455,blank_or_control,FALSE
+DCO_KLA,DCO_KLA_Av4v5--Extraction_blank,blank_or_control,TRUE
+DCO_KLA,DCO_KLA_Bv4v5--Extraction_blank,blank_or_control,TRUE
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_220,blank_or_control,FALSE
 DCO_KLA,DCO_KLA_Av4v5--Cetus_summit_40,blank_or_control,FALSE
-DCO_KLA,DCO_KLA_Av4v5--Extraction_blank,blank_or_control,TRUE
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_5,blank_or_control,FALSE
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_150_m_from_summit_60,blank_or_control,FALSE
 DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_2,blank_or_control,FALSE
@@ -70198,7 +70199,6 @@ DCO_KLA,DCO_KLA_Av4v5--Venere_flow_80_m_from_summit_48,blank_or_control,FALSE
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_2,blank_or_control,FALSE
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_470,blank_or_control,FALSE
 DCO_KLA,DCO_KLA_Av4v5--Venere_summit_88,blank_or_control,FALSE
-DCO_KLA,DCO_KLA_Bv4v5--Extraction_blank,blank_or_control,TRUE
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_150_m_from_summit_5,blank_or_control,FALSE
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_2,blank_or_control,FALSE
 DCO_KLA,DCO_KLA_Bv4v5--Venere_flow_80_m_from_summit_48,blank_or_control,FALSE
@@ -70217,34 +70217,34 @@ DCO_LAV,DCO_LAV_Bv6v4--Wallulua_2009_31,blank_or_control,FALSE
 DCO_LAV,DCO_LAV_Bv6v4--Wallulua_2009_39,blank_or_control,FALSE
 DCO_LAV,DCO_LAV_Bv6v4--Wallulua_2009_413,blank_or_control,FALSE
 DCO_LAV,DCO_LAV_Bv6v4--Wallulua_2011_34,blank_or_control,FALSE
-DCO_LAZ,DCO_LAZ_Av4v5--GC03top,blank_or_control,TRUE
-DCO_LAZ,DCO_LAZ_Av4v5--PC1A,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Av4v5--PC1A_2,blank_or_control,FALSE
+DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,blank_or_control,FALSE
+DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,blank_or_control,FALSE
+DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,blank_or_control,FALSE
+DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,blank_or_control,FALSE
+DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,blank_or_control,FALSE
+DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,blank_or_control,FALSE
+DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,blank_or_control,FALSE
+DCO_LAZ,DCO_LAZ_Av4v5--GC03top,blank_or_control,TRUE
+DCO_LAZ,DCO_LAZ_Bv4v5--GC03top,blank_or_control,TRUE
+DCO_LAZ,DCO_LAZ_Av4v5--PC1A,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Av4v5--PC2A,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Av4v5--PC2B,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Av4v5--PC2C,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Av4v5--PC2D,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Av4v5--PC3A,blank_or_control,FALSE
-DCO_LAZ,DCO_LAZ_Av4v5--PC3A_2,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Av4v5--PC3B,blank_or_control,FALSE
-DCO_LAZ,DCO_LAZ_Av4v5--PC3B_2,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Av4v5--PC3C,blank_or_control,FALSE
-DCO_LAZ,DCO_LAZ_Av4v5--PC3C_2,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Av4v5--PC4A,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Av4v5--PC4B,blank_or_control,FALSE
-DCO_LAZ,DCO_LAZ_Bv4v5--GC03top,blank_or_control,TRUE
 DCO_LAZ,DCO_LAZ_Bv4v5--PC1A,blank_or_control,FALSE
-DCO_LAZ,DCO_LAZ_Bv4v5--PC1A_2,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Bv4v5--PC2A,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Bv4v5--PC2B,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Bv4v5--PC2C,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Bv4v5--PC2D,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3A,blank_or_control,FALSE
-DCO_LAZ,DCO_LAZ_Bv4v5--PC3A_2,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3B,blank_or_control,FALSE
-DCO_LAZ,DCO_LAZ_Bv4v5--PC3B_2,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Bv4v5--PC3C,blank_or_control,FALSE
-DCO_LAZ,DCO_LAZ_Bv4v5--PC3C_2,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Bv4v5--PC4A,blank_or_control,FALSE
 DCO_LAZ,DCO_LAZ_Bv4v5--PC4B,blank_or_control,FALSE
 DCO_LIN,DCO_LIN_Bv6--TWNCO2_1518m,blank_or_control,FALSE
@@ -70271,16 +70271,16 @@ DCO_LIN,DCO_LIN_Bv6--TWNCO2_2496m,blank_or_control,FALSE
 DCO_LIN,DCO_LIN_Bv6--TWNCO2_2547m,blank_or_control,FALSE
 DCO_LIN,DCO_LIN_Bv6--TWNCO2_2616m,blank_or_control,FALSE
 DCO_LIN,DCO_LIN_Bv6--TWNCO2_2659m,blank_or_control,FALSE
+DCO_LOIH,DCO_LOIH_Av4v5--J675red2black2_B,blank_or_control,TRUE
+DCO_LOIH,DCO_LOIH_Av4v5--J675red2black2_Av4v5,blank_or_control,TRUE
+DCO_LOIH,DCO_LOIH_Bv4v5--J2_672_BM1_B12345,blank_or_control,TRUE
 DCO_LOIH,DCO_LOIH_Av4v5--J2_672_BM1_B12345,blank_or_control,FALSE
 DCO_LOIH,DCO_LOIH_Av4v5--J2_674_Scoop_2,blank_or_control,FALSE
 DCO_LOIH,DCO_LOIH_Av4v5--J672black_Av4v5,blank_or_control,FALSE
 DCO_LOIH,DCO_LOIH_Av4v5--J672yellow_Av4v5,blank_or_control,FALSE
-DCO_LOIH,DCO_LOIH_Av4v5--J675red2black2_Av4v5,blank_or_control,TRUE
-DCO_LOIH,DCO_LOIH_Av4v5--J675red2black2_B,blank_or_control,TRUE
 DCO_LOIH,DCO_LOIH_Av4v5--J675yellow_Av4v5,blank_or_control,FALSE
 DCO_LOIH,DCO_LOIH_Av4v5--J676black_Av4v5,blank_or_control,FALSE
 DCO_LOIH,DCO_LOIH_Av4v5--J676red_Av4v5,blank_or_control,FALSE
-DCO_LOIH,DCO_LOIH_Bv4v5--J2_672_BM1_B12345,blank_or_control,TRUE
 DCO_LOIH,DCO_LOIH_Bv4v5--J674black_Bv4v5,blank_or_control,FALSE
 DCO_LOIH,DCO_LOIH_Bv4v5--J675yellow_Bv4v5,blank_or_control,FALSE
 DCO_LOIH,DCO_LOIH_Bv4v5--J676black_Bv4v5,blank_or_control,FALSE
@@ -70306,18 +70306,18 @@ DCO_MAR,DCO_MAR_Av4v5--8A_,blank_or_control,FALSE
 DCO_MAR,DCO_MAR_Av4v5--9A_,blank_or_control,FALSE
 DCO_MAR,DCO_MAR_Bv4v5--7B_,blank_or_control,FALSE
 DCO_MAR,DCO_MAR_Bv4v5--8B_,blank_or_control,FALSE
-DCO_MOS,DCO_MOS_Av6v4--Bilby_DNA2_280312_Av6v4,blank_or_control,FALSE
-DCO_MOS,DCO_MOS_Av6v4--BLM_1A,blank_or_control,FALSE
 DCO_MOS,DCO_MOS_Av6v4--KC_1_12_10_SW2_Av6v4,blank_or_control,FALSE
 DCO_MOS,DCO_MOS_Av6v4--KC_7850_SWA_Av6v4,blank_or_control,FALSE
-DCO_MOS,DCO_MOS_Bv6v4--Bilby_DNA2_280312_Bv6v4,blank_or_control,FALSE
-DCO_MOS,DCO_MOS_Bv6v4--BLM_1B,blank_or_control,FALSE
-DCO_MOS,DCO_MOS_Bv6v4--ER_EC_11,blank_or_control,FALSE
 DCO_MOS,DCO_MOS_Bv6v4--KC_1_12_10_SW2_Bv6v4,blank_or_control,FALSE
 DCO_MOS,DCO_MOS_Bv6v4--KC_7850_SWA_Bv6v4,blank_or_control,FALSE
 DCO_MOS,DCO_MOS_Bv6v4--KC_L7850_B_MF_Bv6v4,blank_or_control,FALSE
-DCO_MOS,DCO_MOS_Bv6v4--Nevares_DW2B,blank_or_control,FALSE
+DCO_MOS,DCO_MOS_Av6v4--Bilby_DNA2_280312_Av6v4,blank_or_control,FALSE
+DCO_MOS,DCO_MOS_Bv6v4--Bilby_DNA2_280312_Bv6v4,blank_or_control,FALSE
 DCO_MOS,DCO_MOS_Bv6v4--U12N_10_tunnel,blank_or_control,FALSE
+DCO_MOS,DCO_MOS_Av6v4--BLM_1A,blank_or_control,FALSE
+DCO_MOS,DCO_MOS_Bv6v4--BLM_1B,blank_or_control,FALSE
+DCO_MOS,DCO_MOS_Bv6v4--ER_EC_11,blank_or_control,FALSE
+DCO_MOS,DCO_MOS_Bv6v4--Nevares_DW2B,blank_or_control,FALSE
 DCO_ONS,DCO_ONS_Av4v5--A_BE326FW010813_cap,blank_or_control,FALSE
 DCO_ONS,DCO_ONS_Av4v5--A_BE326FW080813_cap,blank_or_control,FALSE
 DCO_ONS,DCO_ONS_Av4v5--A_BE326FW150813_cap,blank_or_control,FALSE
@@ -70338,6 +70338,18 @@ DCO_ONS,DCO_ONS_Bv4v5--B_BE326FW250111,blank_or_control,FALSE
 DCO_ONS,DCO_ONS_Bv4v5--B_BE326FW270712,blank_or_control,FALSE
 DCO_ONS,DCO_ONS_Bv4v5--B_DR5IPC280513,blank_or_control,FALSE
 DCO_ONS,DCO_ONS_Bv4v5--B_DR5IPC280711,blank_or_control,FALSE
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,blank_or_control,FALSE
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,blank_or_control,FALSE
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,blank_or_control,FALSE
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,blank_or_control,FALSE
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,blank_or_control,FALSE
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,blank_or_control,FALSE
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,blank_or_control,FALSE
+DCO_ORC,DCO_ORC_Av6--IODP_X336_U1382B_Blank,blank_or_control,TRUE
+DCO_ORC,DCO_ORC_Av6v4--Orc4H3_upper_Av6v4,blank_or_control,TRUE
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_Blank,blank_or_control,TRUE
+DCO_ORC,DCO_ORC_Bv6v4--JdF6XCC,blank_or_control,TRUE
+DCO_ORC,DCO_ORC_Av6v4--Orc4H1,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Av6--IODP_X327_U1362A_21R1A,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Av6--IODP_X327_U1363D_6XCC,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Av6--IODP_X336_U1382B_10H4,blank_or_control,FALSE
@@ -70347,20 +70359,9 @@ DCO_ORC,DCO_ORC_Av6--IODP_X336_U1382B_2H4,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Av6--IODP_X336_U1382B_4H4,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Av6--IODP_X336_U1382B_7H6,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Av6--IODP_X336_U1382B_8H6,blank_or_control,FALSE
-DCO_ORC,DCO_ORC_Av6--IODP_X336_U1382B_Blank,blank_or_control,TRUE
 DCO_ORC,DCO_ORC_Av6--IODP_X336_U1383C_11R,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Av6--IODP_X336_U1383C_24R,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Av6--IODP_X336_U1383C_30R,blank_or_control,FALSE
-DCO_ORC,DCO_ORC_Av6v4--Orc4H1,blank_or_control,FALSE
-DCO_ORC,DCO_ORC_Av6v4--Orc4H3_upper_Av6v4,blank_or_control,TRUE
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,blank_or_control,FALSE
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,blank_or_control,FALSE
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,blank_or_control,FALSE
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,blank_or_control,FALSE
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,blank_or_control,FALSE
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,blank_or_control,FALSE
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,blank_or_control,FALSE
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_Blank,blank_or_control,TRUE
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1383C_11R,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1383C_24R,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1383C_30R,blank_or_control,FALSE
@@ -70370,7 +70371,6 @@ DCO_ORC,DCO_ORC_Bv6v4--JdF21R1B,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Bv6v4--JdF4H2,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Bv6v4--JdF4HCC,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Bv6v4--JdF5X1,blank_or_control,FALSE
-DCO_ORC,DCO_ORC_Bv6v4--JdF6XCC,blank_or_control,TRUE
 DCO_ORC,DCO_ORC_Bv6v4--JdF8X2,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Bv6v4--JdF8X5,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Bv6v4--JdFback,blank_or_control,FALSE
@@ -70378,30 +70378,18 @@ DCO_ORC,DCO_ORC_Bv6v4--NP13501,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Bv6v4--NP13504,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Bv6v4--Orc4H1,blank_or_control,FALSE
 DCO_ORC,DCO_ORC_Bv6v4--Orc4H3_upper,blank_or_control,FALSE
-DCO_PED,DCO_PED_Av6--KA3110A_2,blank_or_control,FALSE
-DCO_PED,DCO_PED_Av6--KA3385A_2,blank_or_control,FALSE
+DCO_PED,DCO_PED_Av6--ONK_PVA6,blank_or_control,FALSE
 DCO_PED,DCO_PED_Av6--OL_KR55,blank_or_control,FALSE
 DCO_PED,DCO_PED_Av6--OL_KR56,blank_or_control,FALSE
-DCO_PED,DCO_PED_Av6--ONK_KR15,blank_or_control,FALSE
-DCO_PED,DCO_PED_Av6--ONK_KR15_2,blank_or_control,FALSE
-DCO_PED,DCO_PED_Av6--ONK_PVA06_2,blank_or_control,FALSE
 DCO_PED,DCO_PED_Av6--ONK_PVA08,blank_or_control,FALSE
-DCO_PED,DCO_PED_Av6--ONK_PVA1,blank_or_control,FALSE
-DCO_PED,DCO_PED_Av6--ONK_PVA10,blank_or_control,FALSE
 DCO_PED,DCO_PED_Av6--ONK_PVA3,blank_or_control,FALSE
 DCO_PED,DCO_PED_Av6--ONK_PVA5,blank_or_control,FALSE
-DCO_PED,DCO_PED_Av6--ONK_PVA6,blank_or_control,FALSE
 DCO_PED,DCO_PED_Av6--SURE2_C1_3_1_cell2,blank_or_control,FALSE
 DCO_PED,DCO_PED_Av6--SURE2_P7_S1,blank_or_control,FALSE
 DCO_PED,DCO_PED_Av6--SURE2_P7_S2,blank_or_control,FALSE
 DCO_PED,DCO_PED_Av6--SURE2_P7_S3,blank_or_control,FALSE
 DCO_PED,DCO_PED_Av6--SURE3_C1_1,blank_or_control,FALSE
 DCO_PED,DCO_PED_Av6--SURE3_C2_2_3_1,blank_or_control,FALSE
-DCO_PED,DCO_PED_Bv6--OL_KR55,blank_or_control,FALSE
-DCO_PED,DCO_PED_Bv6--OL_KR56,blank_or_control,FALSE
-DCO_PED,DCO_PED_Bv6--ONK_PVA08,blank_or_control,FALSE
-DCO_PED,DCO_PED_Bv6--SURE3_C1_1,blank_or_control,FALSE
-DCO_PED,DCO_PED_Bv6--SURE3_C2_2_3_1,blank_or_control,FALSE
 DCO_PED,DCO_PED_Bv6v4--KA2198A_Prov_1,blank_or_control,FALSE
 DCO_PED,DCO_PED_Bv6v4--KA3110A_2,blank_or_control,FALSE
 DCO_PED,DCO_PED_Bv6v4--KA3385A_2,blank_or_control,FALSE
@@ -70420,6 +70408,18 @@ DCO_PED,DCO_PED_Bv6v4--SURE2_C1_3_1_cell2,blank_or_control,FALSE
 DCO_PED,DCO_PED_Bv6v4--SURE2_P7_S1,blank_or_control,FALSE
 DCO_PED,DCO_PED_Bv6v4--SURE2_P7_S2,blank_or_control,FALSE
 DCO_PED,DCO_PED_Bv6v4--SURE2_P7_S3,blank_or_control,FALSE
+DCO_PED,DCO_PED_Av6--KA3110A_2,blank_or_control,FALSE
+DCO_PED,DCO_PED_Av6--KA3385A_2,blank_or_control,FALSE
+DCO_PED,DCO_PED_Av6--ONK_KR15,blank_or_control,FALSE
+DCO_PED,DCO_PED_Av6--ONK_KR15_2,blank_or_control,FALSE
+DCO_PED,DCO_PED_Av6--ONK_PVA06_2,blank_or_control,FALSE
+DCO_PED,DCO_PED_Av6--ONK_PVA1,blank_or_control,FALSE
+DCO_PED,DCO_PED_Av6--ONK_PVA10,blank_or_control,FALSE
+DCO_PED,DCO_PED_Bv6--OL_KR55,blank_or_control,FALSE
+DCO_PED,DCO_PED_Bv6--OL_KR56,blank_or_control,FALSE
+DCO_PED,DCO_PED_Bv6--ONK_PVA08,blank_or_control,FALSE
+DCO_PED,DCO_PED_Bv6--SURE3_C1_1,blank_or_control,FALSE
+DCO_PED,DCO_PED_Bv6--SURE3_C2_2_3_1,blank_or_control,FALSE
 DCO_PIN,DCO_PIN_Av4v5--A1_,blank_or_control,FALSE
 DCO_PIN,DCO_PIN_Av4v5--A2_,blank_or_control,FALSE
 DCO_PIN,DCO_PIN_Av4v5--A3_,blank_or_control,FALSE
@@ -70431,8 +70431,8 @@ DCO_PIN,DCO_PIN_Av4v5--B3_,blank_or_control,FALSE
 DCO_PIN,DCO_PIN_Av4v5--B4_,blank_or_control,FALSE
 DCO_PIN,DCO_PIN_Av4v5--B5_,blank_or_control,FALSE
 DCO_PIN,DCO_PIN_Av4v5--B6_,blank_or_control,FALSE
-DCO_PIN,DCO_PIN_Av4v5--BL_Control,blank_or_control,TRUE
 DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,blank_or_control,FALSE
+DCO_PIN,DCO_PIN_Av4v5--BL_Control,blank_or_control,TRUE
 DCO_PPA,DCO_PPA_Av6v4--1301A_1a,blank_or_control,FALSE
 DCO_PPA,DCO_PPA_Av6v4--1301A_1b,blank_or_control,FALSE
 DCO_PPA,DCO_PPA_Av6v4--1301A_1c,blank_or_control,FALSE
@@ -70496,13 +70496,13 @@ DCO_RAM,DCO_RAM_Bv6v4--PS74_2_168_1_MUC,blank_or_control,FALSE
 DCO_RAM,DCO_RAM_Bv6v4--PS74_2_169_1_PUC3,blank_or_control,FALSE
 DCO_RAM,DCO_RAM_Bv6v4--PS74_2_172_1_PUC131,blank_or_control,FALSE
 DCO_RUS,DCO_RUS_Av4v5--Blank_1,blank_or_control,TRUE
-DCO_RUS,DCO_RUS_Av4v5--O_12,blank_or_control,FALSE
-DCO_RUS,DCO_RUS_Av4v5--O_3,blank_or_control,FALSE
+DCO_RUS,DCO_RUS_Bv4v5--Blank_2,blank_or_control,TRUE
 DCO_RUS,DCO_RUS_Bv4v5--4_D,blank_or_control,FALSE
 DCO_RUS,DCO_RUS_Bv4v5--6_D,blank_or_control,FALSE
 DCO_RUS,DCO_RUS_Bv4v5--6_H,blank_or_control,FALSE
 DCO_RUS,DCO_RUS_Bv4v5--8_D,blank_or_control,FALSE
-DCO_RUS,DCO_RUS_Bv4v5--Blank_2,blank_or_control,TRUE
+DCO_RUS,DCO_RUS_Av4v5--O_12,blank_or_control,FALSE
+DCO_RUS,DCO_RUS_Av4v5--O_3,blank_or_control,FALSE
 DCO_RUS,DCO_RUS_Bv4v5--O_12,blank_or_control,FALSE
 DCO_RUS,DCO_RUS_Bv4v5--O_3,blank_or_control,FALSE
 DCO_SAR,DCO_SAR_Bv4v5--A1_,blank_or_control,FALSE
@@ -70518,6 +70518,7 @@ DCO_SAR,DCO_SAR_Bv4v5--B5_,blank_or_control,FALSE
 DCO_SAR,DCO_SAR_Bv4v5--B6_,blank_or_control,FALSE
 DCO_SAR,DCO_SAR_Bv4v5--BL_Control,blank_or_control,TRUE
 DCO_SHER,DCO_SHER_Bv4v5--Kidd_Creek_SW_2015,blank_or_control,FALSE
+DCO_SYL,DCO_SYL_Bv6v4--Aurora_blank,blank_or_control,TRUE
 DCO_SYL,DCO_SYL_Bv6v4--1373_DF_Bac,blank_or_control,FALSE
 DCO_SYL,DCO_SYL_Bv6v4--1374_14R_Bac,blank_or_control,FALSE
 DCO_SYL,DCO_SYL_Bv6v4--1374_20R_Bac,blank_or_control,FALSE
@@ -70534,19 +70535,6 @@ DCO_SYL,DCO_SYL_Bv6v4--1376_16R_Bac,blank_or_control,FALSE
 DCO_SYL,DCO_SYL_Bv6v4--1376_17R_Bac,blank_or_control,FALSE
 DCO_SYL,DCO_SYL_Bv6v4--1376_19R_Bac,blank_or_control,FALSE
 DCO_SYL,DCO_SYL_Bv6v4--1376_23R,blank_or_control,FALSE
-DCO_SYL,DCO_SYL_Bv6v4--Aurora_blank,blank_or_control,TRUE
-DCO_TAS,DCO_TAS_Av4v5--S1_10,blank_or_control,FALSE
-DCO_TAS,DCO_TAS_Av4v5--S1_30,blank_or_control,FALSE
-DCO_TAS,DCO_TAS_Av4v5--S2_10,blank_or_control,FALSE
-DCO_TAS,DCO_TAS_Av4v5--S2_30,blank_or_control,FALSE
-DCO_TAS,DCO_TAS_Av4v5--S3_10,blank_or_control,FALSE
-DCO_TAS,DCO_TAS_Av4v5--S3_30,blank_or_control,FALSE
-DCO_TAS,DCO_TAS_Av4v5--S4_10,blank_or_control,FALSE
-DCO_TAS,DCO_TAS_Av4v5--S4_30,blank_or_control,FALSE
-DCO_TAS,DCO_TAS_Av4v5--S5_10,blank_or_control,FALSE
-DCO_TAS,DCO_TAS_Av4v5--S5_30,blank_or_control,FALSE
-DCO_TAS,DCO_TAS_Av4v5--S6_,blank_or_control,FALSE
-DCO_TAS,DCO_TAS_Av4v5--S7_,blank_or_control,FALSE
 DCO_TAS,DCO_TAS_Bv4v5--S1_10,blank_or_control,FALSE
 DCO_TAS,DCO_TAS_Bv4v5--S1_30,blank_or_control,FALSE
 DCO_TAS,DCO_TAS_Bv4v5--S2_10,blank_or_control,FALSE
@@ -70559,6 +70547,19 @@ DCO_TAS,DCO_TAS_Bv4v5--S5_10,blank_or_control,FALSE
 DCO_TAS,DCO_TAS_Bv4v5--S5_30,blank_or_control,FALSE
 DCO_TAS,DCO_TAS_Bv4v5--S6_,blank_or_control,FALSE
 DCO_TAS,DCO_TAS_Bv4v5--S7_,blank_or_control,FALSE
+DCO_TAS,DCO_TAS_Av4v5--S1_10,blank_or_control,FALSE
+DCO_TAS,DCO_TAS_Av4v5--S1_30,blank_or_control,FALSE
+DCO_TAS,DCO_TAS_Av4v5--S2_10,blank_or_control,FALSE
+DCO_TAS,DCO_TAS_Av4v5--S2_30,blank_or_control,FALSE
+DCO_TAS,DCO_TAS_Av4v5--S3_10,blank_or_control,FALSE
+DCO_TAS,DCO_TAS_Av4v5--S3_30,blank_or_control,FALSE
+DCO_TAS,DCO_TAS_Av4v5--S4_10,blank_or_control,FALSE
+DCO_TAS,DCO_TAS_Av4v5--S4_30,blank_or_control,FALSE
+DCO_TAS,DCO_TAS_Av4v5--S5_10,blank_or_control,FALSE
+DCO_TAS,DCO_TAS_Av4v5--S5_30,blank_or_control,FALSE
+DCO_TAS,DCO_TAS_Av4v5--S6_,blank_or_control,FALSE
+DCO_TAS,DCO_TAS_Av4v5--S7_,blank_or_control,FALSE
+DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,blank_or_control,FALSE
 DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,blank_or_control,FALSE
 DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,blank_or_control,FALSE
 DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,blank_or_control,FALSE
@@ -70566,7 +70567,6 @@ DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,blank_or_control,FALSE
 DCO_TCO,DCO_TCO_Av6--FI88FW031012,blank_or_control,FALSE
 DCO_TCO,DCO_TCO_Av6--MM51940FW200712,blank_or_control,FALSE
 DCO_TCO,DCO_TCO_Av6--NO14FW130912,blank_or_control,FALSE
-DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,blank_or_control,FALSE
 DCO_TCO,DCO_TCO_Bv6--BE326FW120711BH2,blank_or_control,FALSE
 DCO_TCO,DCO_TCO_Bv6--BE326FW250111BH2,blank_or_control,FALSE
 DCO_TCO,DCO_TCO_Bv6--BE326FW270712BH2,blank_or_control,FALSE
@@ -70595,6 +70595,8 @@ DCO_TIA2,DCO_TIA2_Bv4v5--A502GCA,blank_or_control,FALSE
 DCO_TIA2,DCO_TIA2_Bv4v5--A502GCB,blank_or_control,FALSE
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MO,blank_or_control,FALSE
 DCO_TIA2,DCO_TIA2_Bv4v5--A502MOB,blank_or_control,FALSE
+DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,blank_or_control,FALSE
+DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,blank_or_control,FALSE
 DCO_WAL,DCO_WAL_Av6v4--BS_1A,blank_or_control,FALSE
 DCO_WAL,DCO_WAL_Av6v4--BS_2A,blank_or_control,FALSE
 DCO_WAL,DCO_WAL_Av6v4--BS_3A,blank_or_control,FALSE
@@ -70613,5 +70615,3 @@ DCO_WAL,DCO_WAL_Bv6v4--Bering_5_Bv6v4,blank_or_control,FALSE
 DCO_WAL,DCO_WAL_Bv6v4--Bering_6_Bv6v4,blank_or_control,FALSE
 DCO_WAL,DCO_WAL_Bv6v4--Bering_7_Bv6v4,blank_or_control,FALSE
 DCO_WAL,DCO_WAL_Bv6v4--Bering_8_Bv6v4,blank_or_control,FALSE
-DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,blank_or_control,FALSE
-DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,blank_or_control,FALSE
