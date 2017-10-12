@@ -8,64 +8,11 @@ sJavaDir=$2
 cd $sIODir
 
 #decompressing raw metadata
-cd raw_metadata
-rm -rf '__MACOSX'
-rm -f *.gz
-unzip $sIODir/raw_metadata/codl_metadata.zip
-rm -rf '__MACOSX'
-cd $sIODir
-for f in raw_metadata/*.gz
-do
-	gunzip -r $f
-done
+cp $sIODir/raw_metadata/dco_all_metadata_2017-10-11.csv.gz temp.1.csv.gz
+gunzip -r temp.1.csv.gz
+mv temp.1.csv temp.2.csv
 
-#converting files to tsv
-for f in raw_metadata/*.csv
-do
-	sName=`basename $f`
-	mv $f $sName
-	sed -i "s|\,|\;|g" $sName
-	sed -i "s|\t|\,|g" $sName
-done
-
-#fixing errors in files
-sFile='metadata-samples_in_rows1505847186991_DCO_LAV_Bv6v4.csv'
-head --lines=1 $sFile | cut -d\, -f1-76 > 'metadata-samples_in_rows1505847186991_DCO_LAV_Bv6v4_edited.csv'
-grep 'DCO_' $sFile >> 'metadata-samples_in_rows1505847186991_DCO_LAV_Bv6v4_edited.csv'
-rm $sFile
-
-sFile='metadata-samples_in_rows1505847207792_DCO_LAV_Av6v4.csv'
-head --lines=1 $sFile | cut -d\, -f1-76 > 'metadata-samples_in_rows1505847207792_DCO_LAV_Av6v4_edited.csv'
-grep 'DCO_' $sFile >> 'metadata-samples_in_rows1505847207792_DCO_LAV_Av6v4_edited.csv'
-rm $sFile
-
-#concatenating files
-echo 'PROJECT_ID,SAMPLE_ID,VARIABLE,VALUE' > temp.2.txt
-for f in metadata-samples*.csv
-do
-
-	sFile=${f/\.tsv/}
-	echo 'Analyzing '$sFile'...' 
-	head --lines=1 $f > temp.7.txt
-	
-	#selecting usable samples and fixing headers
-	grep "DCO_" $f >> temp.7.txt
-	sed -i "s|^\,|SAMPLE_ID\,|g" temp.7.txt
-
-	#flattening file
-	lstColumnsToFlatten=`head --lines=1 temp.7.txt | sed "s|SAMPLE_ID\,||g"`	
-	java -cp $sJavaDir/Utilities.jar edu.ucsf.PivotTableToFlatFile.PivotTableToFlatFileLauncher \
-		--lstColumnsToFlatten="$lstColumnsToFlatten" \
-		--sDataPath=$sIODir/temp.7.txt \
-		--sOutputPath=$sIODir/temp.6.txt
-	paste -d\, <(tail -n+2 temp.6.txt | cut -d\_ -f1-2) <(tail -n+2 temp.6.txt) >> temp.2.txt
-done
-mv temp.2.txt temp.2.csv
-
-#correcting empty cells
-sed -i "s|\,$|\,null|g" temp.2.csv
-
-#flattedning interpolated values file
+#flattening interpolated values file
 lstColumnsToFlatten=`head --lines=1 raw_supplementary_metadata/metadata_minimal_pivot_selected_2017-09-20.csv | sed "s|PROJECT_ID\,SAMPLE_ID\,||g"`
 java -cp $sJavaDir/Utilities.jar edu.ucsf.PivotTableToFlatFile.PivotTableToFlatFileLauncher \
 	--sDataPath=$sIODir/raw_supplementary_metadata/metadata_minimal_pivot_selected_2017-09-20.csv \
@@ -73,9 +20,9 @@ java -cp $sJavaDir/Utilities.jar edu.ucsf.PivotTableToFlatFile.PivotTableToFlatF
 	--sOutputPath=$sIODir/temp.3.csv
 sed -i "s|FLAT_VAR_KEY\,FLAT_VAR_VALUE|VARIABLE\,VALUE|g" temp.3.csv
 
-
-#appending blank_or_control field
+#appending blank_or_control and enrichment field
 grep 'blank_or_control' temp.3.csv | sed "s|blank_or_control|blank_or_control\,null|g" >> temp.2.csv
+grep 'enrichment' temp.3.csv | sed "s|enrichment|enrichment\,null|g" >> temp.2.csv
 
 #standardizing null values
 sed -i -e "s|unknown|null|g" -e "s|undefined|null|g" -e "s|\,\,|\,null\,|g" -e "s|None|null|g" temp.3.csv

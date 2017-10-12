@@ -8,13 +8,14 @@ sJavaDir=$2
 cd $sIODir
 
 #cleaning dos formatting from file and renaming headers
-cp raw_supplementary_metadata/metadata-samples_in_rows1504148199831_DCO_BRZ_Bv4v5.csv temp.0.csv
-sed -i "s|\r|\n|g" temp.0.csv
-head --lines=1 temp.0.csv | cut -d\, -f2- | sed "s|^|PROJECT_ID\,SAMPLE_ID\,|g" > temp.4.csv
+cp raw_supplementary_metadata/metadata-samples_in_rows1504148199831_DCO_BRZ_Bv4v5_KIT.csv temp.0.csv
+sed -i "s|\r||g" temp.0.csv
+head --lines=1 temp.0.csv | cut -d\, -f2- | sed -e "s|^|PROJECT_ID\,SAMPLE_ID\,|g" -e "s|Temp\ (C)|temperature|g" > temp.4.csv
 tail -n+2 temp.0.csv | sed "s|^|DCO_BRZ\,|g" >> temp.4.csv
 
-#appending blank or control field
+#appending blank or control field and enriched field
 sed -i -e "1 s|$|\,blank_or_control|g" -e "2,$ s|$|\,FALSE|g" temp.4.csv
+sed -i -e "1 s|$|\,enrichment|g" -e "2,$ s|$|\,FALSE|g" temp.4.csv
 
 #flattening brz metadata
 lstColumnsToFlatten=`head --lines=1 temp.4.csv | sed "s|PROJECT_ID\,SAMPLE_ID\,||g"`
