@@ -24,6 +24,7 @@ sed -i "s|FLAT_VAR_KEY\,FLAT_VAR_VALUE|VARIABLE\,VALUE|g" temp.3.csv
 #appending blank_or_control and enrichment field
 grep 'blank_or_control' temp.3.csv | sed "s|blank_or_control|blank_or_control\,null|g" >> temp.2.csv
 grep 'enrichment' temp.3.csv | sed "s|enrichment|enrichment\,null|g" >> temp.2.csv
+grep 'include' temp.3.csv | sed "s|include|include\,null|g" >> temp.2.csv
 
 #standardizing null values
 sed -i -e "s|unknown|null|g" -e "s|undefined|null|g" -e "s|\,\,|\,null\,|g" -e "s|None|null|g" temp.3.csv

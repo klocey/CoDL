@@ -20,4 +20,6 @@ bash $sIODir/scripts/metadata-wishlist-table.sh $sIODir $sJavaDir
 #outputting minimal table
 bash $sIODir/scripts/metadata-minimal-table.sh $sIODir $sJavaDir
 
+#outputting blank and control list
+bash $sIODir/scripts/metadata-blanks-controls-list.sh $sIODir $sJavaDir
 

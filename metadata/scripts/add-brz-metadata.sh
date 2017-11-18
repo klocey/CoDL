@@ -16,6 +16,7 @@ tail -n+2 temp.0.csv | sed "s|^|DCO_BRZ\,|g" >> temp.4.csv
 #appending blank or control field and enriched field
 sed -i -e "1 s|$|\,blank_or_control|g" -e "2,$ s|$|\,FALSE|g" temp.4.csv
 sed -i -e "1 s|$|\,enrichment|g" -e "2,$ s|$|\,FALSE|g" temp.4.csv
+sed -i -e "1 s|$|\,include|g" -e "2,$ s|$|\,TRUE|g" temp.4.csv
 
 #flattening brz metadata
 lstColumnsToFlatten=`head --lines=1 temp.4.csv | sed "s|PROJECT_ID\,SAMPLE_ID\,||g"`
@@ -35,6 +36,9 @@ java -cp $sJavaDir/Utilities.jar edu.ucsf.JoinTables.JoinTablesLauncher \
 	--sOutputPath=$sIODir/temp.3.csv
 cut -d\, -f1-3,5 temp.3.csv | sed "s|FLAT_VAR_VALUE|VALUE|g" > temp.5.csv
 sed -i "s|\,-9999$|\,null|g" temp.5.csv
+sed -i "s|include\,null|include\,FALSE|g" temp.5.csv
+sed -i "s|blank_or_control\,null|blank_or_control\,TRUE|g" temp.5.csv
+sed -i "s|enrichment\,null|enrichment\,TRUE|g" temp.5.csv
 
 #appending to formatted metadata
 sqlite3 formatted_metadata/metadata_formatted.db "select * from tbl1 where not(project_id='DCO_BRZ');" | tail -n+3 >> temp.5.csv

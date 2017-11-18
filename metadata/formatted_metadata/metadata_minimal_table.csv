@@ -1,219 +1,219 @@
 PROJECT_ID,SAMPLE_ID,blank_or_control,dna_region,domain,enrichment,env_biome,env_feature,env_material,latitude,longitude
-DCO_BRZ,DCO_BRZ_Av4v5--A4B1_Arch,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--A4B5_Arch,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--B30_1_Arch,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--B30_2_Arch,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--B30_3_Arch,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--B30_4_Arch,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--B30_5_Arch,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--CRO_CSW10R_Feb2015,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--CRO_CSW1R_Feb2015,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--CRO_CSW2R_Feb2015,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--CRO_QV42R_Feb2015,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--MCR_1354_RED,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--MCR_1354_SFC,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--SERP_SE_PozoNuevo3,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO11_QV13R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO11_QV21R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_8A_Apr11_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_8A_Aug11_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_8B_AprC11_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_8B_AprD11_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_B08B_C_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW12C_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW13R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW14R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW19R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_1A_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_2A_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_3B_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_4A_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_5A_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW24R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW2R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW_Aug11_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW_old_C_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW_soil1R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW_soil2R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSWoldA_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSWoldB_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSWoldT0_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSWold_11_11_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSWwell_Aug11_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CarboyBlank_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08AB_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08A_A_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08A_Apr11_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08A_Aug11_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08BA_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08BB_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08CA_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08C_B_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08T0_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV05R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV07R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV11R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV11R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV13R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV13R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV16R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV18R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV18R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV1_1A_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV1_2B_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV1_3B_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV20R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV21R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV25R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV30R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV30R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV36R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV42R_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV42R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV9R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV_soil1R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV_soil2R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_Well8B_Apr11_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_tank1_Aug11_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_tank3_Aug11_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_KLT_A4A_091713,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_KLT_A4B_3_091713,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_KLT_DLB_091613,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_KLT_DLB_091713,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC1408,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC3862_1325,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_2109_1_1_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_2109_2_1_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_211W_AC_A1_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_212E_C_A1_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_223I_CE_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_231U_A_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_234V_ABCE_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_237Y_E_A2_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_239AB_AC_A2_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_242_A2_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_5AF_E_A1_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_5AF_E_A2_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_6AG_A_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB02_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB03_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB10,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB10_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB12,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB14,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB15,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB16,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB17,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB18_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB20,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB21,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB22,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB25,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB27_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB28_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB31,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB32,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB33,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB35,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB37,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB38,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB4,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB41,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB49,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB8,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB9,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_HO8_2_2_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_HO8_3_2_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_TW07_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_TW08_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_TW09_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_TW10_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_BR2_R1R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_BR2_back1_Jun12_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_BR2_back2_Jun12_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_GOR1_11_65_Oct11_A2_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_R1R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_R2R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_R3R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_R4R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_R5R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_R6R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_upA_Jul12_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_upB_Jul12_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_L43_upstream_Oct11_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_LER20_11_117_Oct11_A2_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_LER20_LS11_127_Oct11,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_LER20_lipids2011_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_PIO14_11_83_Oct11_A2_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Lig_GOR1CDEF_2013,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Lig_GORupA_2013,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Oman_32Rock,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Oman_Aardvark,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Oman_CornerPocket,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Oman_Triangle,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Oman_WadiInput1,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Oman_WadiInput2,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_POR_AC5_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony02,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony07,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony16b,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony17b,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony24,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony25,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony26,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony27,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony28,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony29,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony30,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_QV3R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_QV7R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_MurcielagoUp1_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_MurcielagoUp2_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_MurcielagoUp3_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoAguasCalientes1,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoAguasCalientes2,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoAguasCalientes3,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoMurcielago1,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoMurcielago2,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoMurcielago3,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoNuevo1,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoNuevo2,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_QDanta1_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_QDanta2_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_QDanta3_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_QDantaUp1_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_QDantaUp2_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_QDantaUp3_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Q_Danta1_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Q_Danta2_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Q_Danta4_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_RioCalera1_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_RioCalera2_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_RioCalera3_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring8_2_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring8_3_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring8_4_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring8_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring9_1_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring9_2_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring9_3_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring9_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring_1_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL10_57_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL_WHC2B_Aug10,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL_WHC2ab_6_12_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL_WHC2ab_7_12_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL_WHC2ab_8_12_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL_WHC2ab_9_12_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL_WHC2b_1_5_12_Av4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--A4D1_Bac,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Blank_Dialysis_New,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Blank_Dialysis_Old,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW10R_Dec14,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW14R_Dec14,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1R_Dec14,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--A4B1_Arch,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--A4B5_Arch,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--B30_1_Arch,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--B30_2_Arch,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--B30_3_Arch,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--B30_4_Arch,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--B30_5_Arch,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--CRO_CSW10R_Feb2015,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--CRO_CSW1R_Feb2015,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--CRO_CSW2R_Feb2015,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--CRO_QV42R_Feb2015,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--MCR_1354_RED,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--MCR_1354_SFC,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--SERP_SE_PozoNuevo3,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO11_QV13R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO11_QV21R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_8A_Apr11_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_8A_Aug11_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_8B_AprC11_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_8B_AprD11_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_B08B_C_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW12C_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW13R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW14R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW19R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_1A_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_2A_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_3B_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_4A_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_5A_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW24R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW2R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW_Aug11_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW_old_C_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW_soil1R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW_soil2R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSWoldA_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSWoldB_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSWoldT0_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSWold_11_11_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSWwell_Aug11_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CarboyBlank_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08AB_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08A_A_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08A_Apr11_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08A_Aug11_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08BA_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08BB_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08CA_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08C_B_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08T0_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV05R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV07R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV11R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV11R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV13R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV13R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV16R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV18R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV18R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV1_1A_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV1_2B_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV1_3B_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV20R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV21R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV25R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV30R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV30R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV36R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV42R_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV42R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV9R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV_soil1R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV_soil2R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_Well8B_Apr11_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_tank1_Aug11_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_tank3_Aug11_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_KLT_A4A_091713,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_KLT_A4B_3_091713,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_KLT_DLB_091613,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_KLT_DLB_091713,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC1408,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC3862_1325,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_2109_1_1_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_2109_2_1_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_211W_AC_A1_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_212E_C_A1_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_223I_CE_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_231U_A_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_234V_ABCE_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_237Y_E_A2_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_239AB_AC_A2_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_242_A2_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_5AF_E_A1_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_5AF_E_A2_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_6AG_A_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB02_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB03_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB10,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB10_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB12,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB14,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB15,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB16,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB17,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB18_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB20,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB21,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB22,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB25,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB27_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB28_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB31,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB32,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB33,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB35,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB37,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB38,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB4,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB41,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB49,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB8,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB9,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_HO8_2_2_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_HO8_3_2_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_TW07_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_TW08_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_TW09_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_TW10_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_BR2_R1R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_BR2_back1_Jun12_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_BR2_back2_Jun12_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_GOR1_11_65_Oct11_A2_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_R1R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_R2R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_R3R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_R4R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_R5R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_R6R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_upA_Jul12_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_Gor_upB_Jul12_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_L43_upstream_Oct11_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_LER20_11_117_Oct11_A2_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_LER20_LS11_127_Oct11,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_LER20_lipids2011_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LIG_PIO14_11_83_Oct11_A2_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Lig_GOR1CDEF_2013,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Lig_GORupA_2013,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Oman_32Rock,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Oman_Aardvark,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Oman_CornerPocket,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Oman_Triangle,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Oman_WadiInput1,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Oman_WadiInput2,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_POR_AC5_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony02,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony07,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony16b,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony17b,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony24,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony25,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony26,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony27,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony28,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony29,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Prony30,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_QV3R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_QV7R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_MurcielagoUp1_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_MurcielagoUp2_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_MurcielagoUp3_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoAguasCalientes1,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoAguasCalientes2,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoAguasCalientes3,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoMurcielago1,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoMurcielago2,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoMurcielago3,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoNuevo1,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_PozoNuevo2,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_QDanta1_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_QDanta2_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_QDanta3_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_QDantaUp1_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_QDantaUp2_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_QDantaUp3_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Q_Danta1_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Q_Danta2_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Q_Danta4_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_RioCalera1_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_RioCalera2_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_RioCalera3_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring8_2_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring8_3_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring8_4_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring8_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring9_1_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring9_2_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring9_3_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring9_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_SE_Spring_1_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL10_57_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL_WHC2B_Aug10,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL_WHC2ab_6_12_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL_WHC2ab_7_12_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL_WHC2ab_8_12_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL_WHC2ab_9_12_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_TL_WHC2b_1_5_12_Av4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--A4D1_Bac,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Blank_Dialysis_New,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Blank_Dialysis_Old,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW10R_Dec14,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW14R_Dec14,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1R_Dec14,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1A_Aug13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.414
 DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1A_Jul14,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.414
 DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1B_Aug13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.414
@@ -225,98 +225,98 @@ DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3A_Jul14,FALSE,v4v5,Bacteria,FALSE,montane shrub
 DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3B_Aug13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.41402
 DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3B_Jul14,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.41402
 DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3C_Aug13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.41402
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW2R_Dec14,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISA,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAA,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAB,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAC,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAD,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAE,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAF,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAG,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAH,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAI,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAJ,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISB,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISC,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISD,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISE,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISF,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISG,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISH,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISI,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISJ,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISK,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISL,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISM,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISN,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISO,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISP,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISQ,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISR,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISS,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_IST,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISU,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISV,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISW,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISX,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISY,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISZ,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC1,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC10,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC11,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC12,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC14,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC15,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC16,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC17,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC18,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC19,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC2,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC20,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC22,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC23,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC24,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC25,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC26,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC27,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC28,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC29,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC3,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC30,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC31,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC32,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC33,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC34,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC35,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC36,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC37,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC38,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC39,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC4,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC40,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC41,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC42,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC6,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC7,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC8,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC9,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF10_12,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF13_15,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF16_18,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF19_21,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF1_3,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF22_24,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF25_27,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF28_30,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF31_33,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF34_36,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF37_39,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF40_42,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF4_6,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF7_9,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW2R_Dec14,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISA,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAA,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAB,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAC,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAD,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAE,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAF,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAG,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAH,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAI,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISAJ,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISB,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISC,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISD,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISE,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISF,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISG,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISH,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISI,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISJ,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISK,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISL,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISM,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISN,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISO,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISP,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISQ,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISR,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISS,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_IST,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISU,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISV,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISW,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISX,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISY,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_ISZ,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC1,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC10,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC11,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC12,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC14,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC15,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC16,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC17,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC18,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC19,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC2,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC20,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC22,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC23,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC24,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC25,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC26,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC27,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC28,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC29,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC3,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC30,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC31,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC32,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC33,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC34,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC35,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC36,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC37,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC38,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC39,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC4,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC40,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC41,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC42,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC6,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC7,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC8,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MC9,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF10_12,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF13_15,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF16_18,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF19_21,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF1_3,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF22_24,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF25_27,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF28_30,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF31_33,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF34_36,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF37_39,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF40_42,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF4_6,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_MCF7_9,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1A_Aug13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43006
 DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1A_Jul14,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43006
 DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1B_Aug13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43006
@@ -332,11 +332,11 @@ DCO_BRZ,DCO_BRZ_Bv4v5--CSWold_A_Aug13,FALSE,v4v5,Bacteria,FALSE,montane shrublan
 DCO_BRZ,DCO_BRZ_Bv4v5--CSWold_A_Dec13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86193,-122.414
 DCO_BRZ,DCO_BRZ_Bv4v5--CSWold_June11,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86193,-122.414
 DCO_BRZ,DCO_BRZ_Bv4v5--CSWold_Mar12,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86193,-122.414
-DCO_BRZ,DCO_BRZ_Bv4v5--KLT_A4A_Apr14,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--KLT_A4B_Apr14,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--KLT_A4D_Apr14,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--KLT_B30_Apr14,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--KLT_DLB_Apr14,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--KLT_A4A_Apr14,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--KLT_A4B_Apr14,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--KLT_A4D_Apr14,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--KLT_B30_Apr14,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--KLT_DLB_Apr14,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--N08A_A_Dec13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43
 DCO_BRZ,DCO_BRZ_Bv4v5--N08A_B_Aug13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43
 DCO_BRZ,DCO_BRZ_Bv4v5--N08A_July11,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43
@@ -351,50 +351,50 @@ DCO_BRZ,DCO_BRZ_Bv4v5--N08C_A_Aug13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,
 DCO_BRZ,DCO_BRZ_Bv4v5--N08C_A_Dec13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86202,-122.43
 DCO_BRZ,DCO_BRZ_Bv4v5--N1A_Aug12,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.882,-122.478
 DCO_BRZ,DCO_BRZ_Bv4v5--N5A_Aug12,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.871,-122.428
-DCO_BRZ,DCO_BRZ_Bv4v5--SERP_SE_PozoNuevo3,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--SERP_SE_PozoNuevo3,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_8A_Apr11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_8A_Aug11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_8B_AprC11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86201,-122.43
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_8B_AprD11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86201,-122.43
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_B08B_C_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW10R,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_B08B_C_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW10R,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW11ABCD_Jun12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.414
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW11B_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW12B_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW12C_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW13A_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW13C_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW13R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW13R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW14R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW15B_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW15R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW15R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW16R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW17R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW19R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1R,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW11B_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW12B_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW12C_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW13A_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW13C_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW13R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW13R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW14R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW15B_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW15R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW15R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW16R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW17R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW19R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1R,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_1A_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.414
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_2A_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.414
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_3B_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.414
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_4A_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.414
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_5A_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.414
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW22R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW24R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW25R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW26R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW2R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW6R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW7R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW8R_Bv4v5,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW22R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW24R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW25R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW26R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW2R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW6R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW7R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW8R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW_Aug11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86193,-122.414
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW_insitu_Aug12_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW_insitu_Dec12_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW_insitu_Jun12_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW_old_C_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW_soil1R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW_soil2R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWinsituMar13,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW_insitu_Aug12_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW_insitu_Dec12_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW_insitu_Jun12_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW_old_C_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW_soil1R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW_soil2R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWinsituMar13,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWold2_Jul11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86193,-122.414
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWold3_Jul11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86193,-122.414
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWoldA_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86193,-122.414
@@ -402,80 +402,80 @@ DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWoldB_Mar13,FALSE,v4v5,Bacteria,FALSE,montane 
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWoldT0_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86193,-122.414
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWold_11_11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86193,-122.414
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWwell_Aug11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86193,-122.414
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CarboyBlank_Mar13,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CarboyBlank_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08AB_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08A_A_Mar13,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08A_A_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08A_Apr11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08A_Aug11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08BA_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86201,-122.43
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08BB_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86201,-122.43
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08CA_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86202,-122.43
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08C_B_Mar13,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08C_B_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08T0_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV03R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV05R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV07R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV11B_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV11C_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV11R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV11R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV11R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV12A_Mar13,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV03R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV05R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV07R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV11B_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV11C_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV11R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV11R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV11R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV12A_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV13A_Aug12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43006
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV13A_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV13R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV13R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV16R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV18R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV18R_Mar2014,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV13A_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV13R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV13R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV16R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV18R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV18R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV1_1A_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43006
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV1_2B_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43006
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV1_3B_Mar13,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.43006
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV20R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV21R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV21R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV22R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV25R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV25R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV28R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV30R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV30R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV31R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV31R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV36R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV40,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV42R_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV42R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV9R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV_soil1R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV_soil2R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QVinsituMar13,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV20R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV21R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV21R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV22R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV25R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV25R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV28R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV30R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV30R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV31R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV31R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV36R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV40,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV42R_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV42R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV9R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV_soil1R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV_soil2R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QVinsituMar13,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_Well8B_Apr11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.86201,-122.43
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_tank1_Aug11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.414
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_tank3_Aug11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,bore hole water,38.862,-122.414
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_A4A_091613,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_A4A_091713,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_A4B_091613,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_A4B_091713,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_A4B_3_091713,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_A4D_2_091713,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_B30_091613,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_B30_091713,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_DLB_091613,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_DLB_091713,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_A4A_091613,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_A4A_091713,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_A4B_091613,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_A4B_091713,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_A4B_3_091713,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_A4D_2_091713,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_B30_091613,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_B30_091713,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_DLB_091613,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_KLT_DLB_091713,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC1408,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.123203,42.118972
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC3862_1325,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.123203,42.118972
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_2109_1_1_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_2109_2_1_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_211W_AC_A1_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_212E_C_A1_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_212E_C_A2_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_221A_A_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_222H_E_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_237Y_E_A1_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_239AB_AC_A1_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_242_A1_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_5AF_E_A1_Bv4v5,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_2109_1_1_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_2109_2_1_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_211W_AC_A1_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_212E_C_A1_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_212E_C_A2_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_221A_A_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_222H_E_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_237Y_E_A1_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_239AB_AC_A1_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_242_A1_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_5AF_E_A1_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB02_Bv4v5,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.123961,42.119688
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB03_Bv4v5,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.124358,42.119149
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB10,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.123357,42.1206
@@ -496,11 +496,11 @@ DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB28_Bv4v5,FALSE,v4v5,Bacteria,FALSE,marine benth
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB31,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.12397,42.120113
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB32,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.123492,42.118506
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB33,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.123492,42.120538
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB34,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB34,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB35,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.124755,42.119024
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB36,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.123961,42.119688
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB37,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.124782,42.11863
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB38,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB38,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB4,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.124069,42.120019
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB40,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.12406,42.119107
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB41,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.123492,42.118506
@@ -514,20 +514,20 @@ DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB9,FALSE,v4v5,Bacteria,FALSE,marine benthic,mari
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_H08_1_3_Bv4v5,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.124051,42.119532
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_HO8_2_2_Bv4v5,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.124051,42.119532
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_HO8_3_2_Bv4v5,FALSE,v4v5,Bacteria,FALSE,marine benthic,marine hydrothermal vent,biofilm material,30.124051,42.119532
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_TW07_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_TW08_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_TW09_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_TW10_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_BR2_R1R_Mar2014,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_TW07_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_TW08_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_TW09_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_TW10_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_BR2_R1R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_BR2_back1_Jun12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,ground water,44.4512,8.782
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_BR2_back2_Jun12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,ground water,44.4512,8.782
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_GOR1_11_65_Oct11_A2_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,ground water,44.597,8.7833
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_R1R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_R2R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_R3R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_R4R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_R5R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_R6R_Mar2014,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_R1R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_R2R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_R3R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_R4R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_R5R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_R6R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_upA_Jul12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,ground water,44.597,8.7833
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_upB_Jul12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,ground water,44.597,8.7833
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_L43_upstream_Oct11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,ground water,44.4584,8.7688
@@ -539,100 +539,100 @@ DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GOR1AB_2013,FALSE,v4v5,Bacteria,FALSE,montane sh
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GOR1CDEF_2013,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,ground water,44.597,8.7833
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GORupA_2013,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,ground water,44.597,8.7833
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GORupB_2013,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,ground water,44.597,8.7833
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_32Rock,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_Aardvark,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_Africa_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_AlaklineSpringOF2,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_AudreyII,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_BraveSirRobin,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_ChainFools,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_CornerPocket,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_Eden_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_GlazedKidney,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_Kermit_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_KingArthur,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_Nemo_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_PalmPool,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_RoundTable,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_TadPool,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_Triangle,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_WadiInput1,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_WadiInput2,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_downstream_Jimi_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_POR_AC3_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_POR_AC5_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_POR_spainbore_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_POR_spainhole_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony02,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony07,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony16b,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony17b,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony24,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony25,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony26,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony27,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony28,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony29,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony30,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_QV3R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_QV7R_Mar2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_MurcielagoUp1_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_MurcielagoUp2_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_MurcielagoUp3_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoAguasCalientes1,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoAguasCalientes2,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoAguasCalientes3,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoMurcielago1,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoMurcielago2,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoMurcielago3,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoNuevo1,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoNuevo2,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_QDanta1_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_QDanta2_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_QDanta3_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_QDantaUp1_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_QDantaUp2_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_QDantaUp3_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Q_Danta1_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Q_Danta2_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Q_Danta4_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_RioCalera1_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_RioCalera2_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_RioCalera3_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring8_2_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring8_3_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring8_4_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring8_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring9_1_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring9_2_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring9_3_Feb2014,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring9_Mar13,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring_1_Feb2014,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_32Rock,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_Aardvark,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_Africa_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_AlaklineSpringOF2,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_AudreyII,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_BraveSirRobin,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_ChainFools,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_CornerPocket,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_Eden_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_GlazedKidney,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_Kermit_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_KingArthur,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_Nemo_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_PalmPool,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_RoundTable,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_TadPool,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_Triangle,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_WadiInput1,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_WadiInput2,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Oman_downstream_Jimi_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_POR_AC3_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_POR_AC5_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_POR_spainbore_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_POR_spainhole_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony02,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony07,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony16b,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony17b,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony24,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony25,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony26,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony27,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony28,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony29,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Prony30,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_QV3R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_QV7R_Mar2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_MurcielagoUp1_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_MurcielagoUp2_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_MurcielagoUp3_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoAguasCalientes1,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoAguasCalientes2,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoAguasCalientes3,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoMurcielago1,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoMurcielago2,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoMurcielago3,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoNuevo1,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_PozoNuevo2,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_QDanta1_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_QDanta2_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_QDanta3_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_QDantaUp1_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_QDantaUp2_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_QDantaUp3_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Q_Danta1_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Q_Danta2_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Q_Danta4_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_RioCalera1_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_RioCalera2_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_RioCalera3_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring8_2_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring8_3_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring8_4_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring8_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring9_1_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring9_2_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring9_3_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring9_Mar13,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_SE_Spring_1_Feb2014,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC2A_DNA3_Jun11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,ground water,49.4653,-57.95763
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC2B_Aug10,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,ground water,49.4653,-57.95763
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC2C_DNA2_Jun11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,ground water,49.4653,-57.95763
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC2ab_6_12_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC2ab_7_12_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC2ab_8_12_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC2ab_9_12_Bv4v5,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC2b_1_5_12_Bv4v5,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC2ab_6_12_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC2ab_7_12_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC2ab_8_12_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC2ab_9_12_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC2b_1_5_12_Bv4v5,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_TL_WHC75_DNA2_Jun11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,montane shrubland,alkaline habitat,ground water,49.4648,-57.9584
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_CR11_8A_Apr,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_CR11_8A_Aug,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_CR11_8B_Apr,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_CR11_CSW1_1,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_CRO11_QV13R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_CRO11_QV21R,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_LS10_7,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_LS11_117,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_LS11_65,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_LS11_83,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_TL10_57,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_TL11_24,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_TL11_3,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_TL11_46,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_TL11_71,null,null,null,null,null,null,null,null,null
-DCO_BRZ,DCO_BRZ_Bv6v4--Serp_TL11_72,null,null,null,null,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_CR11_8A_Apr,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_CR11_8A_Aug,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_CR11_8B_Apr,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_CR11_CSW1_1,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_CRO11_QV13R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_CRO11_QV21R,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_LS10_7,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_LS11_117,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_LS11_65,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_LS11_83,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_TL10_57,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_TL11_24,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_TL11_3,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_TL11_46,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_TL11_71,TRUE,null,null,TRUE,null,null,null,null,null
+DCO_BRZ,DCO_BRZ_Bv6v4--Serp_TL11_72,TRUE,null,null,TRUE,null,null,null,null,null
 DCO_BKR,DCO_BKR_Av4v5--Aar_59E_25H2,FALSE,v4v5,Archaea,FALSE,marine biome,borehole,sediment,55.004821,10.108177
 DCO_BKR,DCO_BKR_Av4v5--Aar_DrillFluid_59E_NC,TRUE,v4v5,Archaea,FALSE,marine biome,borehole,sediment,55.004821,10.108177
 DCO_BKR,DCO_BKR_Av4v5--Knox_60B_10H2,FALSE,v4v5,Archaea,FALSE,marine biome,borehole,sediment,56.620161,11.670677
@@ -898,22 +898,22 @@ DCO_LOIH,DCO_LOIH_Bv4v5--J2_672_BM1_B12345,TRUE,v4v5,Bacteria,FALSE,marine biome
 DCO_LOIH,DCO_LOIH_Bv4v5--J674black_Bv4v5,FALSE,v4v5,Bacteria,FALSE,marine biome,hydrothermal vent,water,18.906,-155.257
 DCO_LOIH,DCO_LOIH_Bv4v5--J675yellow_Bv4v5,FALSE,v4v5,Bacteria,FALSE,marine biome,hydrothermal vent,water,18.906,-155.257
 DCO_LOIH,DCO_LOIH_Bv4v5--J676black_Bv4v5,FALSE,v4v5,Bacteria,FALSE,marine biome,hydrothermal vent,water,18.906,-155.257
-DCO_MAC,DCO_MAC_Av6--LD09_2_3,FALSE,v6,Archaea,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LI09_3,FALSE,v6,Archaea,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LI09_4,FALSE,v6,Archaea,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LI09_5,FALSE,v6,Archaea,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LI13_2,FALSE,v6,Archaea,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LO13_2,FALSE,v6,Archaea,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LO13_8,FALSE,v6,Archaea,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LV13_5,FALSE,v6,Archaea,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LD09_2_3,FALSE,v6,Bacteria,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LI09_3,FALSE,v6,Bacteria,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LI09_4,FALSE,v6,Bacteria,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LI09_5,FALSE,v6,Bacteria,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LI13_2,FALSE,v6,Bacteria,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LO13_2,FALSE,v6,Bacteria,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LO13_8,FALSE,v6,Bacteria,FALSE,terrestrial biome,cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LV13_5,FALSE,v6,Bacteria,FALSE,terrestrial biome,cave,water,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LD09_2_3,FALSE,v6,Archaea,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LI09_3,FALSE,v6,Archaea,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LI09_4,FALSE,v6,Archaea,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LI09_5,FALSE,v6,Archaea,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LI13_2,FALSE,v6,Archaea,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LO13_2,FALSE,v6,Archaea,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LO13_8,FALSE,v6,Archaea,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LV13_5,FALSE,v6,Archaea,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LD09_2_3,FALSE,v6,Bacteria,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LI09_3,FALSE,v6,Bacteria,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LI09_4,FALSE,v6,Bacteria,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LI09_5,FALSE,v6,Bacteria,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LI13_2,FALSE,v6,Bacteria,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LO13_2,FALSE,v6,Bacteria,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LO13_8,FALSE,v6,Bacteria,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LV13_5,FALSE,v6,Bacteria,FALSE,terrestrial biome,aquifer,biofilm,43.403,12.976
 DCO_MAR,DCO_MAR_Av4v5--10A,FALSE,v4v5,Archaea,FALSE,terrestrial biome,volcano,soil,-16.24930278,168.13694444
 DCO_MAR,DCO_MAR_Av4v5--7A_,FALSE,v4v5,Archaea,FALSE,terrestrial biome,volcano,rock,-16.27222222,168.15361111
 DCO_MAR,DCO_MAR_Av4v5--8A_,FALSE,v4v5,Archaea,FALSE,terrestrial biome,volcano,rock,-16.27222222,168.15361111
@@ -1130,7 +1130,7 @@ DCO_SAR,DCO_SAR_Bv4v5--B3_,FALSE,v4v5,Bacteria,FALSE,terrestrial biome,borehole,
 DCO_SAR,DCO_SAR_Bv4v5--B4_,FALSE,v4v5,Bacteria,FALSE,terrestrial biome,borehole,rock,17.12,73.87
 DCO_SAR,DCO_SAR_Bv4v5--B5_,FALSE,v4v5,Bacteria,FALSE,terrestrial biome,borehole,rock,17.12,73.87
 DCO_SAR,DCO_SAR_Bv4v5--B6_,FALSE,v4v5,Bacteria,FALSE,terrestrial biome,borehole,rock,17.12,73.87
-DCO_SAR,DCO_SAR_Bv4v5--BL_Control,TRUE,v4v5,Bacteria,FALSE,terrestrial biome,borehole,rock,null,null
+DCO_SAR,DCO_SAR_Bv4v5--BL_Control,TRUE,v4v5,Bacteria,FALSE,null,null,null,null,null
 DCO_SHER,DCO_SHER_Bv4v5--Kidd_Creek_SW_2015,FALSE,v4v5,Bacteria,TRUE,terrestrial biome,mine,water,48.46,-81.27
 DCO_SYL,DCO_SYL_Bv6v4--1373_DF_Bac,FALSE,v6v4,Bacteria,FALSE,drilling bore water,borehole,water,-28.596,-173.28
 DCO_SYL,DCO_SYL_Bv6v4--1374_14R_Bac,FALSE,v6v4,Bacteria,FALSE,marine biome,borehole,rock,-28.596,-173.381
@@ -1229,6 +1229,15 @@ DCO_WAL,DCO_WAL_Bv6v4--Bering_5_Bv6v4,FALSE,v6v4,Bacteria,FALSE,marine biome,bor
 DCO_WAL,DCO_WAL_Bv6v4--Bering_6_Bv6v4,FALSE,v6v4,Bacteria,FALSE,marine biome,borehole,sediment,58.7,-178.56
 DCO_WAL,DCO_WAL_Bv6v4--Bering_7_Bv6v4,FALSE,v6v4,Bacteria,FALSE,marine biome,borehole,sediment,58.7,-178.56
 DCO_WAL,DCO_WAL_Bv6v4--Bering_8_Bv6v4,FALSE,v6v4,Bacteria,FALSE,marine biome,borehole,sediment,58.7,-178.56
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,FALSE,null,null,FALSE,null,null,null,null,null
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,FALSE,null,null,FALSE,null,null,null,null,null
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,FALSE,null,null,FALSE,null,null,null,null,null
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,FALSE,null,null,FALSE,null,null,null,null,null
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,FALSE,null,null,FALSE,null,null,null,null,null
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,FALSE,null,null,FALSE,null,null,null,null,null
+DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,FALSE,null,null,FALSE,null,null,null,null,null
+DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,FALSE,null,null,FALSE,null,null,null,null,null
+DCO_TCO,DCO_TCO_Bv6--TT109FW060311BH2,FALSE,null,null,FALSE,null,null,null,null,null
 DCO_BPC,DCO_BPC_Bv6--1382B_DNA_BLANK_A2_1step_20140530,TRUE,null,null,FALSE,null,null,null,null,null
 DCO_BPC,DCO_BPC_Bv6--1382B_DNA_BLANK_A2_2step_20140529,TRUE,null,null,FALSE,null,null,null,null,null
 DCO_BPC,DCO_BPC_Bv6--Ecoli_DH10_2step_20140506,TRUE,null,null,FALSE,null,null,null,null,null
@@ -1276,12 +1285,3 @@ DCO_BPC,DCO_BPC_Bv6--TWNCO2_2003m_2step_20140506,TRUE,null,null,FALSE,null,null,
 DCO_BPC,DCO_BPC_Bv6--TWNCO2_2419m_2step_20140506,TRUE,null,null,FALSE,null,null,null,null,null
 DCO_BPC,DCO_BPC_Bv6--TWNCO2_2496m_2step_20140506,TRUE,null,null,FALSE,null,null,null,null,null
 DCO_BRG,DCO_BRG_Bv6v4--20110907_B_TGCAG,TRUE,null,null,FALSE,null,null,null,null,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_10H4,FALSE,null,null,FALSE,null,null,null,null,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_1H3,FALSE,null,null,FALSE,null,null,null,null,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H2,FALSE,null,null,FALSE,null,null,null,null,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_2H4,FALSE,null,null,FALSE,null,null,null,null,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_4H4,FALSE,null,null,FALSE,null,null,null,null,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_7H6,FALSE,null,null,FALSE,null,null,null,null,null
-DCO_ORC,DCO_ORC_Bv6--IODP_X336_U1382A_8H6,FALSE,null,null,FALSE,null,null,null,null,null
-DCO_TCO,DCO_TCO_Av6--TT109FW060311BH2,FALSE,null,null,FALSE,null,null,null,null,null
-DCO_TCO,DCO_TCO_Bv6--TT109FW060311BH2,FALSE,null,null,FALSE,null,null,null,null,null

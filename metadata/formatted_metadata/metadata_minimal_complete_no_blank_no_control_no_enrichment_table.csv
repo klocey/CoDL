@@ -381,22 +381,22 @@ DCO_LOIH,DCO_LOIH_Av4v5--J676red_Av4v5,FALSE,v4v5,Archaea,FALSE,"marine biome","
 DCO_LOIH,DCO_LOIH_Bv4v5--J674black_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"marine biome","hydrothermal vent",water,18.906,-155.257
 DCO_LOIH,DCO_LOIH_Bv4v5--J675yellow_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"marine biome","hydrothermal vent",water,18.906,-155.257
 DCO_LOIH,DCO_LOIH_Bv4v5--J676black_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"marine biome","hydrothermal vent",water,18.906,-155.257
-DCO_MAC,DCO_MAC_Av6--LD09_2_3,FALSE,v6,Archaea,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LI09_3,FALSE,v6,Archaea,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LI09_4,FALSE,v6,Archaea,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LI09_5,FALSE,v6,Archaea,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LI13_2,FALSE,v6,Archaea,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LO13_2,FALSE,v6,Archaea,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LO13_8,FALSE,v6,Archaea,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Av6--LV13_5,FALSE,v6,Archaea,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LD09_2_3,FALSE,v6,Bacteria,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LI09_3,FALSE,v6,Bacteria,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LI09_4,FALSE,v6,Bacteria,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LI09_5,FALSE,v6,Bacteria,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LI13_2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LO13_2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LO13_8,FALSE,v6,Bacteria,FALSE,"terrestrial biome",cave,water,43.403,12.976
-DCO_MAC,DCO_MAC_Bv6--LV13_5,FALSE,v6,Bacteria,FALSE,"terrestrial biome",cave,water,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LD09_2_3,FALSE,v6,Archaea,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LI09_3,FALSE,v6,Archaea,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LI09_4,FALSE,v6,Archaea,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LI09_5,FALSE,v6,Archaea,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LI13_2,FALSE,v6,Archaea,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LO13_2,FALSE,v6,Archaea,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LO13_8,FALSE,v6,Archaea,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Av6--LV13_5,FALSE,v6,Archaea,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LD09_2_3,FALSE,v6,Bacteria,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LI09_3,FALSE,v6,Bacteria,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LI09_4,FALSE,v6,Bacteria,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LI09_5,FALSE,v6,Bacteria,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LI13_2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LO13_2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LO13_8,FALSE,v6,Bacteria,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
+DCO_MAC,DCO_MAC_Bv6--LV13_5,FALSE,v6,Bacteria,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
 DCO_MAR,DCO_MAR_Av4v5--10A,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",volcano,soil,-16.24930278,168.13694444
 DCO_MAR,DCO_MAR_Av4v5--7A_,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",volcano,rock,-16.27222222,168.15361111
 DCO_MAR,DCO_MAR_Av4v5--8A_,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",volcano,rock,-16.27222222,168.15361111
