@@ -20,7 +20,9 @@ sed -i -e "s|unknown|null|g" -e "s|undefined|null|g" -e "s|VARIABLE=||g" -e "s|\
 rm -f temp.0.db
 sqlite3 temp.0.db ".import $sIODir/formatted_metadata/metadata_minimal_table.csv tbl1"
 sqlite3 temp.0.db "select * from tbl1 where not(blank_or_control='TRUE') and enrichment='FALSE'" | tail -n+2 > temp.1.csv
-grep -v '\,null' temp.1.csv > formatted_metadata/metadata_minimal_complete_no_blank_no_control_no_enrichment_table.csv
+grep -v '\,null' temp.1.csv > formatted_metadata/metadata_minimal_table.csv
+sqlite3 temp.0.db "select * from tbl1 where not(blank_or_control='TRUE') and enrichment='FALSE'" | tail -n+2 > temp.1.csv
+cut -d\, -f1-11  temp.1.csv | grep -v '\,null' > formatted_metadata/metadata_minimal_table_temperature_ph_omitted.csv
 
 #cleaning up
 rm temp.*
