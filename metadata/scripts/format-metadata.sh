@@ -9,12 +9,13 @@ cd $sIODir
 
 #decompressing raw metadata
 #cp $sIODir/raw_metadata/dco_all_metadata_2017-10-11.csv.gz temp.1.csv.gz
-cp $sIODir/raw_metadata/dco_all_metadata_2017-11-14.csv.gz temp.1.csv.gz
+#cp $sIODir/raw_metadata/dco_all_metadata_2017-11-14.csv.gz temp.1.csv.gz
+cp $sIODir/raw_metadata/dco_all_metadata_2017-11-29.csv.gz temp.1.csv.gz
 gunzip -r temp.1.csv.gz
 mv temp.1.csv temp.2.csv
 
 #flattening interpolated values file
-lstColumnsToFlatten=`head --lines=1 raw_supplementary_metadata/metadata_minimal_pivot_selected_2017-09-20.csv | sed "s|PROJECT_ID\,SAMPLE_ID\,||g"`
+lstColumnsToFlatten=`head --lines=1 raw_supplementary_metadata/metadata_minimal_pivot_selected_2017-09-20.csv | sed "s|PROJECT_ID\,SAMPLE_ID\,||g" | sed "s|\r||g"#`
 java -cp $sJavaDir/Utilities.jar edu.ucsf.PivotTableToFlatFile.PivotTableToFlatFileLauncher \
 	--sDataPath=$sIODir/raw_supplementary_metadata/metadata_minimal_pivot_selected_2017-09-20.csv \
 	--lstColumnsToFlatten=$lstColumnsToFlatten \
