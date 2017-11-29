@@ -23,3 +23,6 @@ bash $sIODir/scripts/metadata-minimal-table.sh $sIODir $sJavaDir
 #outputting blank and control list
 bash $sIODir/scripts/metadata-blanks-controls-list.sh $sIODir $sJavaDir
 
+#organizing formatted metadata
+bash $sIODir/scripts/organize-formatted-metadata.sh $sIODir $sJavaDir
+
