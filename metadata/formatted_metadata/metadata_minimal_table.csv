@@ -1,81 +1,4 @@
 PROJECT_ID,SAMPLE_ID,blank_or_control,dna_region,domain,enrichment,env_biome,env_feature,env_material,latitude,longitude,pH,temperature
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1A_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.414,12.39,16.16
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1A_Jul14,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.414,12.05,15.75
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1B_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.414,12.39,16.16
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1B_Jul14,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.414,12.32,16.31
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1C_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.414,12.39,16.16
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1C_Jul14,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.414,12.32,16.31
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3A_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.41402,10.2,16.51
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3A_Jul14,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.41402,10.29,15.60
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3B_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.41402,10.2,16.51
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3B_Jul14,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.41402,10.29,15.60
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3C_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.41402,10.2,16.51
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1A_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43006,11.64,16.36
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1A_Jul14,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43006,11.47,17.53
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1B_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43006,11.64,16.36
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1B_Jul14,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43006,11.51,17.44
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1C_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43006,11.64,16.36
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1C_Jul14,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43006,11.51,17.44
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_2A_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86202,-122.43006,9.07,16.63
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_2A_Jul14,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86202,-122.43006,9.43,16.91
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_2B_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86202,-122.43006,9.07,16.63
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_2B_Jul14,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86202,-122.43006,9.43,16.91
-DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_2C_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86202,-122.43006,9.07,16.63
-DCO_BRZ,DCO_BRZ_Bv4v5--CSWold_A_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86193,-122.414,9.82,18.18
-DCO_BRZ,DCO_BRZ_Bv4v5--CSWold_A_Dec13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86193,-122.414,9.36,17.9
-DCO_BRZ,DCO_BRZ_Bv4v5--N08A_A_Dec13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43,10.17,15.34
-DCO_BRZ,DCO_BRZ_Bv4v5--N08A_B_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43,10.37,17.99
-DCO_BRZ,DCO_BRZ_Bv4v5--N08Aa_Aug12,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43,10.52,16.2
-DCO_BRZ,DCO_BRZ_Bv4v5--N08B_A_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86201,-122.43,10.98,16.03
-DCO_BRZ,DCO_BRZ_Bv4v5--N08B_A_Dec13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86201,-122.43,10.55,15.03
-DCO_BRZ,DCO_BRZ_Bv4v5--N08B_July11,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86201,-122.43,11.51,16.6
-DCO_BRZ,DCO_BRZ_Bv4v5--N08Ba_Aug12,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86201,-122.43,10.81,16.2
-DCO_BRZ,DCO_BRZ_Bv4v5--N08Bb_Aug12,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86201,-122.43,10.81,16.2
-DCO_BRZ,DCO_BRZ_Bv4v5--N08Bc_Aug12,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86201,-122.43,10.8,16
-DCO_BRZ,DCO_BRZ_Bv4v5--N08C_A_Aug13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86202,-122.43,7.55,14.99
-DCO_BRZ,DCO_BRZ_Bv4v5--N08C_A_Dec13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86202,-122.43,8.67,15.1
-DCO_BRZ,DCO_BRZ_Bv4v5--N1A_Aug12,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.882,-122.478,6.91,17.2
-DCO_BRZ,DCO_BRZ_Bv4v5--N5A_Aug12,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.871,-122.428,9.16,16.7
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_8A_Apr11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43,11.11,15.8
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_8A_Aug11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43,10.7,18.4
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_8B_AprC11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86201,-122.43,11.62,19.4
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_8B_AprD11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86201,-122.43,11.62,19.4
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_1A_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.414,12.17,14.85
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_2A_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.414,8.68,14.8
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_3B_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.414,10.08,15.19
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_4A_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.414,7.77,14.23
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_5A_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.414,9.34,15.24
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWoldA_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86193,-122.414,9.84,17.74
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWoldB_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86193,-122.414,9.84,17.74
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWoldT0_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86193,-122.414,9.84,17.74
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08AB_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43,10.73,14.57
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08A_Aug11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43,10.7,18.4
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08BA_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86201,-122.43,10.87,14.65
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08BB_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86201,-122.43,10.87,14.65
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08CA_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.86202,-122.43,7.41,14.56
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08T0_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43,10.87,14.65
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV13A_Aug12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43006,10.13,16.9
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV1_1A_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43006,11.41,15.36
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV1_2B_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43006,7.02,15.8
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV1_3B_Mar13,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","bore hole water",38.862,-122.43006,9.43,16
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC1408,FALSE,v4v5,Bacteria,FALSE,"marine benthic","marine hydrothermal vent","biofilm material",30.123203,42.118972,10.67,88
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB13,FALSE,v4v5,Bacteria,FALSE,"marine benthic","marine hydrothermal vent","biofilm material",30.123934,42.120154,10.1,70
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB20,FALSE,v4v5,Bacteria,FALSE,"marine benthic","marine hydrothermal vent","biofilm material",30.123934,42.120154,10.1,70
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB21,FALSE,v4v5,Bacteria,FALSE,"marine benthic","marine hydrothermal vent","biofilm material",30.123934,42.120154,10.1,70
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB22,FALSE,v4v5,Bacteria,FALSE,"marine benthic","marine hydrothermal vent","biofilm material",30.123934,42.120154,10.1,70
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB31,FALSE,v4v5,Bacteria,FALSE,"marine benthic","marine hydrothermal vent","biofilm material",30.12397,42.120113,10.2,88
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB35,FALSE,v4v5,Bacteria,FALSE,"marine benthic","marine hydrothermal vent","biofilm material",30.124755,42.119024,8.7,28
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB36,FALSE,v4v5,Bacteria,FALSE,"marine benthic","marine hydrothermal vent","biofilm material",30.123961,42.119688,10.97,55
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB6,FALSE,v4v5,Bacteria,FALSE,"marine benthic","marine hydrothermal vent","biofilm material",30.123889,42.120061,10.7,91
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_BR2_back1_Jun12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","ground water",44.4512,8.782,8.06,18.7
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_BR2_back2_Jun12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","ground water",44.4512,8.782,8.06,18.7
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_upA_Jul12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","ground water",44.597,8.7833,9.34,22.9
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_upB_Jul12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","ground water",44.597,8.7833,9.34,22.9
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_L43_upstream_Oct11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","ground water",44.4584,8.7688,9,12.1
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GOR1AB_2013,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","ground water",44.597,8.7833,12.06,20.5
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GOR1CDEF_2013,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","ground water",44.597,8.7833,12.25,20
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GORupA_2013,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","ground water",44.597,8.7833,9.5,21.9
-DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GORupB_2013,FALSE,v4v5,Bacteria,FALSE,"montane shrubland","alkaline habitat","ground water",44.597,8.7833,9.26,22.4
 DCO_BOM,DCO_BOM_Av6--OL_KR13_360m,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,water,61.24,21.44,7.9,9
 DCO_BOM,DCO_BOM_Av6--OL_KR1_609m,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,water,61.24,21.44,7.8,13
 DCO_BOM,DCO_BOM_Av6--OL_KR23_424m,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,water,61.24,21.44,7.5,9.8
@@ -140,6 +63,108 @@ DCO_BRG,DCO_BRG_Bv6v4--Site17A_554mbsf,FALSE,v6v4,Bacteria,FALSE,"marine biome",
 DCO_BRG,DCO_BRG_Bv6v4--Site17A_588mbsf,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,11.2811,93.1,6.4,17.3
 DCO_BRG,DCO_BRG_Bv6v4--Site17A_589mbsf,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,11.2811,93.1,7.3,17.3
 DCO_BRG,DCO_BRG_Bv6v4--Site17A_684mbsf,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,11.2811,93.1,7.1,19.2
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_1A_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,12.17,14.85
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_2A_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,8.68,14.8
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_3B_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,10.08,15.19
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_4A_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,7.77,14.23
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSW1_5A_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,9.34,15.24
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSWoldA_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.86193,-122.414,9.84,17.74
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSWoldB_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.86193,-122.414,9.84,17.74
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_CSWoldT0_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.86193,-122.414,9.84,17.74
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08AB_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43,10.73,14.57
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08BA_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.86201,-122.43,10.87,14.65
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08BB_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.86201,-122.43,10.87,14.65
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08CA_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.86202,-122.43,7.41,14.56
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_N08T0_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43,10.87,14.65
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV1_1A_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43006,11.41,15.36
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV1_2B_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43006,7.02,15.8
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_CRO_QV1_3B_Mar13,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43006,9.43,16
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC1408,FALSE,v4v5,Archaea,FALSE,"marine biome","hydrothermal vent",biofilm,30.123203,-42.118972,10.67,88
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB13,FALSE,v4v5,Archaea,FALSE,"marine biome","hydrothermal vent",biofilm,30.123934,-42.120154,10.1,70
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB20,FALSE,v4v5,Archaea,FALSE,"marine biome","hydrothermal vent",biofilm,30.123934,-42.120154,10.1,70
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB21,FALSE,v4v5,Archaea,FALSE,"marine biome","hydrothermal vent",biofilm,30.123934,-42.120154,10.1,70
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB22,FALSE,v4v5,Archaea,FALSE,"marine biome","hydrothermal vent",biofilm,30.123934,-42.120154,10.1,70
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB31,FALSE,v4v5,Archaea,FALSE,"marine biome","hydrothermal vent",biofilm,30.12397,-42.120113,10.2,88
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_LC_BB35,FALSE,v4v5,Archaea,FALSE,"marine biome","hydrothermal vent",biofilm,30.124755,-42.119024,8.7,28
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Lig_GOR1CDEF_2013,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",spring,water,44.597,8.7833,12.25,20
+DCO_BRZ,DCO_BRZ_Av4v5--Serp_Lig_GORupA_2013,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",spring,water,44.597,8.7833,9.5,21.9
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1A_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,12.39,16.16
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1A_Jul14,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,12.05,15.75
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1B_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,12.39,16.16
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1B_Jul14,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,12.32,16.31
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1C_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,12.39,16.16
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_1C_Jul14,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,12.32,16.31
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3A_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.41402,10.2,16.51
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3A_Jul14,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.41402,10.29,15.6
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3B_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.41402,10.2,16.51
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3B_Jul14,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.41402,10.29,15.6
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_CSW1_3C_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.41402,10.2,16.51
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1A_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43006,11.64,16.36
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1A_Jul14,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43006,11.47,17.53
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1B_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43006,11.64,16.36
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1B_Jul14,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43006,11.51,17.44
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1C_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43006,11.64,16.36
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_1C_Jul14,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43006,11.51,17.44
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_2A_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86202,-122.43006,9.07,16.63
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_2A_Jul14,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86202,-122.43006,9.43,16.91
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_2B_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86202,-122.43006,9.07,16.63
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_2B_Jul14,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86202,-122.43006,9.43,16.91
+DCO_BRZ,DCO_BRZ_Bv4v5--CRO_QV1_2C_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86202,-122.43006,9.07,16.63
+DCO_BRZ,DCO_BRZ_Bv4v5--CSWold_A_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86193,-122.414,9.82,18.18
+DCO_BRZ,DCO_BRZ_Bv4v5--CSWold_A_Dec13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86193,-122.414,9.36,17.9
+DCO_BRZ,DCO_BRZ_Bv4v5--N08A_A_Dec13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43,10.17,15.34
+DCO_BRZ,DCO_BRZ_Bv4v5--N08A_B_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43,10.37,17.99
+DCO_BRZ,DCO_BRZ_Bv4v5--N08Aa_Aug12,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43,10.52,16.2
+DCO_BRZ,DCO_BRZ_Bv4v5--N08B_A_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86201,-122.43,10.98,16.03
+DCO_BRZ,DCO_BRZ_Bv4v5--N08B_A_Dec13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86201,-122.43,10.55,15.03
+DCO_BRZ,DCO_BRZ_Bv4v5--N08B_July11,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86201,-122.43,11.51,16.6
+DCO_BRZ,DCO_BRZ_Bv4v5--N08Ba_Aug12,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86201,-122.43,10.81,16.2
+DCO_BRZ,DCO_BRZ_Bv4v5--N08Bb_Aug12,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86201,-122.43,10.81,16.2
+DCO_BRZ,DCO_BRZ_Bv4v5--N08Bc_Aug12,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86201,-122.43,10.8,16
+DCO_BRZ,DCO_BRZ_Bv4v5--N08C_A_Aug13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86202,-122.43,7.55,14.99
+DCO_BRZ,DCO_BRZ_Bv4v5--N08C_A_Dec13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86202,-122.43,8.67,15.1
+DCO_BRZ,DCO_BRZ_Bv4v5--N1A_Aug12,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.882,-122.478,6.91,17.2
+DCO_BRZ,DCO_BRZ_Bv4v5--N5A_Aug12,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.871,-122.428,9.16,16.7
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_8A_Apr11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43,11.11,15.8
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_8A_Aug11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43,10.7,18.4
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_8B_AprC11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86201,-122.43,11.62,19.4
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_8B_AprD11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86201,-122.43,11.62,19.4
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_1A_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,12.17,14.85
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_2A_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,8.68,14.8
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_3B_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,10.08,15.19
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_4A_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,7.77,14.23
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSW1_5A_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.414,9.34,15.24
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWoldA_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86193,-122.414,9.84,17.74
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWoldB_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86193,-122.414,9.84,17.74
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_CSWoldT0_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86193,-122.414,9.84,17.74
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08AB_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43,10.73,14.57
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08A_Aug11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43,10.7,18.4
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08BA_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86201,-122.43,10.87,14.65
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08BB_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86201,-122.43,10.87,14.65
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08CA_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.86202,-122.43,7.41,14.56
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_N08T0_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43,10.87,14.65
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV13A_Aug12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43006,10.13,16.9
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV1_1A_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43006,11.41,15.36
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV1_2B_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43006,7.02,15.8
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_CRO_QV1_3B_Mar13,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,fluid,38.862,-122.43006,9.43,16
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC1408,FALSE,v4v5,Bacteria,FALSE,"marine biome","hydrothermal vent",biofilm,30.123203,-42.118972,10.67,88
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB13,FALSE,v4v5,Bacteria,FALSE,"marine biome","hydrothermal vent",biofilm,30.123934,-42.120154,10.1,70
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB20,FALSE,v4v5,Bacteria,FALSE,"marine biome","hydrothermal vent",biofilm,30.123934,-42.120154,10.1,70
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB21,FALSE,v4v5,Bacteria,FALSE,"marine biome","hydrothermal vent",biofilm,30.123934,-42.120154,10.1,70
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB22,FALSE,v4v5,Bacteria,FALSE,"marine biome","hydrothermal vent",biofilm,30.123934,-42.120154,10.1,70
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB31,FALSE,v4v5,Bacteria,FALSE,"marine biome","hydrothermal vent",biofilm,30.12397,-42.120113,10.2,88
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB35,FALSE,v4v5,Bacteria,FALSE,"marine biome","hydrothermal vent",biofilm,30.124755,-42.119024,8.7,28
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB36,FALSE,v4v5,Bacteria,FALSE,"marine biome","hydrothermal vent",biofilm,30.123961,-42.119688,10.97,55
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LC_BB6,FALSE,v4v5,Bacteria,FALSE,"marine biome","hydrothermal vent",biofilm,30.123889,-42.120061,10.7,91
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_BR2_back1_Jun12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",spring,water,44.4512,8.782,8.06,18.7
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_BR2_back2_Jun12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",spring,water,44.4512,8.782,8.06,18.7
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_upA_Jul12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",spring,water,44.597,8.7833,9.34,22.9
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_Gor_upB_Jul12_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",spring,water,44.597,8.7833,9.34,22.9
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_LIG_L43_upstream_Oct11_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",spring,water,44.4584,8.7688,9,12.1
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GOR1AB_2013,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",spring,water,44.597,8.7833,12.06,20.5
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GOR1CDEF_2013,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",spring,water,44.597,8.7833,12.25,20
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GORupA_2013,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",spring,water,44.597,8.7833,9.5,21.9
+DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GORupB_2013,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",spring,water,44.597,8.7833,9.26,22.4
 DCO_DAL,DCO_DAL_Bv4v5--AgiaParaskevi,FALSE,v4v5,Bacteria,FALSE,terrestrial,"hydrothermal vent",water,39.924,23.59,6.31,31.5
 DCO_DAL,DCO_DAL_Bv4v5--Alexandria,FALSE,v4v5,Bacteria,FALSE,terrestrial,"hydrothermal vent",water,40.667,22.424,7.82,33.9
 DCO_DAL,DCO_DAL_Bv4v5--Giotrisi,FALSE,v4v5,Bacteria,FALSE,terrestrial,"hydrothermal vent",water,40.497,25.603,6.38,77.3
@@ -350,6 +375,7 @@ DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,FALSE,v6,Archaea,FALSE,"terrestrial biome",b
 DCO_TCO,DCO_TCO_Av6--FI88FW031012,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-28.38,23.45,6.8,28.9
 DCO_TCO,DCO_TCO_Av6--MM51940FW200712,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-27.98,26.88,7.7,40.7
 DCO_TCO,DCO_TCO_Av6--NO14FW130912,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-24.83,27.34,8.48,65
+DCO_TCO,DCO_TCO_Av6--TT109FW060312BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-26.42,27.43,8.19,48.7
 DCO_TCO,DCO_TCO_Bv6--BE326FW120711BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8,8.2,34.6
 DCO_TCO,DCO_TCO_Bv6--BE326FW250111BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8,8.8,36.9
 DCO_TCO,DCO_TCO_Bv6--BE326FW270712BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8,8.6,38.1
