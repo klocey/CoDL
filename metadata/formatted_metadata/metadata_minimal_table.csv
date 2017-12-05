@@ -1,4 +1,4 @@
-PROJECT_ID,SAMPLE_ID,blank_or_control,dna_region,domain,enrichment,env_biome,env_feature,env_material,latitude,longitude,pH,temperature
+PROJECT_ID,SAMPLE_ID,blank_or_control,dna_region,domain,enrichment,env_biome,env_feature,env_material,latitude,longitude,ph,temperature
 DCO_BOM,DCO_BOM_Av6--OL_KR13_360m,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,water,61.24,21.44,7.9,9
 DCO_BOM,DCO_BOM_Av6--OL_KR1_609m,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,water,61.24,21.44,7.8,13
 DCO_BOM,DCO_BOM_Av6--OL_KR23_424m,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,water,61.24,21.44,7.5,9.8
@@ -165,6 +165,30 @@ DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GOR1AB_2013,FALSE,v4v5,Bacteria,FALSE,"terrestri
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GOR1CDEF_2013,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",spring,water,44.597,8.7833,12.25,20
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GORupA_2013,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",spring,water,44.597,8.7833,9.5,21.9
 DCO_BRZ,DCO_BRZ_Bv4v5--Serp_Lig_GORupB_2013,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",spring,water,44.597,8.7833,9.26,22.4
+DCO_CMT,DCO_CMT_Av6--Challenger_Middle_Pond_ThreeMicron,FALSE,v6,Archaea,FALSE,"marine biome",trench,water,11.36902,142.43,7.7,2.5
+DCO_CMT,DCO_CMT_Av6--Challenger_Middle_Pond_ZeroPointOneMicron,FALSE,v6,Archaea,FALSE,"marine biome",trench,water,11.37,142.43,7.7,2.5
+DCO_CMT,DCO_CMT_Av6--Challenger_Middle_Pond_ZeroPointTwoMicron,FALSE,v6,Archaea,FALSE,"marine biome",trench,water,11.37,142.43,7.7,2.5
+DCO_CMT,DCO_CMT_Av6--Challenger_West_Pond_ThreeMicron,FALSE,v6,Archaea,FALSE,"marine biome",trench,water,11.34,142.2,7.7,2.5
+DCO_CMT,DCO_CMT_Av6--Challenger_West_Pond_ZeroPointOneMicron,FALSE,v6,Archaea,FALSE,"marine biome",trench,water,11.34,142.2,7.7,2.5
+DCO_CMT,DCO_CMT_Av6--Challenger_West_Pond_ZeroPointTwoMicron,FALSE,v6,Archaea,FALSE,"marine biome",trench,water,11.34,142.2,7.7,2.5
+DCO_CMT,DCO_CMT_Av6--Sirena_Deep_ThreeMicron,FALSE,v6,Archaea,FALSE,"marine biome",trench,water,12.04,144.35,7.7,2.5
+DCO_CMT,DCO_CMT_Av6--Sirena_Deep_ZeroPointOneMicron,FALSE,v6,Archaea,FALSE,"marine biome",trench,water,12.04,144.35,7.7,2.5
+DCO_CMT,DCO_CMT_Av6--Sirena_Deep_ZeroPointTwoMicron,FALSE,v6,Archaea,FALSE,"marine biome",trench,water,12.04,144.35,7.7,2.5
+DCO_CMT,DCO_CMT_Av6--Ulithi_ThreeMicron,FALSE,v6,Archaea,FALSE,"marine biome",trench,water,10.01,139.75,7.7,6
+DCO_CMT,DCO_CMT_Av6--Ulithi_ZeroPointOneMicron,FALSE,v6,Archaea,FALSE,"marine biome",trench,water,10.01,139.75,7.7,6
+DCO_CMT,DCO_CMT_Av6--Ulithi_ZeroPointTwoMicron,FALSE,v6,Archaea,FALSE,"marine biome",trench,water,10.01,139.75,7.7,6
+DCO_CMT,DCO_CMT_Bv6--Challenger_Middle_Pond_ThreeMicron,FALSE,v6,Bacteria,FALSE,"marine biome",trench,water,11.36902,142.43,7.7,2.5
+DCO_CMT,DCO_CMT_Bv6--Challenger_Middle_Pond_ZeroPointOneMicron,FALSE,v6,Bacteria,FALSE,"marine biome",trench,water,11.37,142.43,7.7,2.5
+DCO_CMT,DCO_CMT_Bv6--Challenger_Middle_Pond_ZeroPointTwoMicron,FALSE,v6,Bacteria,FALSE,"marine biome",trench,water,11.37,142.43,7.7,2.5
+DCO_CMT,DCO_CMT_Bv6--Challenger_West_Pond_ThreeMicron,FALSE,v6,Bacteria,FALSE,"marine biome",trench,water,11.34,142.2,7.7,2.5
+DCO_CMT,DCO_CMT_Bv6--Challenger_West_Pond_ZeroPointOneMicron,FALSE,v6,Bacteria,FALSE,"marine biome",trench,water,11.34,142.2,7.7,2.5
+DCO_CMT,DCO_CMT_Bv6--Challenger_West_Pond_ZeroPointTwoMicron,FALSE,v6,Bacteria,FALSE,"marine biome",trench,water,11.34,142.2,7.7,2.5
+DCO_CMT,DCO_CMT_Bv6--Sirena_Deep_ThreeMicron,FALSE,v6,Bacteria,FALSE,"marine biome",trench,water,12.04,144.35,7.7,2.5
+DCO_CMT,DCO_CMT_Bv6--Sirena_Deep_ZeroPointOneMicron,FALSE,v6,Bacteria,FALSE,"marine biome",trench,water,12.04,144.35,7.7,2.5
+DCO_CMT,DCO_CMT_Bv6--Sirena_Deep_ZeroPointTwoMicron,FALSE,v6,Bacteria,FALSE,"marine biome",trench,water,12.04,144.35,7.7,2.5
+DCO_CMT,DCO_CMT_Bv6--Ulithi_ThreeMicron,FALSE,v6,Bacteria,FALSE,"marine biome",trench,water,10.01,139.75,7.7,6
+DCO_CMT,DCO_CMT_Bv6--Ulithi_ZeroPointOneMicron,FALSE,v6,Bacteria,FALSE,"marine biome",trench,water,10.01,139.75,7.7,6
+DCO_CMT,DCO_CMT_Bv6--Ulithi_ZeroPointTwoMicron,FALSE,v6,Bacteria,FALSE,"marine biome",trench,water,10.01,139.75,7.7,6
 DCO_DAL,DCO_DAL_Bv4v5--AgiaParaskevi,FALSE,v4v5,Bacteria,FALSE,terrestrial,"hydrothermal vent",water,39.924,23.59,6.31,31.5
 DCO_DAL,DCO_DAL_Bv4v5--Alexandria,FALSE,v4v5,Bacteria,FALSE,terrestrial,"hydrothermal vent",water,40.667,22.424,7.82,33.9
 DCO_DAL,DCO_DAL_Bv4v5--Giotrisi,FALSE,v4v5,Bacteria,FALSE,terrestrial,"hydrothermal vent",water,40.497,25.603,6.38,77.3

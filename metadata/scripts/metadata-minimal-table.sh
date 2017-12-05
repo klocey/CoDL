@@ -8,7 +8,7 @@ sJavaDir=$2
 cd $sIODir
 
 #outputting metadata for all samples
-sqlite3 formatted_metadata/metadata_formatted.db "select * from tbl1 where variable in ('blank_or_control', 'enrichment', 'domain', 'dna_region', 'latitude', 'longitude', 'env_biome', 'env_feature', 'env_material', 'temperature', 'pH');" | tail -n+2 > formatted_metadata/metadata_minimal_table.csv
+sqlite3 formatted_metadata/metadata_formatted.db "select * from tbl1 where variable in ('blank_or_control', 'enrichment', 'domain', 'dna_region', 'latitude', 'longitude', 'env_biome', 'env_feature', 'env_material', 'temperature', 'ph');" | tail -n+2 > formatted_metadata/metadata_minimal_table.csv
 java -cp $sJavaDir/Utilities.jar edu.ucsf.FlatFileToPivotTable.FlatFileToPivotTableLauncher \
 	--sValueHeader=VALUE \
 	--rgsExpandHeaders=VARIABLE \

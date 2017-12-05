@@ -518,7 +518,6 @@ DCO_PIN,DCO_PIN_Av4v5--B3_,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole
 DCO_PIN,DCO_PIN_Av4v5--B4_,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,rock,17.12,73.87
 DCO_PIN,DCO_PIN_Av4v5--B5_,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,rock,17.12,73.87
 DCO_PIN,DCO_PIN_Av4v5--B6_,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",borehole,rock,17.12,73.87
-DCO_PIN,DCO_PIN_Bv4v5--DCO_PIN_Bv4v5,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",borehole,rock,17.12,73.87
 DCO_RAM,DCO_RAM_Av6v4--MSM16_2_809_1_MUC,FALSE,v6v4,Archaea,FALSE,"marine biome",seep,sediment,72.003,14.732
 DCO_RAM,DCO_RAM_Av6v4--MSM16_2_823_1_MUC,FALSE,v6v4,Archaea,FALSE,"marine biome",seep,sediment,72.003,14.732
 DCO_RAM,DCO_RAM_Av6v4--MSM16_2_838_1_MUC,FALSE,v6v4,Archaea,FALSE,"marine biome",seep,sediment,72.005,14.726

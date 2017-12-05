@@ -8,9 +8,6 @@ mkdir -p $sIODir/formatted_metadata
 #formatting metadata
 bash $sIODir/scripts/format-metadata.sh $sIODir $sJavaDir
 
-#adding brz metadata
-#bash $sIODir/scripts/add-brz-metadata.sh $sIODir $sJavaDir
-
 #counting metadata
 bash $sIODir/scripts/metadata-counts.sh $sIODir $sJavaDir
 
