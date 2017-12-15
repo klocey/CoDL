@@ -392,18 +392,18 @@ DCO_TAS,DCO_TAS_Bv4v5--S5_10,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",volca
 DCO_TAS,DCO_TAS_Bv4v5--S5_30,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238,3.6,17.4
 DCO_TAS,DCO_TAS_Bv4v5--S6_,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",volcano,mud,40.827049,14.141238,2.1,70
 DCO_TAS,DCO_TAS_Bv4v5--S7_,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",volcano,mud,40.827049,14.141238,1.9,40
-DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8,8.2,34.6
-DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8,8.8,36.9
-DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8,8.6,38.1
-DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-26.42,27.5,7.4,26.8
-DCO_TCO,DCO_TCO_Av6--FI88FW031012,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-28.38,23.45,6.8,28.9
-DCO_TCO,DCO_TCO_Av6--MM51940FW200712,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-27.98,26.88,7.7,40.7
-DCO_TCO,DCO_TCO_Av6--NO14FW130912,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-24.83,27.34,8.48,65
-DCO_TCO,DCO_TCO_Av6--TT109FW060312BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-26.42,27.43,8.19,48.7
-DCO_TCO,DCO_TCO_Bv6--BE326FW120711BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8,8.2,34.6
-DCO_TCO,DCO_TCO_Bv6--BE326FW250111BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8,8.8,36.9
-DCO_TCO,DCO_TCO_Bv6--BE326FW270712BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8,8.6,38.1
-DCO_TCO,DCO_TCO_Bv6--DR5IPCFW280711,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-26.42,27.5,7.4,26.8
-DCO_TCO,DCO_TCO_Bv6--FI88FW031012,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-28.38,23.45,6.8,28.9
-DCO_TCO,DCO_TCO_Bv6--MM51940FW200712,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-27.98,26.88,7.7,40.7
-DCO_TCO,DCO_TCO_Bv6--NO14FW130912,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-24.83,27.34,8.48,65
+DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8,8.2,34.6
+DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8,8.8,36.9
+DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8,8.6,38.1
+DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-26.42,27.5,7.4,26.8
+DCO_TCO,DCO_TCO_Av6--FI88FW031012,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-28.38,23.45,6.8,28.9
+DCO_TCO,DCO_TCO_Av6--MM51940FW200712,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-27.98,26.88,7.7,40.7
+DCO_TCO,DCO_TCO_Av6--NO14FW130912,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-24.83,27.34,8.48,65
+DCO_TCO,DCO_TCO_Av6--TT109FW060312BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-26.42,27.43,8.19,48.7
+DCO_TCO,DCO_TCO_Bv6--BE326FW120711BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8,8.2,34.6
+DCO_TCO,DCO_TCO_Bv6--BE326FW250111BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8,8.8,36.9
+DCO_TCO,DCO_TCO_Bv6--BE326FW270712BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8,8.6,38.1
+DCO_TCO,DCO_TCO_Bv6--DR5IPCFW280711,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-26.42,27.5,7.4,26.8
+DCO_TCO,DCO_TCO_Bv6--FI88FW031012,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-28.38,23.45,6.8,28.9
+DCO_TCO,DCO_TCO_Bv6--MM51940FW200712,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-27.98,26.88,7.7,40.7
+DCO_TCO,DCO_TCO_Bv6--NO14FW130912,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-24.83,27.34,8.48,65

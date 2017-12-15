@@ -11,7 +11,8 @@ cd $sIODir
 #cp $sIODir/raw_metadata/dco_all_metadata_2017-10-11.csv.gz temp.1.csv.gz
 #cp $sIODir/raw_metadata/dco_all_metadata_2017-11-14.csv.gz temp.1.csv.gz
 #cp $sIODir/raw_metadata/dco_all_metadata_2017-11-29.csv.gz temp.1.csv.gz
-cp $sIODir/raw_metadata/dco_all_metadata_2017-12-04.csv.gz temp.1.csv.gz
+#cp $sIODir/raw_metadata/dco_all_metadata_2017-12-04.csv.gz temp.1.csv.gz
+cp $sIODir/raw_metadata/dco_all_metadata_2017-12-15.csv.gz temp.1.csv.gz
 gunzip -r temp.1.csv.gz
 mv temp.1.csv temp.2.csv
 

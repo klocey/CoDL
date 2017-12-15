@@ -440,10 +440,10 @@ DCO_MAC,DCO_MAC_Bv6--LI13_2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",aquifer,
 DCO_MAC,DCO_MAC_Bv6--LO13_2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
 DCO_MAC,DCO_MAC_Bv6--LO13_8,FALSE,v6,Bacteria,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
 DCO_MAC,DCO_MAC_Bv6--LV13_5,FALSE,v6,Bacteria,FALSE,"terrestrial biome",aquifer,biofilm,43.403,12.976
-DCO_MAR,DCO_MAR_Av4v5--10A,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",volcano,soil,-16.24930278,168.13694444
+DCO_MAR,DCO_MAR_Av4v5--10A,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",volcano,rock,-16.24930278,168.13694444
 DCO_MAR,DCO_MAR_Av4v5--7A_,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",volcano,rock,-16.27222222,168.15361111
 DCO_MAR,DCO_MAR_Av4v5--8A_,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",volcano,rock,-16.27222222,168.15361111
-DCO_MAR,DCO_MAR_Av4v5--9A_,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",volcano,soil,-16.24930278,168.13694444
+DCO_MAR,DCO_MAR_Av4v5--9A_,FALSE,v4v5,Archaea,FALSE,"terrestrial biome",volcano,rock,-16.24930278,168.13694444
 DCO_MAR,DCO_MAR_Bv4v5--7B_,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",volcano,rock,-16.27222222,168.1536111
 DCO_MAR,DCO_MAR_Bv4v5--8B_,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",volcano,rock,-16.27222222,168.1536111
 DCO_MOS,DCO_MOS_Av6v4--BLM_1A,FALSE,v6v4,Archaea,FALSE,"terrestrial biome",well,water,36.40116667,-116.468
@@ -609,21 +609,21 @@ DCO_TAS,DCO_TAS_Bv4v5--S5_10,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",volca
 DCO_TAS,DCO_TAS_Bv4v5--S5_30,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238
 DCO_TAS,DCO_TAS_Bv4v5--S6_,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",volcano,mud,40.827049,14.141238
 DCO_TAS,DCO_TAS_Bv4v5--S7_,FALSE,v4v5,Bacteria,FALSE,"terrestrial biome",volcano,mud,40.827049,14.141238
-DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8
-DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8
-DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8
-DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-26.42,27.5
-DCO_TCO,DCO_TCO_Av6--FI88FW031012,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-28.38,23.45
-DCO_TCO,DCO_TCO_Av6--MM51940FW200712,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-27.98,26.88
-DCO_TCO,DCO_TCO_Av6--NO14FW130912,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-24.83,27.34
-DCO_TCO,DCO_TCO_Av6--TT109FW060312BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome",borehole,fluid,-26.42,27.43
-DCO_TCO,DCO_TCO_Bv6--BE326FW120711BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8
-DCO_TCO,DCO_TCO_Bv6--BE326FW250111BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8
-DCO_TCO,DCO_TCO_Bv6--BE326FW270712BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-28.24,26.8
-DCO_TCO,DCO_TCO_Bv6--DR5IPCFW280711,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-26.42,27.5
-DCO_TCO,DCO_TCO_Bv6--FI88FW031012,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-28.38,23.45
-DCO_TCO,DCO_TCO_Bv6--MM51940FW200712,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-27.98,26.88
-DCO_TCO,DCO_TCO_Bv6--NO14FW130912,FALSE,v6,Bacteria,FALSE,"terrestrial biome",borehole,fluid,-24.83,27.34
+DCO_TCO,DCO_TCO_Av6--BE326FW120711BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8
+DCO_TCO,DCO_TCO_Av6--BE326FW250111BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8
+DCO_TCO,DCO_TCO_Av6--BE326FW270712BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8
+DCO_TCO,DCO_TCO_Av6--DR5IPCFW280711,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-26.42,27.5
+DCO_TCO,DCO_TCO_Av6--FI88FW031012,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-28.38,23.45
+DCO_TCO,DCO_TCO_Av6--MM51940FW200712,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-27.98,26.88
+DCO_TCO,DCO_TCO_Av6--NO14FW130912,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-24.83,27.34
+DCO_TCO,DCO_TCO_Av6--TT109FW060312BH2,FALSE,v6,Archaea,FALSE,"terrestrial biome","geological fracture",water,-26.42,27.43
+DCO_TCO,DCO_TCO_Bv6--BE326FW120711BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8
+DCO_TCO,DCO_TCO_Bv6--BE326FW250111BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8
+DCO_TCO,DCO_TCO_Bv6--BE326FW270712BH2,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8
+DCO_TCO,DCO_TCO_Bv6--DR5IPCFW280711,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-26.42,27.5
+DCO_TCO,DCO_TCO_Bv6--FI88FW031012,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-28.38,23.45
+DCO_TCO,DCO_TCO_Bv6--MM51940FW200712,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-27.98,26.88
+DCO_TCO,DCO_TCO_Bv6--NO14FW130912,FALSE,v6,Bacteria,FALSE,"terrestrial biome","geological fracture",water,-24.83,27.34
 DCO_WAL,DCO_WAL_Av6v4--BS_1A,FALSE,v6v4,Archaea,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
 DCO_WAL,DCO_WAL_Av6v4--BS_2A,FALSE,v6v4,Archaea,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
 DCO_WAL,DCO_WAL_Av6v4--BS_3A,FALSE,v6v4,Archaea,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
@@ -634,13 +634,13 @@ DCO_WAL,DCO_WAL_Av6v4--BS_6A,FALSE,v6v4,Archaea,FALSE,"marine biome",borehole,se
 DCO_WAL,DCO_WAL_Av6v4--BS_7.5A,FALSE,v6v4,Archaea,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
 DCO_WAL,DCO_WAL_Av6v4--BS_7A,FALSE,v6v4,Archaea,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
 DCO_WAL,DCO_WAL_Av6v4--BS_8A,FALSE,v6v4,Archaea,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
-DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.7,-178.56
-DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.7,-178.56
-DCO_WAL,DCO_WAL_Bv6v4--Bering_1_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.7,-178.56
-DCO_WAL,DCO_WAL_Bv6v4--Bering_2_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.7,-178.56
-DCO_WAL,DCO_WAL_Bv6v4--Bering_3_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.7,-178.56
-DCO_WAL,DCO_WAL_Bv6v4--Bering_4_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.7,-178.56
-DCO_WAL,DCO_WAL_Bv6v4--Bering_5_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.7,-178.56
-DCO_WAL,DCO_WAL_Bv6v4--Bering_6_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.7,-178.56
-DCO_WAL,DCO_WAL_Bv6v4--Bering_7_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.7,-178.56
-DCO_WAL,DCO_WAL_Bv6v4--Bering_8_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.7,-178.56
+DCO_WAL,DCO_WAL_Bv6v4--BS_5.5_B,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
+DCO_WAL,DCO_WAL_Bv6v4--BS_7.5_B,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
+DCO_WAL,DCO_WAL_Bv6v4--Bering_1_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
+DCO_WAL,DCO_WAL_Bv6v4--Bering_2_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
+DCO_WAL,DCO_WAL_Bv6v4--Bering_3_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
+DCO_WAL,DCO_WAL_Bv6v4--Bering_4_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
+DCO_WAL,DCO_WAL_Bv6v4--Bering_5_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
+DCO_WAL,DCO_WAL_Bv6v4--Bering_6_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
+DCO_WAL,DCO_WAL_Bv6v4--Bering_7_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
+DCO_WAL,DCO_WAL_Bv6v4--Bering_8_Bv6v4,FALSE,v6v4,Bacteria,FALSE,"marine biome",borehole,sediment,58.70444,-178.56417
