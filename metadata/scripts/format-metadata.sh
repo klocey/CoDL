@@ -53,6 +53,11 @@ sqlite3 temp.4.db "select PROJECT_ID, SAMPLE_ID, VARIABLE, VALUE from tbl1 where
 i2=`wc -l temp.5.csv | cut -d' ' -f1`
 
 echo $(($i2-$i1))'  interpolated records added'
+
+#adding geoconductivity geohydroconnectivity data
+sed "s|\r|\n|g" raw_supplementary_metadata/geohydroconnectivity_metadata_rick_colwell.csv | cut -d\, -f1,2,14 | tail -n+2 | sed "s|\,|\,geohydroconnectivity_raw\,|2" >> temp.5.csv
+sed "s|\r|\n|g" raw_supplementary_metadata/geohydroconnectivity_metadata_rick_colwell.csv | cut -d\, -f1,2,14 | tail -n+2 | sed -e "s|1$|high|g" -e "s|2$|high|g" -e "s|3$|high|g" -e "s|4$|low|g" -e "s|5$|low|g" | sed "s|\,|\,geohydroconnectivity\,|2" >> temp.5.csv
+
 mv temp.5.csv formatted_metadata/metadata_formatted.csv
 
 #importing formatted metadata to database
