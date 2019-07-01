@@ -2,7 +2,7 @@
 
 sIODir=/home/jladau/Desktop/Research/Java/Distribution/CoDL/metadata
 sJavaDir=$sIODir/bin
-sBIOMPath=/home/jladau/Desktop/Research/Data/Microbial_Community_Samples/Subsurface.Global.BacteriaArchaea.CoDL.biom
+sBIOMPath=/home/jladau/Desktop/Research/Java/Distribution/CoDL/metadata/raw_supplementary_metadata/Subsurface.Global.BacteriaArchaea.CoDL.biom
 sUtilitiesDir=/home/jladau/Desktop/Utilities
 
 mkdir -p $sIODir/formatted_metadata
