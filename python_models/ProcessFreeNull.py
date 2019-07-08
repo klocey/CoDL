@@ -3,7 +3,7 @@ import numpy as np
 from os.path import expanduser
 from math import radians, cos, sin, asin, sqrt
 import sys
-from scipy import spatial
+from scipy import spatial, stats
 import geopy
 from geopy.distance import VincentyDistance
 import requests
@@ -18,7 +18,7 @@ mydir = expanduser("~/GitHub/CoDL")
 
 OUT = open(mydir + '/python_models/sim_data/ProcessFreeNull.txt','w+')
 
-headers = 'i,t,min_geo_dist,max_geo_dist,mean_geo_dist,'
+headers = 'sim,mya,min_geo_dist,max_geo_dist,mean_geo_dist,'
 headers += 'min_sorensen,mean_sorensen,max_sorensen,'
 headers += 'min_braycurtis,mean_braycurtis,max_braycurtis,'
 headers += 'min_canberra,mean_canberra,max_canberra,'
@@ -32,7 +32,9 @@ headers += 'min_canberra_nn,mean_canberra_nn,max_canberra_nn,'
 headers += 'min_geo_dist_fn,max_geo_dist_fn,mean_geo_dist_fn,'
 headers += 'min_sorensen_fn,mean_sorensen_fn,max_sorensen_fn,'
 headers += 'min_braycurtis_fn,mean_braycurtis_fn,max_braycurtis_fn,'
-headers += 'min_canberra_fn,mean_canberra_fn,max_canberra_fn'
+headers += 'min_canberra_fn,mean_canberra_fn,max_canberra_fn,'
+
+headers += 'Bray_DD,Sor_DD,Canb_DD'
 
 print>>OUT, headers
 
@@ -45,7 +47,7 @@ def get_abs(species, Sg, lon, lat, map_lons, map_lats, s_o_lons, s_o_lats):
         d = haversine(val, s_o_lats[si], lon, lat)
         dist_from_o.append(d)
     dist_from_o = np.sqrt(np.array(dist_from_o))
-    geo_match = (10/(10+dist_from_o))
+    geo_match = (100/(100+dist_from_o))
     p_or_a0 = np.random.binomial(1, geo_match, Sg) 
 
     
@@ -96,11 +98,11 @@ def get_pts(r, loc1, d):
 
 
 ######################### RUN SIMULATIONS ###############################
-for sim in range(10):
+for sim in range(100):
     pts = []
     ct_m = 0
-    r = 100
-    Sg = 1000
+    r = 250
+    Sg = 10000
     species = np.random.logseries(0.999, Sg)
     
     s_o_lats = []
@@ -139,7 +141,8 @@ for sim in range(10):
             
     s_by_s = np.asarray(s_by_s)
         
-    for t in range(300):
+    ts = [1, 10, 50, 100, 150, 200, 250, 300]
+    for t in ts:
         
         print 'sim:',sim,', mya:',t
         
@@ -163,6 +166,10 @@ for sim in range(10):
         Sor_fn = []
         Canb_fn = []
         Bray_fn = []
+        
+        Bray_DD = []
+        Sor_DD = []
+        Canb_DD = []
         
         for i, pt in enumerate(pts):
             
@@ -213,17 +220,18 @@ for sim in range(10):
                     sor_fn = sor
                     bray_fn = bray
                     canb_fn = canb
-                    
-            Ds_nn.append(d_nn)
-            Sor_nn.append(sor_nn)
-            Canb_nn.append(canb_nn)
-            Bray_nn.append(bray_nn)
+            
+            if d_nn != 10**6 and d_fn != 0:
+                Ds_nn.append(d_nn)
+                Sor_nn.append(sor_nn)
+                Canb_nn.append(canb_nn)
+                Bray_nn.append(bray_nn)
         
-            Ds_fn.append(d_fn)
-            Sor_fn.append(sor_nn)
-            Canb_fn.append(canb_nn)
-            Bray_fn.append(bray_nn)
-        
+                Ds_fn.append(d_fn)
+                Sor_fn.append(sor_fn)
+                Canb_fn.append(canb_fn)
+                Bray_fn.append(bray_fn)
+                
         
         '''
         m = Basemap(projection='ortho', lon_0=0, lat_0=0, resolution='l')
@@ -260,7 +268,7 @@ for sim in range(10):
         mean_canberra = np.mean(Canb)
         max_canberra = max(Canb)
         
-        outlist.extend([i,t,min_geo_dist,max_geo_dist,mean_geo_dist])
+        outlist.extend([sim,t,min_geo_dist,max_geo_dist,mean_geo_dist])
         outlist.extend([min_sorensen,mean_sorensen,max_sorensen])
         outlist.extend([min_braycurtis,mean_braycurtis,max_braycurtis])
         outlist.extend([min_canberra,mean_canberra,max_canberra])
@@ -300,7 +308,19 @@ for sim in range(10):
         outlist.extend([min_sorensen_fn,mean_sorensen_fn,max_sorensen_fn])
         outlist.extend([min_braycurtis_fn,mean_braycurtis_fn,max_braycurtis_fn])
         outlist.extend([min_canberra_fn,mean_canberra_fn,max_canberra_fn])
-    
+        
+        
+        Bray = np.array(Bray)/max(Bray)
+        Sor = np.array(Sor)/max(Sor)
+        Canb = np.array(Canb)/max(Canb)
+        Ds = np.array(Ds)/max(Ds)
+        
+        Bray_slope, Bray_int, r, p, std_err = stats.linregress(Bray, Ds)
+        Sor_slope, Bray_int, r, p, std_err = stats.linregress(Sor, Ds)
+        Canb_slope, Bray_int, r, p, std_err = stats.linregress(Canb, Ds)
+        
+        outlist.extend([Bray_slope,Sor_slope,Canb_slope])
+        
         outlist = str(outlist).strip('[]')
         outlist = outlist.replace(" ", "")
     
